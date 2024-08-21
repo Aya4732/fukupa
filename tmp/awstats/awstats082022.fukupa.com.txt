@@ -1,0 +1,2512 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202208 will be lost/reset.
+# Last config file used to build this data file was /home3/fukupaco/tmp/awstats/awstats.fukupa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2008                
+POS_TIME 2690                
+POS_VISITOR 59034               
+POS_DAY 90804               
+POS_DOMAIN 3635                
+POS_LOGIN 4511                
+POS_ROBOT 4666                
+POS_WORMS 5878                
+POS_EMAILSENDER 6009                
+POS_EMAILRECEIVER 6152                
+POS_SESSION 91713               
+POS_SIDER 91924               
+POS_FILETYPES 6287                
+POS_DOWNLOADS 6495                
+POS_OS 6543                
+POS_BROWSER 7138                
+POS_SCREENSIZE 11440               
+POS_UNKNOWNREFERER 11514               
+POS_UNKNOWNREFERERBROWSER 12422               
+POS_ORIGIN 12985               
+POS_SEREFERRALS 13133               
+POS_PAGEREFS 13365               
+POS_SEARCHWORDS 14426               
+POS_KEYWORDS 14578               
+POS_MISC 2353                
+POS_ERRORS 14637               
+POS_CLUSTER 4367                
+POS_SIDER_404 14798               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220901000721 373 96885 9551929591748
+FirstTime 20220801003646
+LastTime 20220831224223
+LastUpdate 20220901065229 373 0 372 0 0
+TotalVisits 1191                
+TotalUnique 770                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 836                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 12 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 98 433 31183726 182 219 400066
+1 84 316 26388012 267 338 1809598
+2 97 461 45005924 482 751 1283890
+3 55 107 9516906 179 241 3020662
+4 112 208 14892923 231 275 629597
+5 72 83 2696926 174 205 255979
+6 35 39 2048603 171 247 2551240
+7 67 116 4966080 165 235 1138240
+8 85 166 11064258 197 246 478529
+9 54 94 5903965 232 270 712132
+10 83 305 19684563 192 240 270528
+11 63 168 8534838 200 298 3993188
+12 109 589 46161296 247 329 790072
+13 146 367 19032085 215 317 1580514
+14 113 478 30397504 210 321 4588259
+15 110 418 30897156 297 379 1381274
+16 87 409 25583461 164 255 841819
+17 70 273 21555807 318 375 1433235
+18 92 286 12204215 269 334 609899
+19 62 167 9231709 323 394 1334028
+20 111 416 25410733 206 266 1527293
+21 93 242 8849558 967 1192 5106639
+22 82 324 31415329 965 1004 1355665
+23 76 244 15943025 456 502 1679318
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 46
+us 1034 4931 364771638
+ru 496 538 9820327
+cn 108 264 12201199
+gb 54 54 233136
+ca 43 82 6920976
+pl 34 34 175243
+in 33 67 6093328
+jp 28 309 27118327
+de 26 41 2301680
+ua 23 23 109808
+au 14 14 74556
+tw 12 104 11427714
+at 11 11 64747
+ro 10 10 49556
+vn 9 9 40343
+se 9 9 22677
+fr 9 9 47881
+kz 8 8 38553
+nl 8 8 39713
+zz 7 7 34513
+es 6 6 35586
+id 6 6 25777
+tr 6 6 21525
+kh 5 27 4562802
+sc 5 5 12177
+cw 1 1 5931
+dk 1 1 5437
+ee 1 1 2224
+ke 1 18 2173117
+lv 1 1 0
+ir 4 4 10937
+eg 1 1 0
+cz 5 5 21438
+th 2 20 2611770
+cl 1 1 5931
+il 4 4 20387
+ae 1 12 2367888
+kr 5 5 13591
+lt 4 4 15692
+ph 2 22 3491954
+br 4 4 18226
+by 4 4 23724
+bg 1 1 5931
+it 3 3 17793
+hk 5 14 1507412
+eu 1 1 5437
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 28
+spider 479 4609708 20220831215429 0
+bingbot/ 322 6202666 20220831232717 0
+Googlebot/ 272 422678 20220831200906 0
+no_user_agent 208 5557155 20220831190155 0
+robot 131 353265 20220815155315 0
+Apache\-HttpClient/ 102 195639 20220830164617 0
+bot[\s_+:,\.\;\/\\-] 96 1469491 20220830051000 0
+crawl 70 4649626 20220820043847 0
+baidu 46 6007530 20220826143145 0
+Applebot/ 31 620124 20220828211748 0
+DuckDuckGo\-Favicons\-Bot/ 28 53620 20220831124627 0
+seek 28 256082 20220808014918 0
+Googlebot\-Image/ 17 2655675 20220831044018 0
+YandexBot/ 16 31494 20220830081530 0
+(firefox/)([0-9]\.|[0-1][0]\.) 15 32705 20220830065507 0
+Go\-http\-client/ 13 24895 20220830182919 0
+facebookexternalhit/ 9 2686957 20220818015136 0
+Mail\.RU_Bot/ 8 655942 20220830210228 0
+scrapy 6 11490 20220831205618 0
+Baiduspider/ 6 11490 20220826143131 0
+MixrankBot 5 11889 20220819060931 0
+curl 3 10874 20220825233336 0
+nbot 3 5745 20220808050520 0
+2345Explorer/ 2 4139 20220830013938 0
+nutch 1 2224 20220818043828 0
+Yahoo![\x20]Slurp 1 1915 20220824195309 0
+php 1 0 20220803103411 0
+Velen 1 1915 20220820225645 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+png 1900 372704368 0 0
+js 634 1489915 0 0
+css 575 1168130 0 0
+jpg 1544 74749286 0 0
+html 1983 8278245 0 0
+php 28 174950 0 0
+Unknown 45 3708 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 36
+macosx11 63 51
+androidlollipop 1 1
+win7 388 248
+unix 47 4
+androidkitkat 16 16
+androidmarshmallow 32 16
+androidpie 115 11
+macosx6 1 1
+android10 49 10
+linuxubuntu 7 7
+androidnougat 88 55
+winme 9 9
+winlong 5 5
+linux 187 43
+macosx9 22 22
+ios_iphone 1659 172
+androidoreo 104 12
+win16 9 9
+macosx10 19 19
+winunknown 7 7
+win95 11 11
+macosx12 1 1
+win8.1 196 120
+win10 2500 888
+macosx8 1 1
+Unknown 202 87
+macosx14 54 26
+ios_ipad 22 4
+macosx15 533 65
+win8 22 22
+winxp 101 63
+winnt 4 4
+win2000 18 18
+android 143 16
+win2003 3 3
+macosx13 70 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 200
+chrome89.0.4389.82 4 2
+chrome34.0.1847.116 5 5
+firefox45.0 2 2
+opera9.00 3 3
+chrome65.0.3325.109 8 5
+chrome102.0.0.0 18 3
+chrome83.0.4103.24 15 15
+chrome83.0.4098.0 9 9
+chrome63.0.3239.108 1 1
+chrome83.0.4093.3 11 11
+chrome76.0.3809.100 7 1
+safari13.0.3 4 4
+chrome90.0.4400.8 5 5
+opera8.01 6 6
+chrome99.0.4844.88 50 4
+chrome66.0.3359.181 1 1
+msie9.0 95 31
+chrome66.0.2562.120 1 1
+chrome41.0.2227.0 1 1
+safari13.1 21 2
+Unknown 132 31
+chrome83.0.4103.14 7 7
+chrome83.0.4103.61 82 82
+chrome84.0.4112.0 2 2
+chrome100.0.4896.82 7 1
+chrome41.0.2225.0 1 1
+chrome96.0.4664.45 2 2
+chrome83.0.4086.0 16 16
+chrome68.0.3440.25 2 2
+chrome90.0.4430.72 117 117
+chrome95.0.4638.69 36 36
+chrome104.0.0.0 848 79
+chrome88.0.4324.190 3 3
+chrome79.0.3945.136 44 3
+chrome83.0.4099.2 7 7
+chrome84.0.4147.89 3 3
+opera69.0.3686.7 9 9
+chrome94.0.4606.85 17 1
+chrome59.0.3071.125 63 30
+chrome60.0.3112.90 31 31
+chrome83.0.4103.0 4 4
+mozilla 80 66
+chrome80.0.3987.116 1 1
+chrome99.0.4844.51 29 2
+chrome100.0.4896.127 158 11
+netscape5.0 1 1
+chrome39.0.2171.95 17 17
+chrome71.0.3578.98 15 15
+chrome52.0.2733.98 3 3
+chrome80.0.3987.132 2 2
+safari13.0.5 1 1
+chrome83.0.4096.0 10 10
+chrome42.0.0.9757 1 1
+chrome90.0.4430.85 120 120
+chrome76.0.3809.132 12 12
+chrome63.0.3239.132 5 5
+firefox25.0 2 2
+chrome48.0.2564.116 2 2
+chrome72.0.3626.109 16 6
+safari15.6.1 626 54
+chrome39.0.2171.27 3 3
+chrome83.0.4103.34 22 22
+opera7.11 3 3
+iphone 20 4
+firefox38.0 4 4
+edge44 2 2
+chrome53.0.2785.104 1 1
+chrome60.0.3112.107 20 20
+safari14.1.1 1 1
+chrome76.0.3809.71 36 2
+chrome77.0.3865.90 1 1
+chrome83.0.4102.0 4 4
+safari12.1.12 1 1
+chrome92.0.4515.107 18 1
+chrome100.0.4758.11 1 1
+chrome61.0.3163.128 102 10
+chrome87.0.4280.141 3 3
+chrome41.0.2224.3 1 1
+chrome94.0.4606.81 105 0
+chrome104.0.5112.102 110 9
+chrome97.0.4692.87 98 10
+chrome78.0.3904.108 85 85
+chrome96.0.4263.20 1 1
+firefox60.0 2 2
+chrome80.0.3987.122 6 6
+chrome90.0.4430.86 12 12
+chrome83.0.4103.97 30 30
+chrome50.0.2661.102 2 2
+firefox29.0 1 1
+chrome79.0 12 12
+firefox26.0 1 1
+chrome30.0.1599.12785 1 1
+chrome102.0.5005.61 7 1
+chrome80.0.3987.99 47 8
+firefox52.0 57 45
+opera9.0 6 6
+firefox89.0 1 1
+firefox68.0 3 3
+safari3.0.2 1 1
+chrome30.0.1599.13014 1 1
+msie5.5 26 26
+safari 255 28
+firefox59.0 7 7
+chrome83.0.4087.0 8 8
+chrome76.0.3809.136 22 2
+chrome80.0.3987.149 81 81
+chrome66.0.3359.30 17 1
+firefox17.0 41 3
+chrome89.0.4389.114 22 22
+firefox51.0 10 1
+chrome97.0.4692.99 19 1
+safari14.0 1 1
+safari15.3 20 1
+chrome26.0.1410.65 1 1
+firefox21.0 2 2
+chrome45.0.2454.94 1 1
+opera54.0.2952.51 2 2
+firefox65.0 3 3
+chrome33.0.1750.117 1 1
+chrome79.0.3945.117 1 1
+chrome55.0.2883.87 4 4
+chrome66.0.3359.130 1 1
+netscape0.6 3 3
+chrome79.0.3945.130 30 12
+chrome74.0.3729.157 1 1
+safari15.5 238 25
+safari14.1.2 19 2
+firefox64.0 2 2
+chrome80.0.3987.87 44 3
+chrome91.0.4472.114 43 13
+chrome65.0.3169.109 1 1
+firefox83.0 4 4
+chrome40.0.2214.111 1 1
+firefox53.0 3 3
+chrome74.0.3729.169 11 11
+safari15.6 654 61
+chrome79.0.3945.88 1 1
+chrome97.0.4692.71 1 1
+chrome85.0.4183.121 8 8
+firefox103.0 134 14
+chrome99.0.4844.84 17 2
+chrome104.0.5112.81 213 13
+chrome81.0.4044.138 12 12
+safari14.0.3 1 1
+firefox88.0 4 4
+firefox52.9 1 1
+netscape0.91 3 3
+chrome81.0.4044.92 1 1
+firefox62.0 1 1
+firefox58.0 3 3
+firefox28.0 3 3
+chrome68.0.3428.0 2 2
+chrome99.0.4844.83 14 1
+chrome98.0.4758.102 14 1
+chrome49.0.2623.112 8 2
+firefox97.0 1 1
+chrome67.2.3.4 1 1
+netscape4.76 3 3
+chrome68.0.3440.106 3 3
+opera89.0.4447.51 1 1
+chrome83.0.4089.0 8 8
+chrome67.0.3396.99 4 4
+chrome44.0.2403.133 1 1
+chrome92.0.4515.131 1 1
+chrome103.0.5060.134 221 20
+chrome83.0.4103.44 8 8
+msie6.0 49 49
+chrome32.0.1700.102 2 2
+firefox102.0 22 22
+android 15 15
+chrome35.0.1916.47 14 14
+safari12.1.2 21 3
+chrome101.0.4951.54 18 1
+chrome84.0.4147.105 50 12
+chrome90.0.4217.51 1 1
+msie11.0 10 10
+safari5.1 1 1
+chrome75.0.3770.100 34 28
+safari12.0.2 3 3
+msie5.0 9 9
+firefox100.0 1 1
+chrome100.0.4889.0 18 1
+chrome69.0.3451.0 2 2
+chrome62.0.3287.39 1 1
+chrome36.0.1985.125 7 7
+chrome103.0.0.0 370 42
+chrome83.0.4103.106 1 1
+chrome51.0.2704.84 1 1
+safari11.0 1 1
+edge18 5 5
+msie7.0 10 10
+chrome90.0.4430.93 64 64
+opera42.0.2393.94 15 15
+chrome83.0.4100.3 9 9
+chrome68.0.3423.2 2 2
+chrome88.0.4240.193 20 20
+chrome11.0.672.2 1 1
+firefox47.0 5 5
+chrome69.0.3264.105 1 1
+safari15.2 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20220819133909
+Python/3.9_aiohttp/3.8.1 20220828051023
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220823181852
+okhttp/3.3.1 20220823023911
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220830075059
+Python/3.8_aiohttp/3.8.1 20220817230430
+\\\ 20220811122625
+Mozilla/5.0_(compatible;_Dataprovider.com) 20220803002335
+Cpanel-HTTP-Client/1.0 20220819133906
+Mozilla/5.0_(compatible;_Domains_Project/1.3.7;__https://domainsproject.org) 20220819142533
+DDI_System,_LLC 20220831190155
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+\\\ 20220811122625
+Python/3.8_aiohttp/3.8.1 20220817230430
+DDI_System,_LLC 20220831190155
+Cpanel-HTTP-Client/1.0 20220819133906
+okhttp/3.3.1 20220823023911
+Python/3.9_aiohttp/3.8.1 20220828051023
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220823181852
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1004 1154
+From1 8 8
+From2 93 155
+From3 125 125
+From4 826 5267
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+www_google_com 68 130
+baidu 8 8
+www_google_com_hk 1 1
+www_bing_com 11 11
+google_com 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 30
+https://picstories.co 23 23
+https://www.rospromtest.ru/content.php 15 15
+https://dynamusic.net 6 6
+https://porndl.cc 6 6
+https://sochinarkolog.ru/narkologicheskaya-skoraya-pomoshch.html 6 6
+https://zarabotat-na-sajte.ru 6 6
+https://abhomes.net 4 4
+https://jav-fetish.com 3 3
+https://cdmafirst.com 3 3
+https://jobgirl24.ru 3 3
+https://novaporn.cc 3 3
+https://musicscn.com 3 3
+https://sexreliz.org 3 3
+https://sochinarkolog.ru/kapelnitsa-ot-narkotikov-na-domu.html 3 3
+https://kasseta.cc 3 3
+https://sochinarkolog.ru/reabilitatsiya.html 3 3
+https://pizdeishn.net 3 3
+https://xrabbit.cc 3 3
+https://top100web.info 3 3
+https://hexagonit.biz 3 3
+https://goodkiss.info 3 3
+https://spanking.to 3 3
+https://javxxx18.com 3 3
+https://javlibrary.cc 3 3
+http://www.mtras.xyz 2 2
+https://www.glassdoor.com 1 1
+http://www.maingeo.com 2 2
+http://plastic.oie.go.th 1 1
+https://crm.xiaoman.cn 1 1
+https://hawaii.vivinavi.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+409 1401 115619
+404 2892 0
+406 2707 611782
+101 35 0
+302 1 0
+403 4 536
+206 12 1494082
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1012
+/dev 8 www.google.com
+/Backup 3 www.google.com
+/Templates/user/js/global.js 1 http://fukupa.com/Templates/user/js/global.js
+/sym403.php 2 -
+/paper_products.html/js/jquery.slicknav.js 2 -
+/Demo 3 www.google.com
+/my_alfa.php 2 https://www.google.com
+/style.php 1 -
+/js/json.js 1 http://fukupa.com/js/json.js
+/api/system/system/config/get 1 http://fukupa.com/api/system/system/config/get
+/food_pack.ht 1 -
+/static/home/imgs/jkjl.png 1 http://fukupa.com/static/home/imgs/jkjl.png
+/dist/images/mask/guide/cn/step1.jpg 1 http://fukupa.com/dist/images/mask/guide/cn/step1.jpg
+/static/common/js/vant/vant.min.js 1 http://fukupa.com/static/common/js/vant/vant.min.js
+/media/system/js/core.js 1 -
+/web/wp-admin/install.php 1 -
+/haccess.php 1 -
+/rss.php 2 -
+/kk.php 2 -
+/WordPress 4 www.google.com
+/config/aws.yml 1 -
+/otc/ 1 http://fukupa.com/otc/
+/ws/index/getTheLotteryInitList 1 http://fukupa.com/ws/index/getTheLotteryInitList
+/sym.php 2 -
+/.credentials.php 1 -
+/backup/ 1 -
+/wp-login.php 1 -
+/api/shares/hqStrList 1 http://fukupa.com/api/shares/hqStrList
+/zz2/address.php 1 http://fukupa.com/zz2/address.php
+/public/static/css/public.css 1 http://fukupa.com/public/static/css/public.css
+/doc.php 5 -
+/blog/wp-admin/install.php 1 -
+/api/lottery/color 1 http://fukupa.com/api/lottery/color
+//mages/btn_sashimi.png 3 http://sst.xslwf.com/
+/WSO.php 2 -
+/css/album.css 2 -
+/assets/images/mobile/dou_charge_money_icon.png 1 http://fukupa.com/assets/images/mobile/dou_charge_money_icon.png
+/ups.php 5 -
+/mobile/lists.html 1 http://fukupa.com/mobile/lists.html
+/1.php 2 -
+/Public/uploads/web/step1.png 1 http://fukupa.com/Public/uploads/web/step1.png
+/wp-includes/Requests/class-wp.php 1 -
+/statics/js/API.js 1 http://fukupa.com/statics/js/API.js
+/api/public/ 1 http://fukupa.com/api/public/
+/wp-admin/alfa.php 2 -
+/site/wp-admin/install.php 1 -
+/BAK 1 www.google.com
+/wp-class.php 1 -
+/debug/default/view 1 -
+/blog.php 2 -
+/sashimi.html/js/jquery.easy-rollover.js 2 -
+/blog/xmlrpc.php 105 -
+/js/pups.js 1 http://fukupa.com/js/pups.js
+/xx.php 4 -
+/s/3136322e3234312e3231372e3234/_/ 3 -
+/sdk.html 1 http://fukupa.com/sdk.html
+/proxy/games 1 http://fukupa.com/proxy/games
+/var/cache/mage--2/ 1 -
+/assets/global/plugins/jquery-file-upload/server/php/ 2 -
+/alfa.php 4 -
+/mytio/config/base 1 http://fukupa.com/mytio/config/base
+/api/config/getwebsitename 1 http://fukupa.com/api/config/getwebsitename
+/small.php 2 -
+/bkp 7 www.google.com
+/assets/jquery-file-upload/server/php/ 2 -
+/melody/api/v1/pageconfig/list 1 http://fukupa.com/melody/api/v1/pageconfig/list
+/admin/timthumb.php 1 -
+/wp-includes/customize/class-wp-customize-nav-menu.php 2 -
+/common/template/lottery/lecai/css/style.css 1 http://fukupa.com/common/template/lottery/lecai/css/style.css
+/wp-logs.php 1 -
+/new/Telerik.Web.UI.WebResource.axd 2 -
+/lanren/css/global.css 1 http://fukupa.com/lanren/css/global.css
+/js/a.script 1 http://fukupa.com/js/a.script
+/wp-admin/fw.php 2 -
+/static/content.html 1 http://fukupa.com/static/content.html
+/wp-content/contents.php 1 -
+/1index.php 6 -
+/ads.txt 64 -
+/thriveGame.css 1 http://fukupa.com/thriveGame.css
+/assets/dist/static/js/vendor_prod.js 1 http://fukupa.com/assets/dist/static/js/vendor_prod.js
+/BLOG/ 3 -
+/lyda.php 1 -
+/food_pack.html/js/jquery.easy-rollover.js 1 -
+/standalone.html 1 http://fukupa.com/standalone.html
+/img/phonetrackeronline.png 1 http://fukupa.com/img/phonetrackeronline.png
+/wordpress 11 www.google.com
+/logo.png 1 http://fukupa.com/logo.png
+/api/im/v2/app/config 1 http://fukupa.com/api/im/v2/app/config
+/Home/Index/ajaxTJ 1 http://fukupa.com/Home/Index/ajaxTJ
+/mar.php 2 -
+/phpinfo.html 1 -
+/thumb.php 1 -
+/backup-new 1 www.google.com
+/.git/config 3 -
+/images/editor/separator.gif 1 -
+/static/home/css/css.css 1 http://fukupa.com/static/home/css/css.css
+/css/nsc/reset.css 1 http://fukupa.com/css/nsc/reset.css
+/mmj/index.html 1 http://fukupa.com/mmj/index.html
+/phpmyadmin/ 1 -
+/admin/thumb.php 1 -
+/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png 1 http://fukupa.com/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png
+/res/kuai/21.css 1 http://fukupa.com/res/kuai/21.css
+/apple-touch-icon-precomposed.png 8 -
+/wp-options.php 1 -
+/bkp-two 1 www.google.com
+/user/login.html 1 http://fukupa.com/user/login.html
+/files/pub_reset.css 1 http://fukupa.com/files/pub_reset.css
+/js/smoothscroll.js 5 -
+/403.php 2 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 1 -
+/api/v2/config/index 1 http://fukupa.com/api/v2/config/index
+/.aws/.credentials.php 1 -
+/sql.php 1 -
+//autoload_classmap.php 1 -
+/h.php 2 -
+/resources/css/headernav.css 1 http://fukupa.com/resources/css/headernav.css
+/yyqxcavy.php 1 www.google.com
+/api/message/webInfo 1 http://fukupa.com/api/message/webInfo
+/a.php 2 -
+/login/img/nyyh/chkjs.js 1 http://fukupa.com/login/img/nyyh/chkjs.js
+/ipl/app/flash/publicbmw/ball/FigLeaf.js 1 http://fukupa.com/ipl/app/flash/publicbmw/ball/FigLeaf.js
+//wp-includes/wp-class.php 2 -
+/donburi_noodle.html/js/jquery.slicknav.js 1 -
+/wi.php 2 -
+/assets/app-manifest.json 1 http://fukupa.com/assets/app-manifest.json
+/wap/api/exchangerateuserconfig!get.action 1 http://fukupa.com/wap/api/exchangerateuserconfig!get.action
+/skipper.php 2 https://www.google.com
+/inc20k1.php 2 https://www.google.com
+/1337.php 4 -
+/index.php/Wap/Api/getSystemNotice 1 http://fukupa.com/index.php/Wap/Api/getSystemNotice
+/index 1 http://fukupa.com/index
+/database/ 1 -
+/wp-admin/admin-ajax.php 3 http://fukupa.com
+/blogs 4 www.google.com
+/index/webapi/service 1 http://fukupa.com/index/webapi/service
+/old/installer.php 1 -
+/wp-includes/fw.php 2 -
+/css/scanner.css 1 http://fukupa.com/css/scanner.css
+/detail6/image/sjrz.png 1 http://fukupa.com/detail6/image/sjrz.png
+/3index.php 4 -
+/phpinfo 1 -
+/backup 10 www.google.com
+/u.php 2 -
+/static/img/notices.png 1 http://fukupa.com/static/img/notices.png
+/2index.php 4 -
+/manager/js/left.js 1 http://fukupa.com/manager/js/left.js
+/core/misc/drupal.js 3 -
+/kehqbirlwa.php 1 -
+/wp-content/plugins/simple-ads-manager/css/jslider.round.plastic.css 1 -
+/10.php 2 -
+/js/common.js 1 http://fukupa.com/js/common.js
+/oldsite/wp-admin/install.php 1 -
+/iyeoqueb.php 1 www.google.com
+/0.php 2 -
+/shx.php 4 -
+/j.php 2 -
+/js/bk.min.js 1 http://fukupa.com/js/bk.min.js
+/admin/assets/plugins/jquery-file-upload/server/php/ 2 -
+/admin/assets/plugins/jQuery-File-Upload/server/php/ 2 -
+/bkp2 3 www.google.com
+/swm.php 2 https://www.google.com
+/detaila/js/unified_service.js 1 http://fukupa.com/detaila/js/unified_service.js
+/assets/res/mods/room.js 1 http://fukupa.com/assets/res/mods/room.js
+/dungtssq.php 1 www.google.com
+/zxkj/js/customer-chat-widget.min.js 1 http://fukupa.com/zxkj/js/customer-chat-widget.min.js
+/x404.php 1 -
+/site 6 www.google.com
+/server-status 3 -
+/smtphec.php 1 -
+/g.php 2 -
+/.DS_Store 3 -
+/static/js/config.js 1 http://fukupa.com/static/js/config.js
+/im/ 1 http://fukupa.com/im/
+/misc/ajax.js 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/template/920ka/js/woodyapp.js 1 http://fukupa.com/template/920ka/js/woodyapp.js
+/api/pc/cms-config 1 http://fukupa.com/api/pc/cms-config
+/index/index/ajaxdata 1 http://fukupa.com/index/index/ajaxdata
+/x.php 4 -
+/blog/ 2 -
+/restaurant_supplies.html/js/smoothscroll.js 1 -
+/blog 8 www.google.com
+/index/api/getconfig 1 http://fukupa.com/index/api/getconfig
+/admin/assets/file-uploader/server/php/index.php 1 -
+/sashimi.html/js/jquery.slicknav.js 2 -
+/ckeditor/plugins/kcfinder/upload.php 2 -
+/Buy/Index/getCardListByType 1 http://fukupa.com/Buy/Index/getCardListByType
+/stock/search.html 1 http://fukupa.com/stock/search.html
+/bb.php 4 -
+//sitemap.html 2 -
+/xxx.php 2 -
+/ok.php 2 -
+/infe/rest/fig/advertise/common.json 1 http://fukupa.com/infe/rest/fig/advertise/common.json
+/m/ 2 http://fukupa.com/m/
+/public/static/css/denglu.css 1 http://fukupa.com/public/static/css/denglu.css
+/y.php 2 -
+/info.php 4 -
+/administrator/help/en-GB/toc.json 5 -
+/index/overt/regist/inviteid 1 http://fukupa.com/index/overt/regist/inviteid
+/mt/mt-xmlrpc.cgi 1 -
+/administrator/language/en-GB/en-GB.xml 4 -
+/api/contactWay 1 http://fukupa.com/api/contactWay
+/images/no.jpg 1 http://fukupa.com/images/no.jpg
+/login.html 2 http://fukupa.com/login.html
+/Public/initJs.php 1 http://fukupa.com/Public/initJs.php
+/lufix.php 2 -
+/not.php 1 -
+/olux.php 3 -
+/home/main/login 1 http://fukupa.com/home/main/login
+/static/images/login_bg.jpg 1 http://fukupa.com/static/images/login_bg.jpg
+/n.php 2 -
+/web/api/getBanner 1 http://fukupa.com/web/api/getBanner
+/index/ 1 http://fukupa.com/index/
+/2.php 2 -
+/assets/plugins/jquery-file-upload/server/php/ 2 -
+/3.php 2 -
+/wp-includes/images/wlw/javascripts/js/wp-logs.php 1 -
+/index/login/login 1 http://fukupa.com/index/login/login
+/13.php 2 -
+/dnbwufwr.php 1 www.google.com
+/plugins/kcfinder/upload.php 2 -
+/images/myjs.js 1 http://fukupa.com/images/myjs.js
+/b.php 2 -
+//vendor/phpunit/phpunit/phpunit.xsd 4 -
+/user/getAllNicknames 1 http://fukupa.com/user/getAllNicknames
+/hetong/yq 1 http://fukupa.com/hetong/yq
+/blog/robots.txt 1 -
+//mages/top_img.png 3 http://sst.xslwf.com/
+/wordpress/wp-json/wp/v2/users 1 -
+/apple-touch-icon.png 10 -
+/wp-includes/js/jquery/jquery-migrate.min.js 4 -
+/template/tmp1/js/common.js 1 http://fukupa.com/template/tmp1/js/common.js
+/img/subsidy/kh.png 1 http://fukupa.com/img/subsidy/kh.png
+/fdzwxctv.php 1 www.google.com
+/curvy.php 1 -
+/xindex.php 2 -
+/marijuana.php 2 https://www.google.com
+/app/common/getRegisterSet 1 http://fukupa.com/app/common/getRegisterSet
+/wp-admin/css/colors/blue/wp-logs.php 1 -
+/api/exclude/siteConfig/webSiteConfig 1 http://fukupa.com/api/exclude/siteConfig/webSiteConfig
+/css/all.css 1 http://fukupa.com/css/all.css
+/3301.php 2 -
+/static/js/user.js 1 http://fukupa.com/static/js/user.js
+/100.php 2 -
+/mstock 1 http://fukupa.com/mstock
+/shell4.php 2 https://www.google.com
+/wap/trading/lastKlineParameter 1 http://fukupa.com/wap/trading/lastKlineParameter
+/wp-content/plugins/dzs-zoomsounds/savepng.php 4 -
+/backup-core 3 www.google.com
+/xox.php 2 -
+/8.php 2 -
+/static/Mobile/js/common.js 1 http://fukupa.com/static/Mobile/js/common.js
+/xmlrpc.php 111 -
+/index.php/Home/Public/login.html 1 http://fukupa.com/index.php/Home/Public/login.html
+/Application/Buy/Static/js/if.js 1 http://fukupa.com/Application/Buy/Static/js/if.js
+/template/css/login.css 1 http://fukupa.com/template/css/login.css
+/index/login/reg.html 1 http://fukupa.com/index/login/reg.html
+/kkrps/im_group/show_members 1 http://fukupa.com/kkrps/im_group/show_members
+/config.json 3 -
+/assets/file-uploader/server/php/index.php 1 -
+/blog/wp-json/wp/v2/users 1 -
+/wp-confiig.php 2 -
+/images/12.png 1 http://fukupa.com/images/12.png
+/v1/getConfig 1 http://fukupa.com/v1/getConfig
+/myadmin/ 1 -
+/api/user/mobilelogin 1 http://fukupa.com/api/user/mobilelogin
+/cgi-bin/mt//RxR.php 1 -
+/hg556/js/main.js 1 http://fukupa.com/hg556/js/main.js
+/admin/index.php 15 -
+/inje3ctor.php 2 https://www.google.com
+/food_pack.html/js/jquery.slicknav.js 2 -
+/admin/view/javascript/common.js 2 -
+/detail1/js/add.js 1 http://fukupa.com/detail1/js/add.js
+/4.php 2 -
+/upload/server/php-files/index.php 1 -
+/room/getRoomBangFans 1 http://fukupa.com/room/getRoomBangFans
+/wp-admin/install.php 1 -
+/v.php 2 -
+/wordpress-old 6 www.google.com
+/th1s_1s_a_4o4.html 31 http://www.google.com/url
+/static/home/imgs/pico.png 1 http://fukupa.com/static/home/imgs/pico.png
+/sucai/zxkf.png 1 http://fukupa.com/sucai/zxkf.png
+/index/user/login.html 1 http://fukupa.com/index/user/login.html
+/views/home/home.js 1 http://fukupa.com/views/home/home.js
+/installer.php 2 -
+/assets/AssetManifest.json 1 http://fukupa.com/assets/AssetManifest.json
+/about.html/js/smoothscroll.js 2 -
+/site.js 1 http://fukupa.com/site.js
+/skippershell.php 2 https://www.google.com
+/fivzvgiw.php 1 www.google.com
+/api/hevent 1 http://fukupa.com/api/hevent
+/contact.html/js/smoothscroll.js 1 -
+/copy 4 www.google.com
+/h5.html 1 http://fukupa.com/h5.html
+/style.css 1 http://fukupa.com/style.css
+/index/aurl 1 http://fukupa.com/index/aurl
+/resources/main/common.js 1 http://fukupa.com/resources/main/common.js
+/wap/ 2 http://fukupa.com/wap/
+/h5/ 3 http://fukupa.com/h5/
+/wp-admin/radio.php 2 -
+/assets/kcfinder/upload.php 2 -
+/wp-includes/radio.php 2 -
+/static/data/configjs.js 1 http://fukupa.com/static/data/configjs.js
+/admin/webadmin.php 1 http://fukupa.com/admin/webadmin.php
+/old/xmlrpc.php 105 -
+/old_prod 1 www.google.com
+/public/assets/file-uploader/server/php/index.php 1 -
+/Public/home/wap/css/qdgame.css 1 http://fukupa.com/Public/home/wap/css/qdgame.css
+/index.php/Wap/Api/getBanner 1 http://fukupa.com/index.php/Wap/Api/getBanner
+/a/other/codepay/js/codepay_util.js 1 http://fukupa.com/a/other/codepay/js/codepay_util.js
+/js/subsidy/bk.min.js 1 http://fukupa.com/js/subsidy/bk.min.js
+/1-200611214053U8.jpg 1 http://fukupa.com/1-200611214053U8.jpg
+/Home/Bind/binding 1 http://fukupa.com/Home/Bind/binding
+/uploads/admin/202103/60584c5b88017.png 1 http://fukupa.com/uploads/admin/202103/60584c5b88017.png
+/static/index/js/lk/order.js 1 http://fukupa.com/static/index/js/lk/order.js
+/Css/Hm.css 1 http://fukupa.com/Css/Hm.css
+/Leaf.php 2 https://www.google.com
+/zoushi 1 http://fukupa.com/zoushi
+/apiApp/app/site/info 1 http://fukupa.com/apiApp/app/site/info
+/api/client/home_project_list 1 http://fukupa.com/api/client/home_project_list
+/wp-includes/ID3/license.txt 23 -
+/detaila/images/h_v33_i.png 1 http://fukupa.com/detaila/images/h_v33_i.png
+/api/lastestBetLog 1 http://fukupa.com/api/lastestBetLog
+//index.php 2 -
+/data/json/config.json 1 http://fukupa.com/data/json/config.json
+/resource/home/css/person.css 1 http://fukupa.com/resource/home/css/person.css
+/about.html/js/jquery.slicknav.js 1 -
+/public/web/css/add//index.css 1 http://fukupa.com/public/web/css/add//index.css
+/js/home.js 1 http://fukupa.com/js/home.js
+/deli_souzai_appetizer.html/js/jquery.slicknav.js 2 -
+/index_files/bankCheck.js 1 http://fukupa.com/index_files/bankCheck.js
+/vuln.php 4 -
+/m/env.js 1 http://fukupa.com/m/env.js
+/6.php 2 -
+/wp-plain.php 15 www.google.com
+/source/20220119/static/wap/css/trade-history.css 1 http://fukupa.com/source/20220119/static/wap/css/trade-history.css
+/wp-content/themes/wp_mna.php 1 -
+/css/other.css 1 http://fukupa.com/css/other.css
+/7.php 2 -
+/donburi_noodle.html/js/jquery.easy-rollover.js 1 -
+/mindex.html 1 http://fukupa.com/mindex.html
+/members 1 www.google.com
+/index/newapi/api 1 http://fukupa.com/index/newapi/api
+/stock/mzhishu 1 http://fukupa.com/stock/mzhishu
+/Content/common/web/CommonActivity.css 1 http://fukupa.com/Content/common/web/CommonActivity.css
+/wap/forward 1 http://fukupa.com/wap/forward
+/static/admincp/js/common.js 1 http://fukupa.com/static/admincp/js/common.js
+/blog/installer.php 1 -
+/content.php 2 -
+/var/resource_config.json 1 -
+/assets/mstock/newimg/guid-title.png 1 http://fukupa.com/assets/mstock/newimg/guid-title.png
+/BACKUP 7 www.google.com
+/index/gzid.js 1 http://fukupa.com/index/gzid.js
+//mages/btn_sushi.png 3 http://sst.xslwf.com/
+/img/login.png 1 http://fukupa.com/img/login.png
+/website-sitemap.xml 2 -
+/api/product/info/1 1 http://fukupa.com/api/product/info/1
+/getConfig/listPopFrame.do 2 http://fukupa.com/getConfig/listPopFrame.do
+/login.action 3 -
+/home/banner/getLogo 1 http://fukupa.com/home/banner/getLogo
+//wp-1ogin_bak.php 2 -
+/wp-content/radio.php 3 -
+/index/index/login.html 1 http://fukupa.com/index/index/login.html
+/ckeditor/kcfinder/upload.php 2 -
+/old/ 1 -
+/deli_souzai_appetizer.html/js/jquery.easy-rollover.js 3 -
+/shell.php 5 -
+/oldsite/ 1 -
+/wordpress/wp-admin/install.php 1 -
+/Hander/emploer_Handler.ashx 1 http://fukupa.com/Hander/emploer_Handler.ashx
+/mobile/css/base.css 1 http://fukupa.com/mobile/css/base.css
+/index.php/api/other/appSetting 1 http://fukupa.com/index.php/api/other/appSetting
+/telescope/requests 3 -
+/cms.php 2 -
+//mages/btn_bento.png 3 http://sst.xslwf.com/
+/js/header-rollup-554.js 1 -
+/vendor/phpunit/phpunit/phpunit.xml 1 -
+/js/post.js/ 1 http://fukupa.com/js/post.js/
+/new/ 1 -
+/legal/currency/set 1 http://fukupa.com/legal/currency/set
+//wp-admin/images/autoload_classmap.php 1 -
+/mg/other/codepay/js/codepay_util.js 1 http://fukupa.com/mg/other/codepay/js/codepay_util.js
+/assets/yibao/Nweshebao/img/icon2.png 1 http://fukupa.com/assets/yibao/Nweshebao/img/icon2.png
+/wp-info.php 3 -
+/infe/rest/flash/getServerIP.json 1 http://fukupa.com/infe/rest/flash/getServerIP.json
+/api/config/proxy_servers 1 http://fukupa.com/api/config/proxy_servers
+/backup/installer.php 1 -
+/wp-commentin.php 4 -
+/projectConfig 1 http://fukupa.com/projectConfig
+/images/remen.png 1 http://fukupa.com/images/remen.png
+/mail/config-v1.1.xml 1 -
+/static/home/css/common.css 1 http://fukupa.com/static/home/css/common.css
+/Oldfiles 2 www.google.com
+/api/v1/about 1 http://fukupa.com/api/v1/about
+/room/script/face.js 1 http://fukupa.com/room/script/face.js
+/paper_products.html/js/smoothscroll.js 2 -
+/Pay_Index.html 1 http://fukupa.com/Pay_Index.html
+/ur76ju/ 1 -
+/OLDSITE 2 www.google.com
+/wp-content/fx.php 2 -
+/api/im/v2/app/t 1 http://fukupa.com/api/im/v2/app/t
+/votes.php 1 -
+/anquan/qgga.asp 1 http://fukupa.com/anquan/qgga.asp
+/wp/wp-json/wp/v2/users 1 -
+/static/wap/js/common.js 1 http://fukupa.com/static/wap/js/common.js
+/static/js/common.js 1 http://fukupa.com/static/js/common.js
+/assets/plugins/file-uploader/server/php/index.php 1 -
+/leftDao.php 1 http://fukupa.com/leftDao.php
+/newsite 7 www.google.com
+/blog/wp-content/plugins/instabuilder2/assets/css/instabuilder2.css 5 www.google.com
+/wordpress/wp-content/plugins/instabuilder2/assets/css/instabuilder2.css 5 www.google.com
+/bento.html/js/jquery.easy-rollover.js 2 -
+/static/home/js/rooms.js 1 http://fukupa.com/static/home/js/rooms.js
+/stock2c1/api/site/getInfo.do 1 http://fukupa.com/stock2c1/api/site/getInfo.do
+/demo 7 www.google.com
+/css/skin/ymPrompt.css 1 http://fukupa.com/css/skin/ymPrompt.css
+/web_old 2 www.google.com
+/s_api/basic/download/info 1 http://fukupa.com/s_api/basic/download/info
+/Template/Mobile/js/main.js 1 http://fukupa.com/Template/Mobile/js/main.js
+/static/imgs/game/green2.png 1 http://fukupa.com/static/imgs/game/green2.png
+/sashimi.html/js/smoothscroll.js 2 -
+/ajax 1 http://fukupa.com/ajax
+/alf.php 2 -
+/about.html/js/jquery.easy-rollover.js 2 -
+/gxdyrobk.php 1 www.google.com
+/Home/Get/getJnd28 1 http://fukupa.com/Home/Get/getJnd28
+/api/link/platform 2 http://fukupa.com/api/link/platform
+/upload/server/php-directory/index.php 1 -
+/user/Login 1 http://fukupa.com/user/Login
+/mobile21/js/index/gameManagement.js 1 http://fukupa.com/mobile21/js/index/gameManagement.js
+/wp 11 www.google.com
+/test_404_page/ 7 -
+/static/diff_worker.js 1 http://fukupa.com/static/diff_worker.js
+/new/wp-admin/install.php 1 -
+/0byte.php 2 -
+/wp-content/plugins/instabuilder2/assets/css/instabuilder2.css 5 www.google.com
+/ru.php 2 https://www.google.com
+/deli_souzai_appetizer.html/js/smoothscroll.js 3 -
+/js/kcfinder/upload.php 2 -
+/js/base1.js 1 http://fukupa.com/js/base1.js
+/static/mobile/user.html 1 http://fukupa.com/static/mobile/user.html
+/api/mstock/getsystemprivate 1 http://fukupa.com/api/mstock/getsystemprivate
+/static/common/js/common.js 1 http://fukupa.com/static/common/js/common.js
+/img/xxing.png 1 http://fukupa.com/img/xxing.png
+/old.file 3 www.google.com
+/ALFA_DATA/alfacgiapi/perl.alfa 11 www.google.com
+/index/open/login.html 1 http://fukupa.com/index/open/login.html
+/config 1 http://fukupa.com/config
+/lib/public.js 1 http://fukupa.com/lib/public.js
+/new/xmlrpc.php 105 -
+/biz/server/config 1 http://fukupa.com/biz/server/config
+/index.php 3 -
+/.aws.yml 1 -
+/apple-touch-icon-120x120-precomposed.png 2 -
+/csjs/bankCheck.js 1 http://fukupa.com/csjs/bankCheck.js
+/m/lotto-h5/manifest.json 1 http://fukupa.com/m/lotto-h5/manifest.json
+/api/user/dataDictionaryService/list 1 http://fukupa.com/api/user/dataDictionaryService/list
+/wp-wso.php 2 -
+/api/web/user/getIndexData.php 1 http://fukupa.com/api/web/user/getIndexData.php
+/reg.php 1 http://fukupa.com/reg.php
+/old_files 10 www.google.com
+/api/backstageManagement/system/systemConfigForPlatform 1 http://fukupa.com/api/backstageManagement/system/systemConfigForPlatform
+//mages/h1_logo.png 3 http://sst.xslwf.com/
+/static/home/css/feiqi-ee5401a8e6.css 1 http://fukupa.com/static/home/css/feiqi-ee5401a8e6.css
+/wp.php 4 -
+/bc 3 -
+/Navir.php 2 https://www.google.com
+/d.php 2 -
+/mobile/login.html 1 http://fukupa.com/mobile/login.html
+/mobile 1 http://fukupa.com/mobile
+/public/wap/js/basis.js 1 http://fukupa.com/public/wap/js/basis.js
+/static/wap/css/common.css 1 http://fukupa.com/static/wap/css/common.css
+/cms 4 www.google.com
+/wp-load.php 1 fukupa.com
+/client/api/findFreeTrade 1 http://fukupa.com/client/api/findFreeTrade
+/assets/mstock/newimg/guid-info.png 1 http://fukupa.com/assets/mstock/newimg/guid-info.png
+/v2/block/home/app/hot 1 http://fukupa.com/v2/block/home/app/hot
+/api/stock/getSingleStock.do 1 http://fukupa.com/api/stock/getSingleStock.do
+/myConfig.js 1 http://fukupa.com/myConfig.js
+/static/js/jump/go.js 1 http://fukupa.com/static/js/jump/go.js
+/assets/images/mobile/dou_icon_money.png 1 http://fukupa.com/assets/images/mobile/dou_icon_money.png
+/m 1 http://fukupa.com/m
+/dlkzbkzr.php 1 www.google.com
+/wp-content/wso.php 2 -
+/public/static/home/js/moblie/login.js 1 http://fukupa.com/public/static/home/js/moblie/login.js
+/pma/ 1 -
+/ph_acquireSession 1 http://fukupa.com/ph_acquireSession
+/e/data/js/ajax.js 2 -
+/images/tg/appStore/top.png 1 http://fukupa.com/images/tg/appStore/top.png
+/wp-admin/wp.php 2 -
+/phpinfo.php 1 -
+/it.php 2 -
+/wso.php 5 -
+/wp-content/shell.php 2 -
+/wp-includes/css/css.php 1 -
+/landing 2 www.google.com
+/api/Index/getLottery 1 http://fukupa.com/api/Index/getLottery
+/ws.php 4 -
+/assets/source/list.css 1 http://fukupa.com/assets/source/list.css
+/oldwebsite 8 www.google.com
+/wp-2019.php 1 -
+/p.php 2 -
+//mages/btn_pp.png 3 http://sst.xslwf.com/
+/site/get-hq 1 http://fukupa.com/site/get-hq
+/static/idcard3.png 1 http://fukupa.com/static/idcard3.png
+/home/help 1 http://fukupa.com/home/help
+/backup/wp-admin/install.php 1 -
+/old2/ 1 -
+/old2 1 www.google.com
+/cgi-bin/mt/mt-xmlrpc.cgi 2 -
+/assets/js/file-uploader/server/php/index.php 1 -
+/old-site 8 www.google.com
+//wp-content/haccess.php 1 -
+/im/in/GetUuid 1 http://fukupa.com/im/in/GetUuid
+/img/zllqdk.png 1 http://fukupa.com/img/zllqdk.png
+/newApp/winMessTopQuery.php 1 http://fukupa.com/newApp/winMessTopQuery.php
+/www.php 2 -
+/old_core 3 www.google.com
+/index.php/User/sendsmscode 1 http://fukupa.com/index.php/User/sendsmscode
+/assets/extension/market/css/mt4.css 1 http://fukupa.com/assets/extension/market/css/mt4.css
+/haxo.php 1 -
+/edit-form.php 4 -
+/wp-admin/x.php 2 -
+/app/ 2 http://fukupa.com/app/
+/local.php 1 -
+/new1 5 www.google.com
+/api/help_documents/nitice_list 1 http://fukupa.com/api/help_documents/nitice_list
+/assets/global/plugins/jQuery-File-Upload/server/php/ 2 -
+/new.php 4 -
+/hacked.php 2 https://www.google.com
+/skin/main/onload.js 1 http://fukupa.com/skin/main/onload.js
+/api/config/info 1 http://fukupa.com/api/config/info
+/pages/console/js/common.js 1 http://fukupa.com/pages/console/js/common.js
+/wap/static//images/index_tzjr.png 1 http://fukupa.com/wap/static//images/index_tzjr.png
+/client/api/findConfigByKey 1 http://fukupa.com/client/api/findConfigByKey
+/assets/etc/query.css 1 http://fukupa.com/assets/etc/query.css
+//wp-includes/css/css.php 2 -
+/c.php 2 -
+/uploads/up.php 2 -
+/MARIJUANA.php 2 -
+/fukupa 7 www.google.com
+/plugins/filemanager/php/connector.minimal.php 1 -
+//wp-blog.php 2 -
+/priv8.php 4 -
+/202110/images/public.css 1 http://fukupa.com/202110/images/public.css
+/static/v2/css/index.css 1 http://fukupa.com/static/v2/css/index.css
+/source/20220119/static/wap/js/order.js 1 http://fukupa.com/source/20220119/static/wap/js/order.js
+/static/wap/css/tipmask.css 1 http://fukupa.com/static/wap/css/tipmask.css
+/l.php 2 -
+/6/ 1 http://fukupa.com/6/
+/wap.html 1 http://fukupa.com/wap.html
+/detaila/js/ntkfstat.js 1 http://fukupa.com/detaila/js/ntkfstat.js
+/install.inc/vipsignInstall.css 1 http://fukupa.com/install.inc/vipsignInstall.css
+/alfacgiapi/perl.alfa 11 www.google.com
+/n/news/banner 1 http://fukupa.com/n/news/banner
+//wp-includes/images/css.php 2 -
+/z.php 2 -
+/owl.php 2 -
+/bento.html/js/smoothscroll.js 2 -
+/h5 1 http://fukupa.com/h5
+/xl.php 2 -
+/.well-known/autoconfig/mail/config-v1.1.xml 1 -
+/js/bankCheck.js 1 http://fukupa.com/js/bankCheck.js
+/static/index/css/iindex.css 1 http://fukupa.com/static/index/css/iindex.css
+/wp-admin.php 4 -
+/im/h5/ 1 http://fukupa.com/im/h5/
+/api/config-init 1 http://fukupa.com/api/config-init
+/123 7 www.google.com
+/ajax/allcoin_a/id/0 1 http://fukupa.com/ajax/allcoin_a/id/0
+/41.php 2 -
+/wp/wp-admin/install.php 1 -
+/old/wp-json/wp/v2/users 1 -
+/wp-js.php 1 -
+/res/kuai/1.css 1 http://fukupa.com/res/kuai/1.css
+/static/guide/ab.css 1 http://fukupa.com/static/guide/ab.css
+/Content/m_1/js/m_1_Jquery.js 1 http://fukupa.com/Content/m_1/js/m_1_Jquery.js
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 3 -
+/new 7 www.google.com
+/js/main.js 1 http://fukupa.com/js/main.js
+/home/login.jpg 1 http://fukupa.com/home/login.jpg
+/admin/includes/general.js 1 -
+/minimo.php 2 -
+/lf.php 4 -
+/common.js 1 http://fukupa.com/common.js
+/wso2.php 2 -
+/baindex.php 2 -
+/h5/static/tabbar/txl.png 1 http://fukupa.com/h5/static/tabbar/txl.png
+/index/police/index.html 1 http://fukupa.com/index/police/index.html
+/Public/Home/ecshe_css/main.css 1 http://fukupa.com/Public/Home/ecshe_css/main.css
+/static/download/style.css 1 http://fukupa.com/static/download/style.css
+/Public/Mobile/ecshe_css/wapmain.css 1 http://fukupa.com/Public/Mobile/ecshe_css/wapmain.css
+/wap/trading/get_newallorder_ajax 1 http://fukupa.com/wap/trading/get_newallorder_ajax
+/app/config/getConfig 1 http://fukupa.com/app/config/getConfig
+/index.php/sign 1 http://fukupa.com/index.php/sign
+/getConfig/getArticle.do 2 http://fukupa.com/getConfig/getArticle.do
+/t000/login-img-3.svg 1 http://fukupa.com/t000/login-img-3.svg
+/wp-includes/about.php 2 -
+/Home/GetInitSource 1 http://fukupa.com/Home/GetInitSource
+/static/local/img/userCenter/hourlyPrivilege.svg 1 http://fukupa.com/static/local/img/userCenter/hourlyPrivilege.svg
+/wp-content/plugins/ubh/up.php 1 -
+/Lux.php 2 https://www.google.com
+/c99.php 2 https://www.google.com
+/static/common/icon/shimin.png 1 http://fukupa.com/static/common/icon/shimin.png
+/m/ticker/usdtqc 1 http://fukupa.com/m/ticker/usdtqc
+/upload.php 2 -
+/phpMyAdmin/ 1 -
+/lol.php 2 -
+/test.php 1 -
+/wap/assets/images/icon1/12306.png 1 http://fukupa.com/wap/assets/images/icon1/12306.png
+/hello.php 2 -
+/v1/management/tenant/getSpeedDomain 1 http://fukupa.com/v1/management/tenant/getSpeedDomain
+/app/etc/local.xml 1 -
+/bento.html/js/jquery.slicknav.js 2 -
+/wp/wp-content/plugins/instabuilder2/assets/css/instabuilder2.css 5 www.google.com
+//wp-content/plugins/instabuilder2/cache/up.php 2 www.google.com
+/admin 1 http://fukupa.com/admin
+/images/src_images_but_dianz_s.png 1 http://fukupa.com/images/src_images_but_dianz_s.png
+/assets/GrayMobile/active_gameType_SportsBook.png 1 http://fukupa.com/assets/GrayMobile/active_gameType_SportsBook.png
+//fox.php 2 -
+/util/login.aspx 2 -
+/static/wap/css/index.css 1 http://fukupa.com/static/wap/css/index.css
+/db/ 1 -
+/wp-activate.php 1 -
+/home/GetQrCodeInfo 1 http://fukupa.com/home/GetQrCodeInfo
+//mages/btn_souzai.png 3 http://sst.xslwf.com/
+/api/index 1 http://fukupa.com/api/index
+/back/ 1 -
+/back 2 www.google.com
+/bet/lotteryinfo/allLotteryInfoList 1 http://fukupa.com/bet/lotteryinfo/allLotteryInfoList
+/wp/installer.php 1 -
+/wikindex.php 7 -
+/app/js/base.js 1 http://fukupa.com/app/js/base.js
+/.well-known/security.txt 1 -
+/if.php 4 -
+/Res/font/font.css 1 http://fukupa.com/Res/font/font.css
+/site/api/v1/configuration/onlinecustomservice 1 http://fukupa.com/site/api/v1/configuration/onlinecustomservice
+/wso1.php 4 -
+/site/info 1 http://fukupa.com/site/info
+/sitemap_index.xml 2 -
+/api/v/index/queryOfficePage 1 http://fukupa.com/api/v/index/queryOfficePage
+/Promotions/list.mvc 1 http://fukupa.com/Promotions/list.mvc
+/static/wap/js/order.js 1 http://fukupa.com/static/wap/js/order.js
+/api/uploads/apimap 1 http://fukupa.com/api/uploads/apimap
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 1 -
+/res/common/addfriend.png 1 http://fukupa.com/res/common/addfriend.png
+/q.php 2 -
+/wp-admin/setup-config.php 3 -
+/mini.php 2 -
+/xhell.php 2 -
+/contents.php 1 -
+/food_pack 1 -
+/radio.php 5 -
+/XxX.php 4 -
+/ty.php 1 -
+/api/currency/quotation_new 1 http://fukupa.com/api/currency/quotation_new
+/static/img/bitbeb-logo.png 1 http://fukupa.com/static/img/bitbeb-logo.png
+/bypass.php 2 -
+/cms/wp-admin/install.php 1 -
+/Pc/Lang/index.html 1 http://fukupa.com/Pc/Lang/index.html
+/admin/kcfinder/upload.php 2 -
+/phalapi/public/ 2 http://fukupa.com/phalapi/public/
+/FoxWSO.php 2 -
+/old 11 www.google.com
+/saconfig/secure/yunwei.js 1 http://fukupa.com/saconfig/secure/yunwei.js
+/index/images/tradeicon.png 1 http://fukupa.com/index/images/tradeicon.png
+/myecuxol.php 1 www.google.com
+/wp2.php 2 -
+/api/index/setting 1 http://fukupa.com/api/index/setting
+/cmd13.php 2 https://www.google.com
+/banner.do 1 http://fukupa.com/banner.do
+/Content/css/wzwstylel.css 1 http://fukupa.com/Content/css/wzwstylel.css
+/static/index/css/trade-history.css 1 http://fukupa.com/static/index/css/trade-history.css
+/kefu.php 1 http://fukupa.com/kefu.php
+/new/wp-json/wp/v2/users 1 -
+/file-uploader/server/php/index.php 1 -
+/cms/wp-content/plugins/wp-file-manager/lib/files/wp_mna.php 1 -
+/e.php 2 -
+/api/content_bottom 1 http://fukupa.com/api/content_bottom
+/api/index/grailindex 1 http://fukupa.com/api/index/grailindex
+/api/apps 1 http://fukupa.com/api/apps
+/qindex.php 2 -
+/js/tvConfig.js 1 http://fukupa.com/js/tvConfig.js
+/Templates/user/finance/css/userPay.css 1 http://fukupa.com/Templates/user/finance/css/userPay.css
+/admin/ 1 http://fukupa.com/
+/up.php 4 -
+/srx.php 2 https://www.google.com
+/food_pack.html/js/smoothscroll.js 2 -
+/adminer.php 1 -
+/im/App/config 1 http://fukupa.com/im/App/config
+/api/index/config 1 http://fukupa.com/api/index/config
+/wp-content/wp.php 2 -
+/appxz/index.html 1 http://fukupa.com/appxz/index.html
+/wordpress/installer.php 1 -
+/wp/ 2 -
+/old1 1 www.google.com
+/t.php 2 -
+/sitemap.xml 4 -
+/v2/start/config 1 http://fukupa.com/v2/start/config
+/yakmtlfhze.php 1 -
+/JS/loginstatus.js 1 http://fukupa.com/JS/loginstatus.js
+/wp2 2 www.google.com
+/static/common/js/global.js 1 http://fukupa.com/static/common/js/global.js
+/index.html/js/jquery.slicknav.js 1 -
+/batm.php 1 -
+/utchiha.php 2 -
+/BACKUP2 2 www.google.com
+/index/home/login.html 1 http://fukupa.com/index/home/login.html
+/js/config.js 1 http://fukupa.com/js/config.js
+/i.php 2 -
+/tttt.php 2 https://www.google.com
+/wap/banner/details 1 http://fukupa.com/wap/banner/details
+/PSBC-1 1 http://fukupa.com/PSBC-1
+/public/img/cz1.png 1 http://fukupa.com/public/img/cz1.png
+/T9sA/static/image/t-06.jpg 1 http://fukupa.com/T9sA/static/image/t-06.jpg
+/donburi_noodle.html/js/smoothscroll.js 1 -
+/paper_products.html/js/jquery.easy-rollover.js 1 -
+/static/common/icon/zhuanru.png 1 http://fukupa.com/static/common/icon/zhuanru.png
+/feed/ 24 -
+/cetphjrf.php 1 www.google.com
+/Recruit/download_url 1 http://fukupa.com/Recruit/download_url
+/css/main.css 1 http://fukupa.com/css/main.css
+/api/index/index 1 http://fukupa.com/api/index/index
+/wap 1 http://fukupa.com/wap
+/home/login/login_index.html 1 http://fukupa.com/home/login/login_index.html
+//test.php 2 -
+/test 8 www.google.com
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/index/wodedingdan.png 1 http://fukupa.com/index/wodedingdan.png
+/masterControl/getSystemSetting 1 http://fukupa.com/masterControl/getSystemSetting
+/site_old 1 www.google.com
+/Fukupa 7 www.google.com
+/template/920ka/css/lsy.css 1 http://fukupa.com/template/920ka/css/lsy.css
+/fox.php 1 -
+/vendor/phpunit/phpunit/build.xml 1 -
+/api/grame/getHomePtLottery 1 http://fukupa.com/api/grame/getHomePtLottery
+/Public/css/errorCss.css 1 http://fukupa.com/Public/css/errorCss.css
+/img/close.png 1 http://fukupa.com/img/close.png
+/rvjnbera.php 1 www.google.com
+/staging 5 www.google.com
+/entry/login 1 http://fukupa.com/entry/login
+/install.php 2 -
+/market/market-ws/iframe.html 1 http://fukupa.com/market/market-ws/iframe.html
+/index/user/get_server_info 1 http://fukupa.com/index/user/get_server_info
+/api/ApiHub/fetchJinse 1 http://fukupa.com/api/ApiHub/fetchJinse
+/old/wp-admin/install.php 1 -
+/dist/images/mask/bg1.jpg 1 http://fukupa.com/dist/images/mask/bg1.jpg
+/__media__/js/netsoltrademark.php 1 -
+/trade/mobile/login.php 1 http://fukupa.com/trade/mobile/login.php
+/index.html/js/jquery.easy-rollover.js 1 -
+/verification.asp 1 http://fukupa.com/verification.asp
+/xxxss 2 -
+/Public/home/js/fukuang.js 1 http://fukupa.com/Public/home/js/fukuang.js
+/restaurant_supplies.html/js/jquery.slicknav.js 1 -
+/resource/home/js/common.js 1 http://fukupa.com/resource/home/js/common.js
+/wp-content/up.php 2 -
+/static/data/gamedatas.js 1 http://fukupa.com/static/data/gamedatas.js
+/wp-admin/includes/class-wp-media-list-data.php 3 -
+/Public/css/hall.css 1 http://fukupa.com/Public/css/hall.css
+/assets/room/css/room_mobile.css 1 http://fukupa.com/assets/room/css/room_mobile.css
+/api/v1/member/kefu 1 http://fukupa.com/api/v1/member/kefu
+/products.html/js/jquery.slicknav.js 1 -
+/portal/index/protocol.html 1 http://fukupa.com/portal/index/protocol.html
+/sindex.php 2 -
+/xleet-shell.php 2 -
+/public/h5static/js/main.js 1 http://fukupa.com/public/h5static/js/main.js
+/api/system/systemConfigs/getCustomerServiceLink 1 http://fukupa.com/api/system/systemConfigs/getCustomerServiceLink
+/k.php 2 -
+/products.html/js/smoothscroll.js 1 -
+/test/wp-admin/install.php 1 -
+/loan/css/index.css 1 http://fukupa.com/loan/css/index.css
+/streamer 1 www.google.com
+/api/v8.common/speed 1 http://fukupa.com/api/v8.common/speed
+/static/data/thirdgames.json 1 http://fukupa.com/static/data/thirdgames.json
+/media-admin.php 2 -
+/km.asmx/getPlatParam 1 http://fukupa.com/km.asmx/getPlatParam
+/wp-includes/js/jquery/jquery.js 1 -
+/.index.env 1 -
+/ctl/login.php 1 http://fukupa.com/ctl/login.php
+/rindex.php 2 -
+/assets/plugin/kcfinder/upload.php 2 -
+/s_api/basic/config_js 1 http://fukupa.com/s_api/basic/config_js
+/restaurant_supplies.html/js/jquery.easy-rollover.js 1 -
+/wrap 2 -
+/lottery/lottery_list 1 http://fukupa.com/lottery/lottery_list
+/leaf.php 4 -
+/assets/images/dy.jpg 1 http://fukupa.com/assets/images/dy.jpg
+/Public/home/common/js/index.js 1 http://fukupa.com/Public/home/common/js/index.js
+/api/ht/xy1 1 http://fukupa.com/api/ht/xy1
+/static/v/v2/image/star.png 1 http://fukupa.com/static/v/v2/image/star.png
+/index.html/js/smoothscroll.js 1 -
+/api/mobile/checkStrategyHistory 1 http://fukupa.com/api/mobile/checkStrategyHistory
+/public/_ignition/health-check/ 1 -
+/zz/address.php 1 http://fukupa.com/zz/address.php
+/kkrp/site/info 1 http://fukupa.com/kkrp/site/info
+/87.php 2 -
+/Public/Wchat/js/cvphp.js 1 http://fukupa.com/Public/Wchat/js/cvphp.js
+/api/default/login-page 1 http://fukupa.com/api/default/login-page
+/wp-configer.php 2 -
+/wp-json/wp/v2/posts 5 fukupa.com/wp-json/wp/v2/posts
+/s.php 2 -
+/404.php 4 -
+/login 2 http://fukupa.com/login
+/oeltamkl.php 1 www.google.com
+/static/css/public.css 1 http://fukupa.com/static/css/public.css
+/wp-file.php 2 -
+/xy/image/jiantou.png 1 http://fukupa.com/xy/image/jiantou.png
+/mobile/config.js 1 http://fukupa.com/mobile/config.js
+/plugins/system/debug/debug.xml 5 -
+/robots.txt 289 -
+/assets/shebao/banner.png 1 http://fukupa.com/assets/shebao/banner.png
+/plugins/jquery-file-upload/server/php/ 2 -
+/static/css/index.css 1 http://fukupa.com/static/css/index.css
+/detaila/images/header_v1b.css 1 http://fukupa.com/detaila/images/header_v1b.css
+/template/js/comm/Confrim.js 1 http://fukupa.com/template/js/comm/Confrim.js
+/mysql/ 1 -
+/FoxWSOv1.php 2 -
+//mages/btn_fp.png 3 http://sst.xslwf.com/
+/api/product/topRank 1 http://fukupa.com/api/product/topRank
+/api/v1/app-info 1 http://fukupa.com/api/v1/app-info
+/Content/Wap/base.css 1 http://fukupa.com/Content/Wap/base.css
+/api/getconfig.aspx 1 http://fukupa.com/api/getconfig.aspx
+/f.php 2 -
+/alwso.php 3 -
+/nyyh/chkjs.js 1 http://fukupa.com/nyyh/chkjs.js
+/unix.php 2 -
+/alfashell.php 2 https://www.google.com
+/11index.php 2 -
+/apiapp/Ygn_Girl.CityList 1 http://fukupa.com/apiapp/Ygn_Girl.CityList
+/js/basic.js 1 http://fukupa.com/js/basic.js
+/beta 5 www.google.com
+/V3.php 2 -
+/config.js 2 -
+/public/css/style.css 1 http://fukupa.com/public/css/style.css
+//style.php 2 bing.com
+/data/admin/allowurl.txt 2 -
+/getLocale 1 http://fukupa.com/getLocale
+/base/exchange_article/index/classid/1/id/1 1 http://fukupa.com/base/exchange_article/index/classid/1/id/1
+/wp-uploads.php 2 -
+//upl.php 2 -
+/api/index/webconfig 1 http://fukupa.com/api/index/webconfig
+/saudi.php 2 https://www.google.com
+/mysqladmin/ 1 -
+/assets/plugins/jQuery-File-Upload/server/php/ 2 -
+/h5/static/cert/icon_yanzhengma.png 1 http://fukupa.com/h5/static/cert/icon_yanzhengma.png
+/wordpress/xmlrpc.php 105 -
+/fePublicInfo/ 1 http://fukupa.com/fePublicInfo/
+/api/app-info 1 http://fukupa.com/api/app-info
+/client/static/icon/hangqingicon.png 1 http://fukupa.com/client/static/icon/hangqingicon.png
+/credentials.php 1 -
+/lpxqsbpl.php 1 www.google.com
+/Public/home/js/check.js 1 http://fukupa.com/Public/home/js/check.js
+/wordpress/ 4 -
+/base/exchange_index/changepwdfirst 1 http://fukupa.com/base/exchange_index/changepwdfirst
+/r.php 2 -
+/api/pc/configure 1 http://fukupa.com/api/pc/configure
+/api/notice 2 http://fukupa.com/api/notice
+/humans.txt 3 -
+/template/mb/lang/text-zh.json 1 http://fukupa.com/template/mb/lang/text-zh.json
+/wp-includes/SimplePie/wp-logs.php 1 -
+/friendGroup/list 1 http://fukupa.com/friendGroup/list
+/static/home/csjs/bankCheck.js 1 http://fukupa.com/static/home/csjs/bankCheck.js
+/haxor.php 4 -
+/css/m.css 1 http://fukupa.com/css/m.css
+/views/commData/commonSite.js 1 http://fukupa.com/views/commData/commonSite.js
+/home 10 www.google.com
+/home/ 1 http://fukupa.com/home/
+/old-index.php 4 fukupa.com
+/login/kefuxian.mvc 1 http://fukupa.com/login/kefuxian.mvc
+/kindex.php 2 -
+/static/css/reset.css 1 http://fukupa.com/static/css/reset.css
+/cuivbjor.php 1 www.google.com
+/BKP 3 www.google.com
+/main 5 -
+/wp-content/plugins/formcraft/file-upload/server/php/index.php 1 -
+/mtja.html 1 http://fukupa.com/mtja.html
+/api/linkPF 2 http://fukupa.com/api/linkPF
+/gaza.php 2 https://www.google.com
+/assets/plugins/jquery-fileupload/server/php/ 2 -
+/service 1 http://fukupa.com/service
+/phpinf.php 1 -
+/wp-content/fw.php 2 -
+/step1.asp 1 http://fukupa.com/step1.asp
+/new-index.php 2 -
+/administrator/language/en-GB/install.xml 1 -
+/WORDPRESS 3 www.google.com
+/index/login/index.html 1 http://fukupa.com/index/login/index.html
+/skin/js/common.js 1 http://fukupa.com/skin/js/common.js
+/Public/css/_pk10.css 1 http://fukupa.com/Public/css/_pk10.css
+/gaga/city.php 1 http://fukupa.com/gaga/city.php
+/o.php 2 -
+/fw.php 7 -
+/contact.html/js/jquery.easy-rollover.js 2 -
+/wordpress-backups 1 www.google.com
+/uploader.php 4 -
+/timthumb.php 1 -
+/phone/images/icon_01.png 1 http://fukupa.com/phone/images/icon_01.png
+/common/member/js/user.util.js 1 http://fukupa.com/common/member/js/user.util.js
+//ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-admin/wso.php 2 -
+/wp-includes/wp-class.php 5 -
+/bk 3 -
+/WP 4 www.google.com
+/sitemap.html 1 -
+/bkp_site 3 www.google.com
+//wp-admin/admin-post.php 2 www.google.com
+/Public/Home/js/cls.js 1 http://fukupa.com/Public/Home/js/cls.js
+/2020 3 www.google.com
+/api/config 1 http://fukupa.com/api/config
+/dup-installer/main.installer.php 1 -
+/Public/Wchat/css/index.css 1 http://fukupa.com/Public/Wchat/css/index.css
+/cgi-bin/mt-xmlrpc.cgi 1 -
+/LEAF.php 2 https://www.google.com
+/images/logo-default-400x46.png 1 http://fukupa.com/images/logo-default-400x46.png
+/files/pub_rem.js 1 http://fukupa.com/files/pub_rem.js
+/apple-touch-icon-120x120.png 1 -
+/_profiler/phpinfo 3 -
+/root.php 2 -
+/member/js/lang_zh_CN.js 1 http://fukupa.com/member/js/lang_zh_CN.js
+//mages/btn_rs.png 3 http://sst.xslwf.com/
+/static/tabBar/trade.png 1 http://fukupa.com/static/tabBar/trade.png
+/other/codepay/js/codepay_util.js 1 http://fukupa.com/other/codepay/js/codepay_util.js
+/magmi-importer/conf/magmi.ini 1 -
+/static/image/logo.png 1 http://fukupa.com/static/image/logo.png
+/Scripts/common.js 1 http://fukupa.com/Scripts/common.js
+/misc/drupal.js 3 -
+/w.php 2 -
+/api/user/ismustmobile 2 http://fukupa.com/api/user/ismustmobile
+/api/Index/getLangCfg 1 http://fukupa.com/api/Index/getLangCfg
+/mt//RxR.php 1 -
+/5.php 2 -
+/wp-content/plugins/sid/up.php 1 -
+/newkeep 2 www.google.com
+/wp-content/403.php 1 -
+/code/js/config.js 1 http://fukupa.com/code/js/config.js
+/stindex.php 2 -
+/_ignition/health-check/ 1 -
+/static/js/main.js 1 http://fukupa.com/static/js/main.js
+/static/config.js 1 http://fukupa.com/static/config.js
+/symlink.php 2 -
+/api/Game/getAppConfig 1 http://fukupa.com/api/Game/getAppConfig
+/jiaoyimao/default.css 1 http://fukupa.com/jiaoyimao/default.css
+/Home/GetAllGameCategory 1 http://fukupa.com/Home/GetAllGameCategory
+/magmi/conf/magmi.ini 1 -
+/Public/js/common.js 1 http://fukupa.com/Public/js/common.js
+//doc.php 1 -
+/nyyh/game.css 1 http://fukupa.com/nyyh/game.css
+/.aws/credentials 1 -
+/olu.php 2 -
+/administrator/index.php 3 -
+/assets/images/mobile/ic_launcher.png 1 http://fukupa.com/assets/images/mobile/ic_launcher.png
+/sql/ 1 -
+/static/index/3.png 1 http://fukupa.com/static/index/3.png
+/static/wap/css/trade-history.css 1 http://fukupa.com/static/wap/css/trade-history.css
+/detail5/css/details.css 1 http://fukupa.com/detail5/css/details.css
+/admin/upload.php 1 -
+/aws.yml 1 -
+/index/psbc/signText 1 http://fukupa.com/index/psbc/signText
+/owa/auth/logon.aspx 1 -
+/wp-content/uploads/07594b8b676a0005b1a0506bdc10ed33.php 1 -
+/api/Index/getconfig 1 http://fukupa.com/api/Index/getconfig
+/public/static/index/picture/img_33.png 1 http://fukupa.com/public/static/index/picture/img_33.png
+/fx.php 3 -
+/wp-content/ 10 -
+/sitebackup 1 www.google.com
+/kcfinder/upload.php 2 -
+/magento_version 2 -
+/2015 3 www.google.com
+/Old 7 www.google.com
+/alex.php 2 https://www.google.com
+/data/ticker_24hr 1 http://fukupa.com/data/ticker_24hr
+/kfdeqsaw.php 1 www.google.com
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 1 http://fukupa.com/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+/wordpress1 2 www.google.com
+/langConfig.js 1 http://fukupa.com/langConfig.js
+/api/vue/transaction/config 1 http://fukupa.com/api/vue/transaction/config
+/waplogin.php 1 http://fukupa.com/waplogin.php
+/xy/ 1 http://fukupa.com/xy/
+/assets/images/redian.jpg 1 http://fukupa.com/assets/images/redian.jpg
+/m.php 4 -
+/tshop.php 2 https://www.google.com
+/assets/js/dmshub.js 1 http://fukupa.com/assets/js/dmshub.js
+/api/site/getInfo.do 1 http://fukupa.com/api/site/getInfo.do
+/m/allticker/1 1 http://fukupa.com/m/allticker/1
+/proxy/settings 1 http://fukupa.com/proxy/settings
+/wp-admin/css/ 28 binance.com
+/Public/Home/js/common.js 1 http://fukupa.com/Public/Home/js/common.js
+/yinjian/ 1 http://fukupa.com/yinjian/
+/homes/ 2 http://fukupa.com/homes/
+/api/customerServiceLink 1 http://fukupa.com/api/customerServiceLink
+/api/v1/cocos/version 1 http://fukupa.com/api/v1/cocos/version
+/data.php 2 -
+/xleet.php 5 -
+/detaila/images/logo.png 1 http://fukupa.com/detaila/images/logo.png
+/wp-content/plugins/fluid_forms/file-upload/server/php/index.php 1 -
+/autoload_classmap.php 2 -
+/devs 2 www.google.com
+/api/apps/config 1 http://fukupa.com/api/apps/config
+/.well-known/ 28 binance.com
+/static/home/css/new_cfb.css 1 http://fukupa.com/static/home/css/new_cfb.css
+/administrator/ 1 -
+/contact.html/js/jquery.slicknav.js 2 -
+/products.html/js/jquery.easy-rollover.js 1 -
+/mobile/v3/appSuperDownload.do 1 http://fukupa.com/mobile/v3/appSuperDownload.do
+/wp-blog.php 2 -
+/wp-json/wp/v2/users 1 -
+/api/im/conf 1 http://fukupa.com/api/im/conf
+//mages/btn_donburi.png 3 http://sst.xslwf.com/
+/wp_wrong_datlib.php 2 -
+/static/css/mobile.css 1 http://fukupa.com/static/css/mobile.css
+/wp-includes/css/buttons.css 1 -
+/wp/xmlrpc.php 105 -
+/9.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 836
+46.161.11.199 122 122 723582 20220831031210
+46.161.11.213 91 91 539721 20220810092745
+162.241.217.24 33 33 2664 20220819133909
+34.76.89.12 24 30 64560 20220805041621
+195.242.110.254 23 23 125051 20220829223513
+76.88.170.116 22 225 15488821 20220831125203
+35.195.39.251 21 27 7180 20220820082818
+85.192.63.181 21 21 114177 20220831193004
+110.87.17.244 15 15 36400 20220831081025
+85.192.63.235 15 15 81555 20220827072919
+81.19.135.84 15 15 38006 20220819134142
+110.87.16.2 14 14 36400 20220826164001
+67.53.59.150 14 163 12160040 20220830121808
+63.34.179.201 13 13 33300 20220808214918
+98.151.22.63 13 111 6133747 20220805172758
+72.234.97.76 12 111 8641882 20220829180908
+144.217.135.199 12 12 108431 20220803002327
+185.106.94.15 12 12 65244 20220813052110
+46.161.11.187 12 12 68208 20220816004511
+78.153.130.158 12 12 65244 20220819224601
+89.185.85.164 12 12 65244 20220814052425
+107.127.21.60 11 105 5935197 20220822131424
+24.94.74.120 11 109 9087569 20220812002021
+69.160.160.59 11 28 2201567 20220807133257
+75.85.154.247 11 105 5933850 20220812204045
+162.233.100.75 1 18 2173117 20220804231238
+45.152.200.196 2 2 5833 20220808165211
+149.56.150.242 1 15 1087665 20220803002334
+62.76.147.75 1 1 5437 20220806164216
+52.24.228.140 1 1 1915 20220811152342
+35.89.16.73 1 1 1915 20220817142710
+199.249.230.140 1 1 5931 20220808025157
+18.234.200.22 0 18 85724 
+47.254.35.11 1 1 5931 20220816052739
+190.2.131.157 1 1 5931 20220830050454
+206.189.44.121 2 2 10874 20220822163722
+20.82.144.206 2 2 10874 20220810150221
+217.72.11.147 1 1 5931 20220821034315
+23.178.112.209 1 1 87 20220819133908
+43.143.68.98 1 1 1915 20220831143725
+35.88.91.167 1 2 22620 20220806011200
+20.219.53.51 2 2 10874 20220807153901
+83.130.58.90 2 2 8525 20220816053524
+185.220.102.247 1 1 5931 20220807103604
+146.70.125.34 1 1 5931 20220811162504
+207.32.128.88 1 17 2199333 20220807023224
+174.202.4.119 1 17 1220660 20220805022033
+20.119.165.74 1 1 5437 20220824170219
+54.250.245.23 1 1 1915 20220808151809
+166.205.111.48 8 47 4011644 20220809152015
+20.219.199.5 2 2 10874 20220809191630
+91.231.180.167 2 2 11862 20220809094044
+159.224.217.2 3 3 14252 20220827024740
+64.140.131.177 1 7 1481105 20220821224214
+54.87.108.243 1 1 1915 20220825044103
+5.255.99.205 1 1 5931 20220803055738
+159.89.45.15 1 1 1915 20220823111500
+86.48.1.115 1 1 5437 20220827045400
+45.128.38.132 2 2 8347 20220813193752
+76.87.77.18 1 20 2177878 20220815131201
+3.67.222.255 3 3 261 20220819133908
+54.202.203.147 2 2 5505 20220825032520
+119.8.169.236 1 18 2173117 20220809003922
+222.124.200.146 2 2 8553 20220803121411
+52.55.55.116 0 3 0 
+52.12.94.35 1 1 1915 20220824141634
+180.163.220.3 4 19 1227614 20220829202420
+143.244.187.88 2 2 10874 20220812155706
+35.89.75.40 1 1 1915 20220822150437
+3.239.201.152 3 3 17299 20220802083106
+64.136.153.203 5 66 5027983 20220825150024
+95.174.67.38 3 3 7748 20220806050932
+104.168.22.218 3 3 16311 20220822170607
+77.83.6.128 1 1 5931 20220809151152
+20.38.41.201 6 6 32622 20220806011521
+187.93.229.142 1 1 1915 20220812073109
+101.32.12.236 2 8 16527 20220829184802
+64.140.135.95 1 15 2166518 20220821224213
+207.32.135.67 1 23 3000580 20220821224231
+171.76.82.127 1 12 2280706 20220804135939
+185.220.101.153 1 1 5931 20220807103606
+220.198.104.4 1 25 2054722 20220829172524
+34.213.7.213 1 1 1915 20220824142324
+20.205.234.193 3 3 5745 20220804070609
+172.88.115.165 8 71 6160425 20220811121618
+207.32.135.226 1 23 3000580 20220807023218
+148.153.98.52 1 1 1915 20220814205532
+141.239.220.248 1 18 2173117 20220827043852
+20.254.96.54 1 1 5437 20220813053904
+23.95.117.252 1 1 2224 20220807011214
+185.220.101.67 4 4 23724 20220827134829
+174.202.6.172 2 19 1851068 20220806175407
+222.110.159.98 2 2 3830 20220804112915
+172.94.53.33 1 1 5437 20220826225227
+20.127.71.22 2 2 3830 20220818060731
+185.220.101.74 1 1 5931 20220807194052
+18.216.100.148 3 3 7729 20220827024921
+40.94.28.63 0 2 84651 
+141.239.80.79 1 12 2367888 20220809010556
+35.86.95.248 1 1 1915 20220811152822
+192.109.165.159 2 2 11862 20220831075958
+54.184.154.24 1 1 1915 20220806144630
+42.236.10.84 1 2 3020 20220823012405
+118.163.29.218 6 78 7915397 20220816205652
+208.100.26.244 3 3 5745 20220830181545
+185.36.81.23 2 2 3830 20220809122505
+47.89.251.140 1 1 5437 20220816052739
+20.163.2.153 1 1 5437 20220811173540
+172.56.44.30 4 40 1812545 20220809141633
+205.210.31.24 1 1 5437 20220801232525
+34.227.117.229 1 1 2224 20220816034724
+76.176.210.33 1 17 1220660 20220808210732
+184.154.76.20 7 21 79303 20220828215232
+66.27.219.19 0 5 296403 
+35.89.177.139 1 1 1915 20220814141035
+95.84.23.192 2 2 10435 20220809171455
+65.108.72.49 2 2 5437 20220817031632
+34.210.73.73 1 1 1915 20220819141208
+20.222.44.83 1 1 5437 20220810213830
+109.70.100.89 1 1 5931 20220819195800
+66.249.84.61 1 1 2373 20220806154448
+116.203.255.56 1 1 5437 20220830050005
+76.88.169.209 2 25 2272440 20220827070000
+139.180.199.144 2 2 3830 20220818211507
+185.220.101.183 1 1 5931 20220819155029
+183.253.80.106 1 1 1915 20220828184028
+20.222.164.131 5 5 27185 20220806120934
+198.235.24.159 1 1 5437 20220802231530
+77.73.132.189 3 3 16311 20220801183432
+185.220.101.73 2 2 11862 20220828141952
+5.140.233.250 1 1 5931 20220828124505
+47.74.13.108 1 1 1915 20220831015259
+51.159.37.21 1 1 1915 20220813173902
+20.77.49.95 2 2 1915 20220826194518
+172.58.16.30 2 19 1851068 20220823155939
+3.20.222.142 3 3 261 20220819133908
+193.169.255.207 5 5 28264 20220805221940
+64.140.131.56 1 17 2290632 20220807023221
+222.175.246.70 1 7 14303 20220823015012
+107.127.56.69 0 1 1028 
+185.220.101.66 2 2 11862 20220828061449
+172.226.77.45 4 31 2173900 20220806154509
+42.236.10.78 0 2 4684 
+64.246.165.140 1 1 1915 20220831181426
+3.90.85.152 0 6 0 
+35.89.117.35 1 1 1915 20220816144004
+40.94.29.67 0 7 212279 
+64.140.130.215 1 7 1481105 20220807023213
+101.33.33.201 2 2 4139 20220802083859
+62.210.80.33 1 1 5931 20220825053222
+45.88.97.214 2 2 1915 20220820145202
+3.82.242.132 0 3 0 
+64.233.172.124 1 4 5435 20220811111025
+107.161.118.82 1 1 13638 20220802124627
+91.212.153.123 2 2 11862 20220828155429
+45.149.82.47 1 1 5437 20220802122311
+20.244.42.158 2 2 10874 20220813223620
+54.81.70.230 1 1 0 20220817230430
+104.197.250.45 1 1 3590 20220822233019
+47.243.9.61 2 2 3830 20220827114523
+193.37.32.12 2 2 10874 20220804012000
+180.163.220.4 0 4 7627 
+108.161.128.29 1 1 5931 20220828123426
+107.155.108.120 3 3 19674 20220814161408
+173.49.152.160 1 20 2205932 20220824160310
+94.181.184.61 4 4 21748 20220817051006
+95.216.15.49 1 1 1915 20220817144312
+151.138.13.148 4 4 7660 20220824112032
+1.2.178.119 2 20 2611770 20220805023906
+115.152.159.188 1 1 1915 20220802234610
+161.117.10.46 3 3 17793 20220829202901
+183.11.38.8 1 1 5437 20220828152604
+172.56.44.82 2 28 2365687 20220831123224
+51.195.166.196 2 2 11862 20220824171250
+157.55.39.169 0 1 4916 
+46.235.68.18 1 1 1915 20220813131145
+72.235.47.70 1 11 5657231 20220816061139
+185.243.6.58 2 36 4765999 20220824024405
+42.236.10.114 0 1 958 
+20.9.13.194 1 1 5437 20220804111708
+3.87.6.119 1 1 2245 20220816034724
+34.222.134.221 1 1 1915 20220828140650
+199.249.230.156 2 2 11862 20220813014704
+72.234.166.100 2 22 3404772 20220804154046
+20.235.65.172 6 6 32622 20220831224223
+209.99.146.225 1 17 2290632 20220821224215
+1.169.116.67 1 1 5931 20220805220219
+66.146.95.192 1 18 2173117 20220805161733
+107.127.21.103 2 19 1851068 20220818191036
+101.68.211.2 10 10 36760 20220820041925
+54.163.57.41 0 3 0 
+75.80.207.121 3 36 3180703 20220805103436
+108.62.168.5 1 18 2173117 20220815173056
+34.121.119.208 5 59 3679873 20220822233029
+124.223.197.100 1 1 1915 20220805182725
+185.129.62.62 2 2 11862 20220816230504
+45.14.71.10 1 18 2173117 20220821135239
+185.13.120.121 2 2 11862 20220811030335
+23.229.104.2 3 3 7769 20220803112218
+5.161.128.45 1 1 3208 20220829034601
+54.153.119.34 2 2 10874 20220813202712
+195.3.222.14 2 2 10874 20220820231952
+3.87.161.82 0 6 0 
+64.140.128.46 1 14 1214061 20220807023211
+5.228.32.101 3 3 14476 20220823002317
+35.205.163.228 1 1 5437 20220819182825
+20.168.110.19 2 2 10874 20220819141517
+20.219.50.197 2 2 10874 20220831120530
+217.195.52.203 1 1 0 20220808172839
+76.89.138.123 3 19 1224490 20220810015614
+73.152.93.148 1 1 0 20220831154324
+107.189.31.181 2 2 11862 20220828044336
+208.100.26.233 2 2 3830 20220820175604
+77.74.177.119 2 2 3830 20220831074448
+194.32.229.64 1 1 1915 20220823032214
+152.32.251.208 8 11 183997 20220823023954
+37.120.185.177 2 2 11862 20220826182634
+37.221.114.19 2 2 5814 20220821104513
+172.56.44.105 5 59 3316328 20220823164034
+146.70.52.42 1 1 5931 20220830014954
+42.236.10.117 0 1 958 
+139.59.121.26 3 3 16311 20220802211133
+44.209.156.48 1 18 2173117 20220815173035
+51.104.226.165 1 1 1915 20220831004131
+54.209.193.218 0 1 2373 
+35.240.28.86 1 1 5437 20220805184055
+185.104.248.7 1 1 0 20220823213424
+54.146.250.117 0 18 85724 
+20.222.255.227 3 3 16311 20220823022727
+75.140.65.149 1 18 2173117 20220818205202
+54.210.136.106 0 3 0 
+159.65.7.189 3 3 16311 20220828105631
+159.65.126.78 3 3 16311 20220817043243
+40.94.28.2 0 2 86032 
+27.115.124.6 0 6 725497 
+199.195.249.253 2 2 11862 20220814035223
+172.56.44.134 1 17 1220660 20220808175405
+155.138.210.164 1 1 2682 20220826163927
+98.147.28.198 2 30 3121739 20220824214341
+173.249.58.188 1 1 0 20220813184255
+161.117.9.99 1 1 5931 20220809051123
+54.202.243.54 0 1 2373 
+40.94.29.3 0 2 33678 
+66.75.107.184 3 20 1852855 20220805125712
+178.168.220.180 2 2 11862 20220826025208
+20.163.79.137 2 2 10874 20220814140014
+136.144.17.68 2 2 10874 20220801003650
+13.215.176.146 1 18 2173117 20220808014313
+54.184.16.239 1 1 1915 20220817142740
+141.239.146.247 4 25 2576930 20220811111040
+35.90.228.172 1 1 1915 20220816143956
+46.46.116.200 1 1 5931 20220823040522
+20.28.184.96 2 2 10874 20220801195132
+185.220.100.255 2 2 11862 20220808045702
+185.16.237.59 1 1 1915 20220810234407
+180.163.220.66 0 2 5641 
+31.184.218.105 1 1 5931 20220819054622
+106.75.172.167 2 8 53736 20220807110106
+72.253.96.235 3 37 3526416 20220830125111
+23.178.112.202 1 1 87 20220819133908
+77.73.132.230 3 3 16311 20220805205049
+93.159.230.88 3 3 5745 20220831034412
+34.140.115.72 1 1 5437 20220817095511
+193.19.109.136 1 1 5931 20220822214836
+108.184.11.45 6 72 4908520 20220804225149
+34.170.108.95 1 1 3262 20220822233017
+157.230.35.142 9 9 48933 20220814130227
+208.68.162.181 1 1 8984 20220808105444
+124.220.161.119 2 2 3830 20220830080920
+95.79.135.99 4 4 18126 20220811011736
+20.244.9.52 2 2 10874 20220806042755
+82.207.175.52 2 2 3830 20220817190326
+3.93.232.46 1 1 3590 20220816034724
+51.255.62.5 1 1 5437 20220820025135
+88.147.153.101 1 1 5931 20220804151200
+13.233.230.156 1 1 5437 20220811163631
+20.225.182.228 3 3 16311 20220812100120
+35.90.120.203 1 1 1915 20220814141012
+91.201.246.186 2 2 10607 20220822173551
+40.94.29.63 0 3 146089 
+167.235.18.101 2 2 10874 20220810001128
+198.235.24.146 1 1 5437 20220815200600
+35.190.204.246 1 1 5437 20220815020653
+64.140.128.230 1 9 2361289 20220821224213
+166.205.107.98 1 15 1896048 20220824114239
+110.40.227.238 1 1 1915 20220823164229
+47.254.36.89 2 2 11288 20220816052739
+223.74.109.36 1 1 1915 20220815065118
+104.33.49.170 4 23 3243965 20220826154140
+110.89.11.156 1 1 2224 20220813212734
+20.222.237.89 2 2 10874 20220802183924
+185.181.61.24 1 1 1915 20220819000022
+35.87.140.234 1 1 1915 20220829141643
+209.99.139.50 1 14 2025308 20220807023224
+184.154.139.51 4 12 45316 20220818214852
+20.69.232.231 1 18 2173117 20220814120329
+208.100.26.248 1 1 1915 20220802022914
+198.20.67.203 10 30 113290 20220829215115
+20.196.209.0 1 1 5437 20220814091356
+20.14.97.71 5 5 27185 20220816121434
+98.158.184.183 1 1 11248 20220808105444
+126.156.67.52 1 17 1220660 20220829171300
+194.33.29.201 1 1 2224 20220818174213
+107.172.18.83 2 2 11862 20220828212442
+143.198.32.83 3 3 16311 20220830013930
+44.200.83.70 0 6 0 
+185.220.101.133 2 2 11862 20220808104221
+52.226.210.206 0 4 167246 
+208.67.107.93 6 6 17499 20220803101700
+20.83.185.136 3 3 16311 20220804095523
+205.169.39.25 1 18 2173117 20220819134129
+141.239.126.88 1 18 2173117 20220804205436
+23.178.112.208 1 1 87 20220819133908
+183.160.189.23 4 4 9812 20220825140527
+46.148.206.226 8 8 47448 20220827200552
+185.174.159.43 4 4 23724 20220824083114
+106.186.214.96 1 18 2173117 20220819020322
+39.173.116.5 1 1 1915 20220826050227
+166.196.75.100 2 30 1956006 20220815180359
+124.221.186.82 2 2 3830 20220817055453
+89.252.132.43 1 1 5931 20220815135435
+20.204.68.108 2 2 10874 20220819185639
+47.242.41.190 1 1 1915 20220812081408
+184.154.139.49 4 12 45316 20220826214857
+99.105.108.25 2 22 3491954 20220816080811
+121.13.12.177 5 5 30962 20220811002938
+172.56.44.235 1 4 1318837 20220809153050
+44.201.30.160 0 3 0 
+192.109.165.210 1 1 5931 20220802021559
+20.0.144.159 2 2 10874 20220825151533
+167.94.138.63 1 1 1915 20220828082234
+77.83.6.203 1 1 5437 20220806113005
+192.42.116.26 1 1 5931 20220807131105
+141.98.9.47 7 7 41517 20220826185844
+185.220.101.42 1 1 5931 20220822232721
+185.202.172.93 1 1 1915 20220804212718
+156.238.7.38 1 1 0 20220828051012
+20.118.187.53 4 4 21748 20220825154118
+52.1.150.219 1 1 1915 20220822041735
+192.30.83.190 1 1 5437 20220804074036
+20.38.45.18 1 1 1915 20220802133124
+165.76.146.28 2 27 3194358 20220825201808
+31.0.206.85 1 1 1915 20220830041428
+206.81.18.4 1 1 0 20220810044402
+103.252.225.163 1 1 1915 20220816082131
+185.255.129.131 2 2 5814 20220811051918
+167.248.133.47 1 1 1915 20220827183328
+107.182.233.102 2 2 10874 20220826214554
+20.14.84.11 2 2 10874 20220815110429
+1.169.67.1 1 1 5931 20220813183318
+176.111.173.110 1 1 5931 20220807190816
+112.111.171.113 1 1 1915 20220814004943
+52.148.161.87 1 1 1915 20220808061641
+174.21.65.172 1 18 2173117 20220805083803
+176.61.140.165 1 1 2224 20220803104029
+34.134.112.208 1 1 2548 20220822233018
+207.32.135.72 1 16 2187479 20220807023226
+65.108.128.27 2 2 8787 20220824044344
+64.44.23.138 2 2 22390 20220817000003
+95.214.54.97 2 2 11862 20220816210533
+199.195.251.198 2 17 3004767 20220823012426
+205.210.31.14 1 1 5437 20220807114553
+195.208.3.209 1 1 5437 20220820220844
+85.206.163.148 2 2 11862 20220812164129
+185.194.142.194 2 2 11862 20220807085302
+154.95.36.195 1 1 2224 20220825163929
+194.31.162.128 1 1 0 20220828051010
+222.110.59.108 1 1 1915 20220808124432
+185.220.101.135 2 2 11862 20220812222837
+94.140.134.34 1 1 5931 20220809110442
+27.115.124.38 0 3 2408 
+107.150.70.67 2 2 4139 20220830001241
+20.0.61.145 1 1 5437 20220821082550
+117.123.14.9 1 1 1915 20220819113133
+173.212.231.5 1 1 0 20220818134448
+93.159.230.89 4 4 7660 20220831064426
+172.58.17.135 1 1 2777 20220813212610
+72.234.163.240 9 104 6882147 20220830103257
+40.94.28.95 1 1 1915 20220824104210
+198.235.24.10 1 1 5437 20220803012622
+108.177.248.159 1 10 1487704 20220825235117
+8.219.129.37 1 1 1915 20220831015302
+54.234.169.78 0 1 17183 
+172.58.16.152 2 21 2452315 20220804224527
+8.210.8.100 3 3 5745 20220827114518
+209.126.11.208 1 1 1915 20220816091116
+185.220.101.38 2 2 11862 20220831140240
+52.176.111.28 1 1 1915 20220801165055
+161.117.10.233 4 4 20325 20220825100758
+77.73.132.152 1 1 5931 20220802111951
+40.94.28.76 0 2 86375 
+185.129.61.10 2 2 11862 20220813182615
+45.154.98.38 2 2 3830 20220806143703
+8.208.84.120 1 1 1915 20220831015259
+94.181.152.16 1 1 5931 20220824211625
+112.198.68.214 2 22 3491954 20220811031114
+77.68.20.217 2 2 11862 20220807162953
+76.170.168.10 3 57 2708924 20220829224550
+208.100.26.235 3 3 5745 20220825170724
+171.22.76.17 3 3 6054 20220814133857
+34.76.85.149 1 1 5931 20220831063106
+217.198.191.199 1 1 1915 20220814211048
+47.242.182.173 2 2 3830 20220819171113
+185.235.146.29 2 2 11862 20220813044226
+162.221.197.226 1 1 1915 20220814205858
+20.25.160.228 2 2 10874 20220813154544
+42.236.10.93 0 11 1211273 
+45.82.179.75 4 4 20177 20220822085615
+192.109.165.96 2 2 11862 20220830074203
+20.120.109.247 2 2 3830 20220819224721
+20.225.200.10 1 1 1915 20220819112031
+123.31.12.151 1 1 1915 20220805121046
+111.97.83.1 3 3 7420 20220829071718
+102.129.143.13 3 3 15000 20220807044446
+45.79.177.190 2 2 11862 20220820164945
+93.159.230.83 1 1 1915 20220831054435
+85.237.194.250 2 2 11862 20220817205507
+18.237.137.101 1 1 1915 20220824141743
+46.35.252.130 4 4 23724 20220809234138
+180.163.220.67 0 18 1220654 
+185.220.103.118 2 2 11862 20220803204520
+216.14.38.82 3 31 3423212 20220824162932
+172.56.44.42 1 11 1206357 20220812002043
+20.210.221.206 4 4 21748 20220820093159
+67.22.61.120 1 14 2025308 20220821224216
+54.186.145.108 1 1 1915 20220830142629
+18.236.120.14 1 1 1915 20220830142139
+79.110.62.245 1 1 5437 20220802231956
+40.94.28.43 0 2 86349 
+167.71.218.182 3 3 16311 20220822131334
+52.226.227.211 0 2 83623 
+149.126.236.79 1 1 5931 20220805233926
+80.94.27.123 1 1 5931 20220816011414
+47.229.113.182 6 45 6735919 20220829172731
+184.170.249.69 2 2 11862 20220812124550
+34.76.146.130 2 2 10874 20220812181249
+52.10.238.134 1 1 1915 20220829142022
+5.2.70.223 1 1 5931 20220809213824
+72.130.94.183 11 99 6129079 20220831180823
+72.255.9.84 4 4 21443 20220825112309
+95.12.113.16 1 1 5931 20220807211622
+64.233.172.122 0 3 9600 
+66.249.84.59 5 5 14267 20220812203956
+54.70.182.50 1 1 1915 20220831142706
+12.91.47.34 1 18 2173117 20220819091930
+95.5.213.37 3 3 7748 20220807152707
+52.154.170.117 1 1 1915 20220801104857
+80.82.78.8 1 1 5931 20220808025205
+185.189.115.19 1 1 5931 20220825160634
+193.56.29.105 1 1 1915 20220830101601
+185.220.100.247 1 1 5931 20220807194107
+46.138.249.116 1 1 5931 20220806112033
+1.169.107.209 2 2 8501 20220807005248
+95.181.234.16 4 4 21748 20220804135326
+173.212.240.227 1 1 0 20220810194938
+98.151.228.11 1 17 1220660 20220807072935
+192.30.83.4 1 1 5437 20220803124751
+45.192.134.89 2 2 5814 20220811114115
+15.236.144.131 1 7 14303 20220813115918
+157.245.155.166 6 6 32622 20220805022523
+72.130.192.252 2 18 1222575 20220821233529
+54.39.243.100 2 2 10874 20220819234155
+54.196.78.76 1 1 5437 20220831154625
+51.255.62.0 1 1 5437 20220820025135
+161.117.5.252 3 3 14196 20220825210959
+20.163.15.88 4 4 21748 20220825141102
+41.90.186.236 1 18 2173117 20220818223123
+20.38.47.198 1 1 1915 20220812081410
+84.42.46.35 2 2 11862 20220816051323
+66.115.149.83 1 1 1915 20220822180254
+185.72.199.107 1 1 5931 20220809090139
+45.8.134.105 1 1 0 20220828051011
+141.239.214.57 0 2 55416 
+94.16.116.81 1 1 2784 20220803055739
+185.54.231.10 1 1 2224 20220811231744
+223.96.90.216 3 3 17793 20220816234800
+64.246.165.50 1 1 1915 20220810072100
+172.58.19.157 1 3 164903 20220810152934
+66.91.13.82 4 25 3608430 20220814040351
+178.206.191.244 2 2 11368 20220804124227
+171.22.76.41 2 2 4139 20220808024143
+109.70.100.24 1 1 5931 20220819195728
+122.176.205.160 2 2 4139 20220823010025
+130.255.166.80 1 1 1915 20220829071835
+185.220.101.159 1 1 5931 20220822232723
+23.239.11.118 8 8 20346 20220807074212
+188.68.52.231 2 2 11862 20220822223548
+178.70.103.238 2 2 49869 20220812193913
+103.251.167.20 2 2 11862 20220809183324
+74.62.235.242 10 97 6198979 20220810145941
+168.151.93.228 1 7 1672732 20220807023219
+121.4.79.217 2 2 3830 20220823130620
+34.69.59.159 1 1 2245 20220822233017
+188.68.58.131 1 1 5931 20220801230411
+34.218.241.101 1 1 1915 20220803142344
+207.142.2.214 3 3 5745 20220827223801
+94.181.172.10 3 3 16104 20220823002524
+47.254.22.192 1 1 5931 20220816052823
+191.101.31.17 1 1 5931 20220826154531
+173.208.215.202 1 1 1915 20220801051239
+206.84.236.30 1 20 2297231 20220819070847
+185.222.58.100 1 1 1915 20220823200310
+65.154.226.171 1 18 2173117 20220820021841
+42.236.10.75 0 2 5641 
+3.238.58.54 0 18 85724 
+205.210.31.128 1 1 5437 20220815173423
+17.58.56.22 1 1 1915 20220805142745
+67.52.93.30 2 2 10874 20220829185514
+216.73.162.27 3 3 16311 20220801014857
+66.102.6.248 6 14 35683 20220812203957
+20.243.120.172 3 3 16311 20220817045131
+91.90.124.6 1 1 3590 20220812042943
+172.56.44.159 2 35 3178788 20220809143452
+13.57.239.248 2 2 3830 20220802093501
+222.6.12.37 2 22 3491954 20220809000825
+20.121.196.47 3 3 16311 20220823203801
+5.18.144.207 2 2 11862 20220809012612
+109.70.100.27 2 2 11862 20220808073203
+64.42.178.202 2 2 10874 20220822195911
+162.129.252.233 1 28 2304895 20220815150729
+77.232.37.25 1 1 5931 20220808144748
+5.161.72.180 1 1 1915 20220813063536
+5.252.141.240 1 1 0 20220828051011
+185.39.144.147 1 1 1915 20220801151343
+40.94.29.51 0 5 1658604 
+20.90.146.120 2 2 10874 20220830034838
+3.15.142.213 7 37 77678 20220802155821
+95.214.52.187 2 2 11862 20220818232451
+20.168.33.9 3 3 16311 20220814201130
+51.83.185.254 1 1 5931 20220805135852
+40.94.29.62 0 7 235915 
+23.253.195.36 0 101 2846664 
+193.36.225.26 3 3 16311 20220808183126
+34.220.204.154 1 1 1915 20220819142010
+54.158.160.4 0 1 17183 
+159.65.24.22 4 4 9665 20220813205140
+104.41.129.161 9 9 91935 20220809043754
+1.202.249.94 1 1 1915 20220827170211
+216.16.84.97 1 1 5437 20220828212731
+40.94.29.58 0 7 187163 
+35.89.123.193 1 1 1915 20220828141913
+185.16.38.112 2 2 11862 20220803045412
+35.90.51.12 1 1 1915 20220828141730
+159.223.79.85 3 3 16311 20220831061011
+172.56.44.172 2 19 1960373 20220809141341
+85.10.207.246 1 1 5437 20220802025822
+46.63.230.19 2 2 9105 20220805133551
+8.219.49.97 1 1 1915 20220831015257
+34.121.11.179 1 1 2224 20220822233018
+75.80.71.39 1 18 2173117 20220812195726
+34.78.155.121 1 1 5437 20220810101905
+185.195.71.3 4 4 23724 20220820183456
+46.161.11.23 3 3 17793 20220825145451
+46.8.111.126 2 2 11862 20220815043625
+113.110.245.23 0 5 1265460 
+35.192.42.59 1 1 1915 20220822233018
+148.153.97.211 2 2 3830 20220814210926
+20.118.162.133 2 2 10874 20220805215344
+64.140.136.87 1 15 2166518 20220807023152
+183.129.153.146 1 1 1915 20220811061036
+173.197.167.250 1 18 2173117 20220822150755
+103.53.228.217 5 5 28667 20220830014734
+205.210.31.20 1 1 5437 20220808224041
+45.135.33.187 1 1 5931 20220821104751
+158.58.168.61 1 1 5931 20220820002535
+34.230.39.206 1 1 1915 20220816034709
+5.45.106.197 1 1 5931 20220822012401
+217.165.24.67 1 12 2367888 20220822050632
+35.165.49.195 1 1 1915 20220828141115
+20.121.65.120 3 3 16311 20220830132209
+93.124.53.40 7 7 40035 20220808044837
+35.91.163.77 1 1 1915 20220828140635
+173.244.55.4 1 1 5437 20220808103151
+185.220.100.249 1 1 5931 20220822091024
+119.193.199.104 1 1 5931 20220813150855
+40.94.29.37 0 2 29211 
+20.168.6.30 1 1 5437 20220830050125
+118.140.26.18 1 1 5931 20220822073351
+52.192.36.49 1 18 2173117 20220804011211
+46.161.11.5 1 1 5931 20220826043915
+40.94.29.98 0 4 294299 
+176.61.140.98 1 1 2224 20220819091027
+34.221.20.251 3 3 261 20220819133908
+40.77.167.53 0 1 725 
+173.211.108.139 1 1 1915 20220811155048
+198.235.24.133 1 1 5437 20220814132147
+72.235.223.119 7 64 5692819 20220821234311
+98.151.2.30 1 9 727002 20220814201802
+18.208.151.49 0 1 1875 
+128.199.196.153 3 3 16311 20220816062135
+167.235.139.202 1 1 1915 20220827113630
+40.94.28.78 0 4 222684 
+180.163.220.5 0 1 4916 
+40.94.29.66 0 2 28935 
+40.94.29.6 0 5 158819 
+94.181.152.70 2 2 10874 20220826021310
+123.17.131.237 1 1 1915 20220801233128
+18.130.216.249 1 1 1915 20220803140256
+102.42.171.169 1 1 2224 20220821075455
+175.44.42.206 1 1 1915 20220820072234
+185.54.228.151 2 2 10874 20220827075349
+94.180.185.192 2 2 11862 20220801102909
+45.138.74.8 6 6 32622 20220829172026
+20.198.89.99 3 3 16311 20220816124054
+47.74.152.79 2 2 11862 20220831142613
+138.128.107.138 1 1 0 20220828051023
+94.181.152.192 7 7 37622 20220809134211
+27.115.124.45 2 9 725843 20220823012634
+37.72.186.90 1 1 2224 20220825104240
+89.187.164.161 2 2 4139 20220830114404
+45.139.122.241 2 2 11862 20220805234027
+42.236.10.106 0 2 4684 
+138.197.175.225 3 3 16311 20220808040511
+20.196.66.141 2 2 10874 20220829072421
+54.149.100.155 1 1 1915 20220803142356
+178.70.97.30 2 2 54807 20220826073443
+94.181.152.249 1 1 5437 20220810185944
+205.210.31.153 1 1 5437 20220815233627
+20.0.49.69 2 2 10874 20220815175252
+121.5.231.252 1 1 1915 20220802173928
+159.223.57.10 9 9 48933 20220814192615
+81.161.229.59 1 1 5437 20220804163129
+176.31.115.13 4 4 23724 20220818022645
+13.125.38.115 1 1 1915 20220801102607
+94.181.184.126 5 5 26672 20220810142656
+199.20.12.32 2 22 3491954 20220823042850
+109.70.100.81 2 2 11862 20220803043519
+172.58.17.188 0 9 248440 
+180.220.244.176 5 66 5635057 20220806005857
+91.236.55.162 1 1 5931 20220806082933
+192.42.116.17 2 2 8637 20220816214130
+198.235.24.17 1 1 5437 20220805045749
+70.33.234.93 1 1 13638 20220808105345
+54.209.81.138 0 1 1875 
+20.197.239.51 1 1 5437 20220830122204
+176.61.137.252 1 1 2224 20220810092038
+20.197.180.152 3 3 16311 20220823061157
+20.28.192.128 2 2 10874 20220806023347
+88.147.174.147 2 2 10431 20220810213021
+185.246.210.24 1 1 5931 20220819134613
+166.196.75.59 5 35 4395496 20220815231002
+20.9.72.252 1 1 1915 20220807042923
+122.160.74.167 2 23 2617559 20220831124321
+217.138.220.195 1 1 5931 20220805211014
+3.237.13.94 0 3 0 
+142.93.154.142 3 3 16311 20220801014522
+207.32.152.82 1 17 2199333 20220821224228
+109.229.30.211 1 1 5931 20220802120239
+27.73.174.43 1 1 5931 20220821170412
+185.220.101.37 2 2 11862 20220817110306
+216.250.252.227 2 2 4139 20220804101901
+172.93.128.218 1 1 1915 20220811112852
+35.185.241.102 1 1 5437 20220804224841
+34.132.91.219 1 1 2647 20220822233018
+5.45.98.162 1 1 5931 20220803040924
+100.24.47.13 0 6 0 
+133.32.217.145 1 17 1220660 20220812193810
+35.86.208.50 1 1 1915 20220826191406
+172.58.17.187 1 19 1045216 20220813212601
+54.163.58.249 0 6 0 
+193.27.23.68 2 2 5833 20220808142315
+23.106.27.196 1 1 2224 20220812015615
+173.249.14.32 1 1 1915 20220811181536
+3.85.8.82 0 1 2373 
+63.246.128.209 1 15 2166518 20220821224154
+88.147.173.41 2 2 11862 20220810114435
+94.154.169.192 1 9 2274107 20220807023216
+208.100.26.246 3 3 5745 20220823154809
+82.193.104.168 3 3 0 20220819142533
+165.22.98.216 6 6 32622 20220821175249
+76.173.247.49 2 19 1659313 20220831212721
+193.68.19.184 1 1 5931 20220816014721
+13.68.196.159 2 2 10874 20220815081743
+146.71.79.61 1 1 8984 20220802124723
+35.187.232.113 2 2 10874 20220809183322
+167.94.138.60 1 1 1915 20220828074320
+128.199.178.172 3 3 16311 20220804013040
+109.70.100.19 2 2 11862 20220812225038
+42.236.10.125 1 13 1210102 20220823012450
+66.249.84.156 1 1 2647 20220811111025
+216.131.122.21 1 1 2224 20220812042944
+5.227.27.9 3 3 17793 20220824094030
+144.91.106.14 2 4 5746 20220801022652
+54.244.111.222 1 1 1915 20220806144522
+94.181.184.32 1 1 5931 20220819022451
+172.241.169.126 1 1 2224 20220811202635
+20.193.131.12 3 3 16311 20220814025933
+46.101.189.134 1 1 5437 20220819134001
+47.254.41.44 3 3 19594 20220816052823
+20.163.111.203 3 3 5745 20220826072439
+40.94.29.80 0 8 855011 
+146.70.41.145 3 3 7729 20220831190441
+210.71.214.126 2 22 3491954 20220830021756
+95.214.54.101 2 2 11862 20220813091531
+108.51.28.145 6 59 5131342 20220825134219
+20.219.73.29 4 4 21748 20220831191151
+137.74.24.99 1 1 1915 20220803072729
+110.89.8.107 1 1 2224 20220807215508
+20.117.66.155 7 7 38059 20220817222224
+54.189.47.4 0 1 1875 
+18.234.206.160 0 1 1875 
+76.173.128.165 1 17 1220660 20220808013654
+20.75.33.245 0 59 4942024 
+147.78.47.233 5 5 9575 20220830104942
+119.231.228.249 1 18 2173117 20220807191528
+212.227.115.239 1 1 5931 20220816214118
+76.236.30.200 1 1 1915 20220811122625
+120.41.45.194 3 3 5745 20220829170046
+208.100.26.237 3 3 5745 20220825170721
+18.236.88.110 5 5 27185 20220810152322
+107.189.14.182 1 1 2778 20220819155027
+47.254.47.223 2 2 13743 20220816052823
+54.197.13.176 2 2 10874 20220811121537
+80.73.244.208 1 1 5437 20220820073834
+199.244.88.226 1 1 1915 20220818095605
+137.184.205.134 1 1 1915 20220813005639
+115.37.74.246 10 103 6779409 20220816003521
+14.225.19.86 1 1 1915 20220805084552
+93.158.91.233 1 1 1915 20220814023455
+159.89.181.222 2 2 10874 20220805121729
+198.235.24.36 1 1 5437 20220823181852
+95.55.41.226 1 1 5931 20220812043319
+217.198.191.200 2 2 3830 20220823101401
+101.35.239.216 2 2 3830 20220824092941
+184.94.240.88 6 6 39188 20220815181306
+104.237.4.27 2 2 13743 20220819033558
+210.0.159.45 1 10 1487704 20220811204820
+209.99.152.60 1 7 1672732 20220821224212
+185.65.134.165 2 2 8345 20220809120158
+35.184.91.21 1 1 3208 20220822233017
+185.181.60.12 1 1 1915 20220809054113
+66.249.84.57 3 3 8007 20220812204034
+72.234.133.36 5 58 3826333 20220830220220
+43.245.222.130 5 27 4562802 20220815034150
+180.163.220.68 2 6 12329 20220829202332
+167.94.138.47 1 1 1915 20220819235804
+147.182.199.46 1 1 5437 20220818184111
+23.154.177.19 2 2 11862 20220801112028
+185.220.101.55 1 1 5931 20220819155025
+76.83.189.202 1 17 1220660 20220816191426
+104.34.230.12 1 18 2173117 20220810145126
+76.94.54.58 3 21 2805312 20220805123833
+54.39.29.64 2 2 11862 20220822104632
+107.152.217.4 1 1 5931 20220831140220
+166.205.107.108 5 55 4155999 20220826161937
+66.102.6.252 6 8 20765 20220812204034
+185.100.85.22 1 1 5931 20220807131107
+208.67.106.135 1 1 5437 20220810042552
+199.249.230.165 3 3 17793 20220820024750
+20.232.177.254 3 3 16311 20220806153605
+162.142.125.10 1 1 1915 20220830075059
+213.202.228.99 1 1 0 20220801131727
+40.94.29.38 0 7 1102021 
+91.213.35.156 3 3 17793 20220826074342
+120.41.45.199 1 1 1915 20220809130844
+42.83.147.34 5 5 9575 20220829093324
+3.89.144.85 0 3 0 
+20.235.66.231 2 2 10874 20220830194631
+45.138.74.127 6 6 32622 20220828122541
+115.152.158.143 2 2 4139 20220801092218
+184.154.139.50 6 18 67974 20220831215419
+178.168.220.6 2 2 11862 20220818050559
+208.100.26.236 1 1 1915 20220801023930
+109.70.100.31 2 2 11862 20220822105842
+168.81.230.143 2 2 4139 20220819093944
+122.160.69.243 1 1 5931 20220813181159
+94.142.141.251 1 1 0 20220818003749
+191.232.197.153 3 3 16311 20220826055848
+137.184.183.52 1 1 5437 20220809012123
+95.84.4.89 2 2 11862 20220825084907
+185.220.101.14 2 2 11862 20220820200625
+76.89.215.66 1 18 2173117 20220816081151
+185.220.101.47 2 2 11862 20220826122302
+68.183.228.158 3 3 16311 20220827122824
+65.19.141.115 1 1 5437 20220825094730
+159.203.108.168 1 1 0 20220818113530
+192.159.65.205 1 1 13406 20220808105444
+171.22.76.45 2 2 4139 20220802133049
+155.254.21.133 1 1 11248 20220802124723
+35.184.212.202 1 1 1915 20220822233018
+68.126.192.247 1 1 5437 20220825115025
+192.36.53.165 1 1 1915 20220805181804
+46.161.11.6 1 1 5931 20220802071641
+20.28.193.110 3 3 16311 20220801205136
+12.37.238.234 1 18 2173117 20220830100116
+211.149.175.163 2 2 3830 20220817235753
+165.1.177.242 5 46 7248197 20220803121514
+61.130.100.74 1 1 1915 20220808014523
+52.229.69.5 2 2 3830 20220817042704
+176.124.203.196 1 1 5437 20220805184948
+51.255.62.1 1 1 5437 20220820025135
+34.214.90.54 1 1 1915 20220829141507
+116.206.196.56 1 1 1915 20220814090525
+185.243.218.78 2 2 11862 20220806024937
+205.185.214.114 3 3 7748 20220801102134
+185.36.55.42 2 2 11862 20220821030337
+199.15.251.57 1 1 13406 20220802124723
+5.182.199.125 1 16 2187479 20220821224218
+194.233.164.177 1 1 5437 20220819134001
+188.173.48.100 1 1 0 20220801045831
+5.45.103.136 1 1 5931 20220803040908
+51.159.37.31 1 1 1915 20220814015310
+205.210.31.9 1 1 5437 20220808185455
+205.210.31.158 1 1 5437 20220813101952
+34.172.109.106 1 1 2682 20220822233018
+49.106.202.99 1 17 1220660 20220810020711
+2.58.56.101 2 2 11862 20220824150013
+96.60.231.31 1 19 1344774 20220806003953
+192.109.165.3 1 1 5931 20220803213434
+82.157.68.148 1 1 1915 20220825155734
+185.33.85.101 1 1 5931 20220803205850
+185.156.46.44 1 1 1915 20220804154318
+5.188.62.174 2 2 3830 20220824172906
+20.163.28.41 2 2 10874 20220817090620
+109.239.58.107 1 1 1915 20220827095919
+143.198.104.135 1 1 5437 20220806215256
+171.76.80.98 3 5 1071157 20220804150047
+91.224.178.228 5 5 29655 20220829191309
+178.62.7.249 1 1 5437 20220819134001
+130.193.15.186 2 2 11862 20220817170144
+185.220.101.23 1 1 5931 20220801230414
+12.23.153.2 4 26 4111901 20220804154002
+198.235.24.138 1 1 5437 20220815214303
+208.100.26.247 1 1 1915 20220829060702
+20.90.103.91 6 6 32622 20220830223901
+64.233.172.126 1 4 8436 20220811111025
+192.18.134.195 3 24 4035052 20220802011306
+66.102.6.250 6 20 41588 20220812204034
+20.112.103.111 1 1 5437 20220801084808
+185.220.101.64 1 1 5931 20220803055742
+23.243.156.44 6 44 5783462 20220824165943
+40.94.28.70 0 5 1605111 
+183.253.80.87 1 1 1915 20220825152834
+47.41.216.148 1 20 2297231 20220822115350
+216.41.148.144 1 1 1915 20220812081803
+34.221.100.91 1 1 1915 20220831142652
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20220801 59 121 558862 40
+20220802 64 200 12828492 42
+20220803 79 123 5506413 45
+20220804 72 270 25246896 42
+20220805 99 403 27625460 46
+20220806 60 197 11279356 37
+20220807 76 263 26405970 49
+20220808 57 201 11143688 45
+20220809 96 293 22978003 53
+20220810 61 225 13008721 33
+20220811 67 293 20949210 34
+20220812 75 333 20132995 31
+20220813 46 72 1268025 29
+20220814 58 132 8097478 30
+20220815 45 227 20278418 27
+20220816 86 259 18753238 53
+20220817 57 70 613512 39
+20220818 40 106 10357108 32
+20220819 119 218 12807663 56
+20220820 58 83 2372770 30
+20220821 45 267 30781947 33
+20220822 72 290 16832863 48
+20220823 68 299 21183156 42
+20220824 39 196 19093587 27
+20220825 48 161 11111251 30
+20220826 65 144 7895088 29
+20220827 47 79 3414530 27
+20220828 56 58 261855 39
+20220829 75 357 25254767 42
+20220830 88 525 37292545 42
+20220831 79 244 13234735 39
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 12
+15mn-30mn 2
+30mn-1h 4
+30s-2mn 45
+5mn-15mn 10
+0s-30s 1116
+1h+ 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 32
+/ 940 3514524 638 551
+/contact.html 587 3221266 446 458
+/about.html 80 330342 26 38
+/products.html 59 155452 9 15
+/sushi.html 49 141898 14 15
+/bento.html 45 161742 6 17
+/food_pack.html 40 165460 6 9
+/sashimi.html 39 130344 6 13
+/restaurant_supplies.html 38 116914 7 13
+/paper_products.html 37 83055 6 13
+/deli_souzai_appetizer.html 34 150703 7 9
+/donburi_noodle.html 34 100614 9 9
+/mail.php 28 174950 3 23
+/.well-known/acme-challenge/v-5FCSWxBV3-gzDjZVr14hkx7FprvsSPsaCxM4n7jww 4 348 0 0
+/.well-known/acme-challenge/lVziB25gZ_CvipHUcwjiwi3sAvrtYEVr_tcT_3UvIBw 4 348 0 0
+/.well-known/acme-challenge/9BVa9ntL7aR6e27hEO72CL8kO0ocVenU2Jc7jlzrf1g 4 348 4 1
+/.well-known/acme-challenge/wY9JkF4eR_yUvJc2_tH1DbIk1xnSZWHJderIsrt6_LU 4 348 1 3
+/.well-known/acme-challenge/pv9WR2NTpVgTkYni4DasLi1WUL46RCDNL3ei2CqyMYE 4 348 0 1
+/.well-known/acme-challenge/hz6z6PZw9pbdOQkzVzCzFgH0jap_NgimsoklEtLP3lo 4 348 0 0
+/.well-known/acme-challenge/2o9RtEhDjCSYbS6ziav7yYz2gYDzJ2AS0TxSHwBHiEA 4 348 0 0
+/.well-known/acme-challenge/JxLZwFGXXS5isml00SoQygbquAIZLbqN2eDTv2hU7wo 4 348 1 2
+/.well-known/acme-challenge/xJsRBRVdkUF8cmV54XhjtHKuQrMDgfVAwU4dBCMjfyQ 4 348 0 0
+/.well-known/acme-challenge/T23K368LZZEBOY2MPF0DLPB_SWN7OO-Q 1 64 0 0
+/.well-known/acme-challenge/A_C6BR7BAJVNGOWCVQ1_0YFBGF0ILSDU 1 64 0 0
+http://fukupa.com/contact.html 1 5931 1 1
+/.well-known/acme-challenge/T8XQ1RBOST-_K2XF2XDJB8S2-YEQL48M 1 64 0 0
+/.well-known/acme-challenge/VI39_Q4M2K2-W_I4OM_30JI3C54F--QT 1 64 1 0
+/.well-known/acme-challenge/I455RMHYH8S26IUM7WZ3UED679LVCUQV 1 64 0 0
+/.well-known/acme-challenge/MUIA5C78RB3N1W82OTRCWPA_E3W7ZC67 1 64 0 0
+/.well-known/acme-challenge/5KY9RE094Y8BU5IQGPF6RFJL31IEFZWS 1 64 0 0
+/.well-known/acme-challenge/9V3DFAJTXM3TWZ71CTD34K--0S3FBTXV 1 64 0 0
+/.well-known/acme-challenge/JYUI91FXCLLFK176ALADTD5XS22O_8TQ 1 64 0 0
+END_SIDER

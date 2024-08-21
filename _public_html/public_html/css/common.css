@@ -1,0 +1,804 @@
+@charset "UTF-8";
+
+body{
+	margin:0;
+	padding:0;
+	background:#FFF;
+    font-family: Times New Roman, sans-serif;
+    font-size: 16px;
+}
+
+.container .col img { width: 100%; }
+
+
+/***********************************
+            COMMON STYLE
+ **********************************/
+
+.clr{
+	clear:both;
+}
+
+h1{
+    
+    margin: 0;
+    padding: 0 0 0 50px;
+    font-size: 20px;
+}
+
+h1 a:hover{
+    opacity: 0.6;
+    transition: 0.4s; 
+}
+
+a img:hover{
+    opacity: 0.6;
+    transition: 0.4s; 
+}
+
+.pankuzu{
+    padding:10px 10px 10px 75px;
+    font-size: 14px;
+    color: #999;
+}
+.pankuzu a{
+    color: #0084CF;
+    text-decoration: none;
+}
+.pankuzu a:hover{
+    color:#38C4E1;
+    text-decoration: none;
+    transition: 0.6s;
+}
+
+
+#page-top {
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    font-size: 77%;
+}
+#page-top a {
+    background: #0084CF;
+    text-decoration: none;
+    color: #fff;
+    width: 100px;
+    padding: 30px 0;
+    text-align: center;
+    display: block;
+    border-radius: 5px;
+    font-weight: bold;
+}
+#page-top a:hover {
+    text-decoration: none;
+    background: #38C4E1;
+}
+
+
+
+.slicknav_menu {
+	display:none;
+}
+
+ul#menu{
+    margin: 0 40px 0 0 ;
+    padding: 0;
+    list-style-type: none;
+    font-size: 14px;
+}
+ul#menu li{
+    float: right;
+    margin: 40px 0 0 0;
+    padding: 20px 10px;
+    font-size: 20px;
+    font-family: Times New Roman;
+}
+ul#menu li a{
+    text-decoration: underline;
+    color: #000;
+}
+ul#menu li a:hover{
+    opacity: 0.4;
+    transition: 0.4s;
+}
+
+
+.footer_box{
+    clear: both;
+    margin: 0;
+    padding: 50px 0 0 0;
+}
+.footer_info{
+    padding: 30px 0;
+    background: url("../images/footer_bg.png");
+}
+
+.footer_txt{
+    padding: 0 0 0 50px;
+    font-size: 16px;
+    letter-spacing: 0.1em;
+    color: #BFFFFF;
+}
+
+.hawai_info{
+    padding: 20px 0 0 50px;
+    letter-spacing: 0.1em;
+    color: #FFF;
+}
+.los_info{
+    padding: 20px 0 0 0;
+    letter-spacing: 0.05em;
+    color: #FFF;
+}
+.japan_info{
+    padding: 30px 0 0 50px;
+    letter-spacing: 0.1em;
+    color: #FFF;
+}
+
+.hawai_info strong,
+.los_info strong,
+.japan_info strong{
+    text-decoration: underline;
+}
+
+
+
+.footer_copy{
+    padding: 73px 0 50px 50px;
+}
+.footer_copy address{
+    font-size: 12px;
+    font-style: normal;
+}
+.footer_navi{
+    padding: 50px 0;
+}
+ul.fmenu{
+    margin: 0 130px 0 0 ;
+    padding: 0;
+    list-style-type: none;
+    font-size: 14px;
+}
+ul.fmenu li{
+    float: right;
+    margin: 0;
+    padding: 20px 10px;
+    font-size: 18px;
+    font-family: Times New Roman;
+}
+ul.fmenu li a{
+    text-decoration: underline;
+    color: #000;;
+}
+ul.fmenu li a:hover{
+    opacity: 0.4;
+    transition: 0.4s;
+}
+
+
+@media screen and (max-width: 768px) {
+	/* COMMON SP STYLE*/
+    /* #menu is the original menu */
+
+    .pankuzu{
+        padding:10px;
+    }
+
+	.js #menu {
+		display:none;
+	}
+	
+	.js .slicknav_menu {
+		display:block;
+	}
+    
+    h1{
+        margin: 0;
+        padding: 0;
+    }
+
+    #page-top {
+        position: fixed;
+        bottom: 10px;
+        right: 10px;
+        font-size: 77%;
+    }
+    #page-top a {
+        background: #0084CF;
+        text-decoration: none;
+        color: #fff;
+        width: 50px;
+        padding: 10px 0;
+        text-align: center;
+        display: block;
+        border-radius: 5px;
+    }
+    #page-top a:hover {
+        text-decoration: none;
+        background: #38C4E1;
+    }
+
+    .footer_info{
+        margin: 0 0 30px 0;
+        padding: 20px 0;
+        background:#7Ba3AF;
+    }
+    .footer_txt{
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        color:#000;
+    }
+
+    .hawai_info{
+        text-align: center;
+        padding: 20px 0 0 0;
+    }
+    .los_info{
+        text-align: center;
+        padding: 20px 0 0 0;
+    }
+    .japan_info{
+        text-align: center;
+        padding: 30px 0 0 0;
+    }
+
+    .footer_box{
+        margin: 50px 0 100px 0;
+    }
+
+    .footer_copy{
+        margin: 0 0 30px 0;
+        padding: 10px;
+        font-size: 12px;
+    }
+    .footer_copy address{
+        text-align: center;
+        font-style: normal;
+    }
+    .footer_navi{
+        padding: 0 0 100px 0;
+    }
+    ul.fmenu{
+        margin: 0 50px 0 0 ;
+        padding: 0;
+        list-style-type: none;
+        font-size: 14px;
+    }
+    ul.fmenu li{
+        width: 90%;
+        margin: 0 auto 2px auto;
+        padding: 0;
+        font-size: 20px;
+        font-family: Times New Roman;
+        
+    }
+    ul.fmenu li a{
+        text-align: center;
+        display: block;
+        padding: 10px 0;
+        border:1px solid #000;
+        text-decoration: none;
+        color: #000;;
+    }
+    ul.fmenu li a:hover{
+        background: #DDD;
+        transition: 0.4s;
+    }
+}
+
+
+
+
+/***********************************
+            TOP STYLE 
+***********************************/
+.top_image{
+    margin: 0;
+    padding: 0 50px 30px 50px;
+}
+.top_image img{
+    border:2px solid #0084CF;
+}
+
+
+.pro_box{
+   width: 80%;
+}
+.pro_box2{
+   width: 80%;
+   margin: 0 0 30px 0;
+}
+
+.pro_btn{
+    padding: 5px 10px;
+}
+
+
+@media screen and (max-width: 768px) {
+/** TOP SP STYLE **/
+    .top_image{
+        margin: 0;
+        padding: 0;
+    }
+    .top_image img{
+        border-top:2px solid #0084CF;
+        border-bottom:2px solid #0084CF;
+    }
+
+    .pro_box{
+        width:90%;
+    }
+    .pro_box2{
+        width:80%;
+    }
+
+    .pro_btn{
+        width: 50%;
+        padding: 5px;
+    }
+}
+
+
+
+
+
+/***********************************
+            PRODUCTS STYLE 
+***********************************/
+h3.products_title{
+    text-align: center;
+    width:100%;
+    margin: 30px auto 20px auto;
+    padding: 5px 0;
+    border-bottom: 1px solid #0084CF;
+    font-size: 24px;
+    font-family: Times New Roman;
+    color: #0084CF;
+}
+
+.pro_txt{
+    text-align: center;
+    margin: 20px 0;
+    padding:40px 100px;
+    font-size: 18px;
+    line-height: 1.5em;
+}
+.ctg_box,
+.ctg_box2{
+    width:90%;
+    margin: 50px auto 30px auto;
+}
+.ctg_btn{
+    text-align: center;
+    padding: 1px;
+}
+.ctg_btn a{
+    display: block;
+    margin: 0;
+    padding: 10px;
+    background:#7Ba3AF;
+    text-decoration: none;
+    font-size: 18px;
+    color: #FFF;
+}
+.ctg_btn a:hover{
+    background:#0084CF;
+    text-decoration: none;
+    transition: 0.6s;
+}
+.ctg_btn a.cr{
+    background:#0084CF;
+    text-decoration:none;
+    font-size: 18px;
+    color: #FFF;
+}
+
+.item_box{
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.box_wrap{
+    margin: 0 5px;
+    padding: 5px;
+    border: 1px solid #CCC;
+}
+
+.item_ph{
+    padding: 5px;
+}
+.item_info{
+    padding: 10px 5px;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+.item_info strong{
+    color: #0084CF;
+}
+
+
+
+@media screen and (max-width: 768px){
+    .pro_txt{
+        text-align: left;
+        margin: 20px 0 0 0;
+        padding:40px;
+        font-size: 18px;
+        line-height: 1.5em;
+    }
+
+    .item_box{
+        width: 82%;
+        margin: 0 auto;
+        padding: 5px;
+    }
+
+   .box_wrap{
+        margin: 5px 0;
+        padding: 5px;
+        border: 1px solid #CCC;
+    }
+
+    .ctg_box,
+    .ctg_box2{
+        width:100%;
+        margin: 50px auto 30px auto;
+    }
+
+   .ctg_btn{
+        width:50%;
+        margin: 1px auto;
+        font-size: 12px;
+    }
+
+    .ctg_btn a{
+        font-size: 12px;
+    }
+
+    .item_ph{
+        width: 50%;
+        margin: 0 auto;
+        padding: 5px;
+    }
+    .item_info{
+        width: 100%;
+        padding: 10px 5px;
+        font-size: 12px;
+    }
+}
+
+
+
+
+
+/***********************************
+            ABOUT STYLE
+***********************************/
+.about_image{
+    clear: both;
+}
+
+h3.about_title{
+    text-align: center;
+    width:82%;
+    margin: 50px auto 20px auto;
+    padding: 5px 0;
+    border-bottom: 1px solid #0084CF;
+    font-size: 24px;
+    font-family: Times New Roman;
+    color: #0084CF;
+}
+
+.about_txt{
+    width: 75%;
+    margin: 0 auto;
+    padding: 0 5px;
+    line-height: 1.5em;
+}
+
+h3.location_title{
+    text-align: center;
+    width:82%;
+    margin: 100px auto 20px auto;
+    padding: 5px 0;
+    border-bottom: 1px solid #0084CF;
+    font-size: 24px;
+    font-family: Times New Roman;
+    color: #0084CF;
+}
+
+h4.hawaii_title{
+    text-align: center;
+    width: 75%;
+    margin: 30px auto 10px auto;
+    padding: 0 5px;
+    font-size: 20px;
+    color: #0084CF;
+}
+.hawaii_txt{
+    text-align: center;
+    width: 75%;
+    margin: 0 auto 20px auto;
+    padding: 0 5px;
+    line-height: 1.5em;
+}
+
+h4.los_title,
+h4.jp_title{
+    text-align: center;
+    width: 75%;
+    margin: 50px auto 10px auto;
+    padding: 0 5px;
+    font-size: 20px;
+    color: #0084CF;
+}
+h4.jp_title a{
+    color: #0084CF;
+}
+h4.jp_title a:hover{
+    color:#7Ba3AF;
+}
+.los_txt,
+.jp_txt{
+    text-align: center;
+    width: 75%;
+    margin: 0 auto 20px auto;
+    padding: 0 5px;
+    line-height: 1.5em;
+}
+
+.ph_pad{
+    padding:5px;
+}
+.ph_pad img{
+    border:1px solid #CCC;
+}
+
+.ph_box{
+    margin: 0 0 0 122px;
+    padding:0;
+}
+
+.ph_fl{
+    float: left;
+    width: 260px;
+    margin: 0 0 0 12px;
+    padding: 0;
+}
+
+
+
+.ggmap {
+    position: relative;
+    width: 50%;
+    margin: 20px auto 0 auto;
+    padding-bottom: 45%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+    }
+ 
+.ggmap iframe,
+.ggmap object,
+.ggmap embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 90%;
+}
+
+
+@media screen and (max-width: 768px){
+    /** ABOUT SP STYLE **/
+    h3.about_title{
+        width:100%;
+    }
+    .about_txt{
+        width: 85%;
+        margin: 0 auto;
+        padding: 0 5px;
+        line-height: 1.5em;
+    }
+
+
+    h3.location_title{
+        width:100%;
+    }
+
+    h4.hawaii_title{
+        width: 85%;
+        margin: 0 auto;
+        padding: 0 5px;
+        font-size: 20px;
+        color: #0084CF;
+    }
+    .hawaii_txt{
+        width: 85%;
+        margin: 0 auto;
+        padding: 0 5px;
+    }
+
+    h4.los_title,
+    h4.jp_title{
+        width: 85%;
+        margin: 50px auto 0 auto;
+        padding: 0 5px;
+        font-size: 20px;
+        color: #0084CF;
+    }
+    .los_txt,
+    .jp_txt{
+        width: 85%;
+        margin: 0 auto 20px auto;
+        padding: 0 5px;
+        line-height: 1.5em;
+    }
+
+    .ph_pad{
+        width:50%;
+        margin: 0;
+        padding:5px;
+    }
+
+    .ggmap {
+        position: relative;
+        width:85%;
+        margin: 20px auto 0 auto;
+        padding-bottom: 56.25%;
+        padding-top: 30px;
+        height: 0;
+        overflow: hidden;
+     }
+ 
+    .ggmap iframe,
+    .ggmap object,
+    .ggmap embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+
+
+
+
+
+
+/***********************************
+            CONTACT FORM
+***********************************/
+.contact_image{
+     clear: both;
+}
+
+h3.contact_title{
+    text-align: center;
+    margin: 50px 0 30px 0;
+    padding: 5px 0;
+    border-bottom: 1px solid #0084CF;
+    font-size: 24px;
+    font-family: Times New Roman;
+    color: #0084CF;
+}
+
+#formWrap {
+	width:90%;
+	margin:50px auto;
+	color:#555;
+	line-height:120%;
+	font-size:90%;
+}
+table.formTable{
+	width:100%;
+	margin:0 auto;
+	border-collapse:collapse;
+}
+table.formTable td,table.formTable th{
+	border:1px solid #ccc;
+	padding:10px;
+    font-size: 16px;
+}
+table.formTable th{
+	width:30%;
+	font-weight:normal;
+	background:#efefef;
+	text-align:left;
+}
+.required{
+        font-size: 12px;
+        color: #FF0000;
+}
+
+h3.address_title{
+    margin: 90px 0 0 0;
+    padding: 5px 0;
+    font-size: 24px;
+    font-family: Times New Roman;
+    color: #0084CF;
+}
+
+.text_info{
+    margin: 10px 0 0 0;
+    font-size: 14px;
+}
+
+.cs_txt{
+    text-align: center;
+}
+
+
+@media screen and (max-width: 768px){
+    /** CONTACT FORM SP **/
+    h3.contact_title{
+        text-align: center;
+        margin: 30px 0;
+        padding: 5px 0;
+        border-bottom: 1px solid #0084CF;
+        font-size: 24px;
+        font-family: Times New Roman;
+        color: #0084CF;
+    }
+
+    .contact_image{
+        clear: both;
+        margin: 0 0 30px 0;
+    }
+
+    #formWrap {
+        width:100%;
+        margin:0;
+        padding: 0 5px;
+        color:#555;
+        line-height:120%;
+        font-size:90%;
+    }
+    table.formTable{
+        width:100%;
+        margin:0 auto;
+        border-collapse:collapse;
+    }
+    table.formTable td,table.formTable th{
+        border:1px solid #ccc;
+        padding:10px 5px;
+        font-size: 14px;
+    }
+    table.formTable th{
+        width:20%;
+        font-weight:normal;
+        background:#efefef;
+        text-align:left;
+    }
+
+    table.formTable td input,
+    table.formTable td textarea{
+        width:90%;
+    }
+
+    h3.address_title{
+        text-align: center;
+        margin: 50px 0 0 0;
+        padding: 5px 0;
+        font-size: 24px;
+        font-family: Times New Roman;
+        color: #0084CF;
+    }
+
+    .text_info{
+        text-align: center;
+        margin: 10px 0 0 0;
+        font-size: 14px;
+    }
+
+}
+
+
+
+
+

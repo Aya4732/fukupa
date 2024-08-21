@@ -1,0 +1,630 @@
+[29-Feb-2024 21:07:27 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[29-Feb-2024 23:16:31 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[01-Mar-2024 10:03:30 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[02-Mar-2024 13:28:49 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[02-Mar-2024 13:51:37 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[03-Mar-2024 11:39:44 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[03-Mar-2024 18:32:16 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[05-Mar-2024 06:53:19 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[06-Mar-2024 01:58:40 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[06-Mar-2024 02:03:37 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[06-Mar-2024 05:43:11 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[08-Mar-2024 10:37:54 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[08-Mar-2024 13:09:23 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[09-Mar-2024 04:57:58 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[11-Mar-2024 16:10:47 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[12-Mar-2024 10:04:48 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[12-Mar-2024 11:01:18 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[12-Mar-2024 12:55:33 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[13-Mar-2024 02:18:55 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[13-Mar-2024 14:26:19 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[16-Mar-2024 13:31:01 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[19-Mar-2024 04:49:29 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[19-Mar-2024 10:56:41 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[20-Mar-2024 23:56:02 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[22-Mar-2024 15:49:54 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[22-Mar-2024 20:15:59 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[24-Mar-2024 08:53:05 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[25-Mar-2024 02:59:15 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[25-Mar-2024 11:56:06 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[26-Mar-2024 21:40:05 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[28-Mar-2024 03:05:51 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[28-Mar-2024 08:26:22 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[29-Mar-2024 00:23:10 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[29-Mar-2024 23:44:59 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[01-Apr-2024 05:08:59 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[02-Apr-2024 18:28:21 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[03-Apr-2024 02:32:57 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[03-Apr-2024 16:48:30 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[05-Apr-2024 03:56:46 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[05-Apr-2024 05:52:19 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[05-Apr-2024 08:40:54 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[05-Apr-2024 20:51:31 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[06-Apr-2024 02:14:44 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[06-Apr-2024 06:40:14 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[06-Apr-2024 07:30:00 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[07-Apr-2024 09:34:50 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[08-Apr-2024 10:35:46 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[09-Apr-2024 00:59:03 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[10-Apr-2024 10:25:15 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[11-Apr-2024 23:47:11 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[13-Apr-2024 05:34:44 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[14-Apr-2024 14:10:44 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[14-Apr-2024 16:16:36 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[15-Apr-2024 06:26:14 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[15-Apr-2024 07:17:25 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[16-Apr-2024 07:09:56 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[16-Apr-2024 18:21:45 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[16-Apr-2024 20:41:45 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[17-Apr-2024 02:41:22 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[20-Apr-2024 01:21:23 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[20-Apr-2024 10:28:46 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[23-Apr-2024 01:47:47 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[23-Apr-2024 13:53:22 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[24-Apr-2024 03:51:16 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[24-Apr-2024 17:42:26 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[24-Apr-2024 18:42:35 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[26-Apr-2024 07:05:44 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[29-Apr-2024 01:24:46 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[30-Apr-2024 06:16:50 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[30-Apr-2024 09:03:27 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[01-May-2024 22:26:17 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[04-May-2024 23:09:49 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[06-May-2024 20:51:51 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[06-May-2024 21:00:03 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[06-May-2024 21:06:33 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[08-May-2024 02:44:17 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[08-May-2024 13:02:53 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[08-May-2024 13:06:17 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[08-May-2024 13:06:17 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[10-May-2024 20:06:17 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[11-May-2024 11:43:52 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[13-May-2024 02:22:29 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[13-May-2024 17:51:08 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[14-May-2024 14:24:20 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[15-May-2024 02:32:21 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[17-May-2024 16:35:08 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[18-May-2024 06:47:14 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[18-May-2024 19:13:11 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[19-May-2024 07:02:07 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[19-May-2024 21:58:45 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[21-May-2024 06:06:43 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[22-May-2024 01:45:33 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[22-May-2024 21:15:49 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[23-May-2024 04:07:18 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[23-May-2024 05:09:47 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[24-May-2024 09:18:52 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[24-May-2024 19:09:08 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[25-May-2024 02:37:32 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[27-May-2024 10:10:24 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[31-May-2024 14:02:39 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[02-Jun-2024 15:31:38 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[03-Jun-2024 19:54:04 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[03-Jun-2024 20:32:08 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[06-Jun-2024 17:03:46 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[07-Jun-2024 00:01:07 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[09-Jun-2024 16:46:03 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[10-Jun-2024 08:18:37 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[10-Jun-2024 17:55:51 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[10-Jun-2024 18:14:45 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[10-Jun-2024 19:22:57 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[12-Jun-2024 10:38:23 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[14-Jun-2024 15:32:56 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[18-Jun-2024 09:16:55 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[19-Jun-2024 12:14:37 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[19-Jun-2024 12:14:57 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[19-Jun-2024 20:00:44 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[22-Jun-2024 12:01:30 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[22-Jun-2024 23:28:33 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[23-Jun-2024 15:34:41 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[24-Jun-2024 12:08:19 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[25-Jun-2024 05:41:24 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[27-Jun-2024 05:24:20 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[27-Jun-2024 21:00:05 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[28-Jun-2024 12:40:23 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[30-Jun-2024 09:08:15 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420
+[02-Jul-2024 06:37:23 Pacific/Honolulu] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home3/fukupaco/public_html/mail.php:420
+Stack trace:
+#0 /home3/fukupaco/public_html/mail.php(280): confirmOutput(Array)
+#1 {main}
+  thrown in /home3/fukupaco/public_html/mail.php on line 420

@@ -1,0 +1,10 @@
+---
+/home3/fukupaco/public_html:
+  db: fukupaco_WPFXT
+  domain: fukupa.com
+  hostname: box5449.bluehost.com
+  path: /home3/fukupaco/public_html
+  table: _FXT_options
+  type: wordpress
+  user: fukupaco
+  version: 4.9.8

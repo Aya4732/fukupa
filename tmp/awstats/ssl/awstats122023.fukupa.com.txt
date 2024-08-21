@@ -1,0 +1,2823 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202312 will be lost/reset.
+# Last config file used to build this data file was /home3/fukupaco/tmp/awstats/ssl/awstats.fukupa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2695                
+POS_VISITOR 56565               
+POS_DAY 95261               
+POS_DOMAIN 3641                
+POS_LOGIN 4560                
+POS_ROBOT 4715                
+POS_WORMS 6299                
+POS_EMAILSENDER 6430                
+POS_EMAILRECEIVER 6573                
+POS_SESSION 96172               
+POS_SIDER 96383               
+POS_FILETYPES 6708                
+POS_DOWNLOADS 6948                
+POS_OS 7051                
+POS_BROWSER 7830                
+POS_SCREENSIZE 13742               
+POS_UNKNOWNREFERER 13816               
+POS_UNKNOWNREFERERBROWSER 15670               
+POS_ORIGIN 16426               
+POS_SEREFERRALS 16576               
+POS_PAGEREFS 16866               
+POS_SEARCHWORDS 17668               
+POS_KEYWORDS 17874               
+POS_MISC 2358                
+POS_ERRORS 17983               
+POS_CLUSTER 4416                
+POS_SIDER_404 18183               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240101010019 240 59800 10895191898233
+FirstTime 20231201000139
+LastTime 20231231232339
+LastUpdate 20240101054531 240 0 239 0 0
+TotalVisits 1233                
+TotalUnique 973                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 1001                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 24 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 92 298 26752568 428 517 4139350
+1 86 279 23179884 1035 1097 274646
+2 58 175 11058414 593 704 320343
+3 65 151 8179394 176 300 305818
+4 71 106 2907090 257 365 488907
+5 70 89 1554772 192 284 1550669
+6 91 162 7457583 320 408 443598
+7 62 77 2742160 197 267 1380731
+8 67 312 21394664 403 505 3461717
+9 55 133 5062006 359 472 618024
+10 92 287 19584412 176 241 1468536
+11 93 299 19639283 342 550 13770600
+12 80 281 24464008 557 670 443236
+13 225 536 32539945 967 1081 3436487
+14 107 669 54324398 217 307 2646372
+15 102 335 24549104 322 416 673142
+16 74 186 9980537 314 425 470927
+17 111 494 40673835 173 248 1532805
+18 100 421 40400635 219 349 3101925
+19 72 350 27826908 138 252 1907174
+20 51 179 12945714 150 196 1504852
+21 143 426 21234326 771 969 4246393
+22 56 155 7815078 297 687 579638
+23 81 327 25575090 384 453 326258
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 48
+us 1285 4621 330218777
+ru 174 230 9545555
+cn 128 380 27675629
+ca 95 325 21025803
+in 64 165 11459221
+gb 53 103 2605497
+jp 42 212 22677610
+ua 26 26 145419
+kr 26 245 20069336
+fr 25 26 349331
+se 24 51 3394535
+de 23 40 2248115
+bh 20 20 116150
+bg 13 30 2232989
+tw 9 48 6554563
+md 9 19 164205
+nl 7 7 32991
+by 5 5 31199
+zz 5 34 3564861
+eg 5 5 11162
+ao 4 4 8938
+lr 4 17 2825881
+eu 4 4 22736
+dk 4 6 162950
+bd 4 4 23928
+my 1 9 726874
+il 3 3 17299
+az 1 1 5931
+pl 2 2 5014
+iq 1 1 2224
+hn 2 2 4139
+au 3 20 2180469
+ch 3 4 101505
+ma 1 1 1915
+za 2 2 3830
+cr 2 3 95080
+at 2 2 16234
+lv 2 2 5505
+no 1 1 1915
+ee 1 1 2224
+ir 1 1 1915
+sc 4 5 102926
+cl 1 1 3590
+vn 2 18 1226591
+gr 3 13 126000
+ie 1 1 5437
+cz 3 3 17793
+ro 4 4 20017
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 37
+Googlebot/ 760 1079248 20231231204041 0
+spider 480 4334901 20231231214614 0
+Apache\-HttpClient/ 260 495985 20231226232319 0
+Applebot/ 235 1172747 20231231160019 0
+bingbot/ 201 1234116 20231231161658 0
+bot[\s_+:,\.\;\/\\-] 163 7464721 20231230012232 0
+feed 147 10119409 20231231141134 0
+crawl 141 14795070 20231231231822 0
+Go\-http\-client/ 75 433087 20231230214958 0
+no_user_agent 75 807150 20231231162754 0
+(firefox/)([0-9]\.|[0-1][0]\.) 35 184313 20231231095658 0
+baidu 27 3770421 20231222114654 0
+Googlebot\-Image/ 21 1378815 20231230233747 0
+YandexBot/ 17 42874 20231227155257 0
+Baiduspider/ 16 40230 20231221085725 0
+seek 13 122419 20231225025249 0
+nbot 12 604767 20231214070102 0
+scanner 10 60435 20231221022338 0
+unknown 9 156 20231230045921 9
+facebookexternalhit/ 8 108177 20231231160712 0
+curl 5 124907 20231217193339 0
+SurdotlyBot/ 4 7660 20231214133921 0
+Konqueror/ 3 36713 20231222114802 0
+scrapy 3 5745 20231228182529 0
+DuckDuckGo\-Favicons\-Bot/ 2 3830 20231230101837 0
+Links[\x20]\( 1 12236 20231216134216 0
+Mediapartners-Google 1 12235 20231219090343 0
+Googlebot\-News 1 12235 20231222114719 0
+link 1 1915 20231209164953 0
+[\s_+:,\.\;\/\\-]bot 1 3590 20231227065726 0
+archive\.org_bot 1 843 20231208153253 0
+DoCoMo/ 1 12237 20231203001528 0
+ELinks[\x20]\( 1 12245 20231214103605 0
+Yahoo![\x20]Slurp 2 5505 20231229191056 0
+2345Explorer/ 1 1915 20231222003756 0
+Googlebot\-Mobile/ 1 12244 20231216134126 0
+Velen 1 1915 20231227170753 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+Unknown 5 38296 0 0
+php 69 386733 0 0
+jpg 1156 62757986 0 0
+css 563 1428714 0 0
+js 881 3425535 0 0
+html 2014 8678295 0 0
+txt 2 24512 0 0
+xml 16 5552 0 0
+png 2021 395096185 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/CHANGELOG.txt 1 0 12251
+/core/CHANGELOG.txt 1 0 12261
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 48
+linux 288 156
+win2003 1 0
+win10 2943 765
+macosx9 1 1
+winphone 1 0
+androidmarshmallow 31 9
+macosx6 3 0
+androidoreo 176 12
+winxp 49 16
+bsdnetbsd 1 1
+winnt 8 8
+os/2 2 1
+Unknown 167 132
+macosx13 1 0
+androiddonut 1 1
+macosx 31 29
+unix 2 1
+macosx7 5 2
+macosx10 13 13
+win2000 1 0
+macosx8 2 0
+ios_iphone 1475 236
+win8.1 140 126
+androidlollipop 3 2
+androideclair 20 19
+androidpie 18 1
+androidkitkat 4 3
+win7 355 212
+win8 28 23
+android10 291 35
+android 57 14
+winlong 7 3
+macosx12 4 4
+androidnougat 25 9
+linuxdebian 2 1
+bsdfreebsd 4 0
+macosx15 376 114
+winunknown 38 37
+ios_ipad 3 2
+androidjellybean 2 1
+androidcupcake 1 0
+linuxubuntu 37 34
+symbian 4 1
+macosx14 32 25
+androidfroyo 2 0
+macosx11 66 55
+wince 3 0
+bsdopenbsd 3 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 286
+chrome119.0.6045.160 9 3
+firefox20.0 1 1
+chrome100.0.4896.75 1 0
+chrome49.0.2623.22 1 1
+chrome101.0.4951.67 18 1
+safari4.0 2 0
+chrome80.0.3947.0 1 1
+Unknown 102 90
+chrome100.0.4896.127 58 55
+chrome15.0.874.54 1 0
+chrome102.0.0.0 2 2
+chrome35.0.1916.153 2 0
+safari16.5 5 2
+chrome115.0.5806.221 4 2
+chrome114.0.5735.289 18 1
+opera6.20 1 0
+chrome110.0.5481.100 28 7
+opera14.0.1116.4 1 0
+chrome99.0.4844.51 3 2
+chrome77.0.3835.0 7 1
+chrome30.0.1599.103 1 0
+chrome104.0.5112.102 89 0
+firefox78.0 1 1
+safari2.0.4 1 1
+opera9.25 1 0
+chrome88.0.4324.182 1 0
+safari8.0 1 1
+chrome83.0.4103.106 1 1
+chrome67.0.3396.87 1 0
+chrome79.0.3945.88 1 1
+firefox117.0 20 3
+chrome104.0.0.0 30 30
+netscape4.8 2 2
+opera68.3.3557.64528 2 0
+firefox120.0 48 4
+safari17.1.2 831 73
+edge17 2 1
+firefox114.0 23 23
+chrome98.0.4758.141 2 1
+firefox45.0 1 1
+firefox115.0 23 21
+chrome50.0.2661.102 12 12
+chrome102.0.5005.61 18 18
+chrome45.0.2454.93 3 1
+safari10.1.2 1 1
+chrome43.0.2376.69 2 2
+chrome86.0.4240.75 54 54
+chrome107.0.0.0 13 2
+firefox63.0 4 4
+chrome79.0.3945.93 2 1
+chrome40.0.2214.93 1 1
+safari1.2.2 1 1
+safari5.0.3 1 0
+opera11.10 1 1
+chrome79.0.3945.79 108 6
+chrome43.0.2357.138 1 1
+safari9.0 2 2
+chrome91.0.4472.77 1 0
+firefox19.0 1 1
+chrome71.0.2623.112 1 1
+chrome27.0.1500.55 1 1
+firefox52.0 53 43
+chrome115.0.0.0 1 1
+chrome75.0.3770.102 1 0
+safari5.0.2 1 0
+chrome103.0.5042.0 4 4
+chrome111.0.0.0 1 1
+chrome66.0.2290.12 1 1
+chrome58.0.3029.110 2 2
+firefox68.0 1 1
+safari13.1.1 1 1
+chrome99.0.4844.84 20 3
+chrome4.0.277.0 1 0
+chrome50.0.2661.89 1 1
+safari14.1.2 1 0
+chrome113.0.0.0 17 14
+chrome20.0.1092.0 1 0
+firefox116.0 4 4
+msie8.0 1 1
+chrome49.0.2623.112 2 2
+chrome103.0.5060.134 33 16
+msie4.01 1 0
+lynx 1 1
+chrome100.0.4896.151 1 0
+firefox48.0 1 1
+chrome109.0.0.0 19 1
+iphone 31 8
+opera89.0.4447.51 11 11
+chrome92.0.4515.131 8 8
+chrome26.0.1410.63 1 1
+firefox108.0 1 1
+safari6.0.2 2 0
+chrome101.0.4951.64 1 0
+sonyericsson 2 1
+chrome69.0.3497.100 1 1
+chrome84.0.4147.89 1 1
+chrome86.0.4240.183 1 1
+chrome118.0.0.0 57 10
+chrome113.0.5672.162 1 1
+chrome83.0.4103.97 12 9
+firefox17.0 34 2
+safari13.0.3 77 77
+chrome78.0.3880.4 1 0
+chrome87.0.4280.141 17 1
+chrome116.0.0.0 76 73
+opera12.16 1 0
+chrome11.0.696.65 2 0
+chrome68.0.3440.84 3 3
+chrome40.0.2214.91 1 1
+android 35 27
+safari5.1 1 0
+chrome80.0.3987.162 1 1
+chrome98.0.4758.80 2 0
+chrome66.0.3359.30 17 1
+chrome101.0.4951.61 4 0
+chrome87.0.4280.88 177 16
+opera86.0.4363.50 1 1
+firefox88.0 9 9
+chrome78.0.3904.108 24 23
+opera85.0.4341.72 2 1
+chrome77.0.3865.120 18 1
+firefox 6 6
+chrome103.0.5030.0 1 0
+safari16.6 313 34
+chrome96.0.4664.110 2 2
+msie9.0 138 75
+opera62.0.3331.119 1 0
+chrome66.0.3359.181 1 1
+chrome63.0.3239.108 1 1
+firefox83.0 1 1
+chrome87.0.4280.66 1 1
+firefox29.0 1 0
+chrome84.0.4115.0 1 1
+iceweasel 1 1
+chrome118.0.5993.80 1 1
+opera10.10 2 0
+firefox69.0 1 1
+chrome100.0.4896.88 2 1
+firefox16.0 2 0
+firefox119.0 2 2
+firefox31.0 1 1
+chrome103.0.5060.114 72 69
+chrome70.0.3538.77 7 6
+chrome93.0.4577.0 7 1
+firefox40.0 1 0
+chrome117.0.0.0 76 73
+safari10.1.0.2342 1 0
+firefox14.0.1 1 0
+chrome37.0.2062.117 1 1
+chrome48.0.2564.97 3 3
+chrome115.0.5777.205 2 1
+firefox104.0 7 7
+opera15.0.1147.24 1 0
+chrome110.0.0.0 7 7
+nokia 3 0
+chrome71.0.3578.98 3 3
+chrome59.0.3071.125 14 2
+chrome30.0.1599.114 1 0
+arora 4 1
+safari2.0.1 3 1
+chrome81.0.4044.92 1 0
+chrome75.0.3770.80 1 0
+chrome105.0.0.0 9 9
+msie11 2 2
+chrome64.0.3282.167 1 1
+chrome22.0.1229.79 1 0
+chrome28.0.1469.0 1 0
+chrome51.0.2704.106 3 1
+chrome101.0.0.0 1 0
+chrome97.0.4280.67 4 4
+msie7.0 6 5
+firefox99.0 7 7
+chrome38.0.894.0 1 1
+opera30.0.1856.93524 1 1
+chrome74.0.3729.169 13 13
+chrome52.0.2733.98 5 5
+chrome111.0.5563.116 17 1
+safari 169 19
+chrome89.0.4389.114 20 20
+chrome101.0.4950.0 1 0
+firefox74.6 1 1
+chrome72.0.3597.0 2 2
+chrome84.0.4147.105 12 12
+sec\- 1 1
+chrome117.0.5938.132 108 6
+chrome95.0.4638.69 2 2
+chrome66.0.3359.126 1 1
+msie10.0 15 1
+mozilla 65 40
+msie6.0 4 2
+firefox25.0 1 0
+chrome39.0.2171.95 11 11
+chrome84.0.4112.0 2 2
+chrome97.0.4692.99 19 1
+opera66.2.3445.62346 1 0
+safari15.6.1 40 5
+chrome32.0.2019.89 1 1
+chrome80.0.3987.132 3 3
+firefox21.0 9 2
+firefox79.0 1 1
+safari10.0 2 0
+chrome112.0.0.0 18 1
+firefox55.0 1 0
+chrome49.0.2623.91 7 1
+chrome103.0.5060.53 43 43
+netscape5.0 6 6
+chrome80.0.3987.149 27 27
+chrome61.0.3163.79 1 0
+chrome91.0.4472.106 1 0
+chrome88.0.4240.193 4 4
+chrome65.0.3325.181 1 1
+chrome76.0.3809.89 2 0
+chrome74.0.3729.157 1 1
+chrome114.0.0.0 121 70
+safari6.0 5 2
+chrome110.0.5478.0 30 2
+msie6.0.2900.2180 1 0
+chrome76.0.3809.132 20 20
+chrome60.0.3112.107 5 5
+chrome75.0.3765.0 2 0
+chrome42.0.2312.90 3 3
+firefox28.0 2 0
+safari16.3 58 6
+chrome98.0.4758.102 5 4
+firefox58.0 1 1
+chrome83.0.4103.61 25 6
+chrome80.0.3987.0 4 1
+safari12.1.2 17 16
+chrome89.0.4389.105 1 0
+chrome100.0.4895.86 1 1
+safari14.0 1 1
+chrome81.0.4044.113 1 0
+chrome100.0.4896.79 1 0
+safari17.1.1 46 6
+chrome94.0.4606.81 2 2
+chrome75.0.3770.90 1 0
+safari10.1 1 0
+chrome101.0.4951.54 4 0
+msie5.5 1 0
+firefox64.0 1 1
+chrome58.0.3029.83 1 0
+chrome120.0.0.0 1337 131
+opera31.0.1889.174 1 0
+firefox11.0 1 0
+chrome73.0.3683.75 1 0
+chrome85.0.4183.121 1 1
+chrome60.0.3112.90 16 5
+firefox118.0 38 6
+chrome76.0.3809.100 12 1
+firefox15.0 1 0
+firefox38.0 2 1
+chrome7.0.514.0 1 0
+opera11.01 1 1
+edge12 1 1
+chrome103.0.0.0 171 171
+chrome86.0.4240.198 19 1
+safari15.4 19 3
+lg\- 1 0
+chrome101.0.4951.41 16 2
+safari15.5 6 0
+chrome119.0.0.0 732 76
+chrome94.0.4606.85 1 0
+safari7.0 2 0
+chrome19.0.1084.9 1 0
+chrome95.0.4638.54 1 1
+chrome91.0.4472.114 42 12
+chrome79.0.3945.130 8 8
+chrome66.0.3359.139 9 9
+firefox49.0 1 0
+chrome108.0.0.0 41 41
+chrome103.0.5060.66 53 53
+chrome63.0.3239.84 2 2
+edge44 4 4
+firefox111.0 3 3
+chrome92.0.4515.159 37 2
+webcopier 1 0
+chrome17.0.963.56 3 2
+chrome100.0.4896.82 1 1
+chrome98.0.4758.119 1 0
+chrome5.0.359.0 2 0
+chrome106.0.0.0 3 3
+safari14.0.3 1 1
+opera20.0.1387.91 1 0
+edge13 12 3
+msie11.0 10 9
+chrome100.0.4758.11 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 25
+Mozilla/5.0_(compatible;_Example3/1.0;__https://www.example3.com/domain/fukupa.com) 20231223181426
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20231231232339
+Python/3.8_aiohttp/3.9.1 20231228065622
+panscient.com 20231227000607
+WebCopier_v4.6 20231228132417
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231229225412
+Chrome 20231230183713
+python-httpx/0.25.2 20231222013022
+SonyEricssonW850i/R1ED_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20231228132418
+Opera 20231214000104
+Mozilla/5.0_fukupa.com 20231209025034
+Python/3.9_aiohttp/3.9.1 20231220133747
+msray-plus 20231220183833
+Mozilla/5.0_(MeeGo;_NokiaN950-00/00)_AppleWebKit/534.13_(KHTML,_like_Gecko)_NokiaBrowser/8.5.0_Mobile_Safari/534.13 20231214115941
+OutlookMobileCloudService-Autodetect/1.0.0 20231226101455
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.10__(KHTML,_like_Gecko)_Version/10.1.0.2342_Mobile_Safari/537.10_ 20231228132416
+Lynx/2.9.0dev.5_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/3.6.13 20231213102453
+Nokia6230/2.0_(04.44)_Profile/MIDP-2.0_Configuration/CLDC-1.1 20231228132355
+Mozilla/5.0_(l9scan/2.0.4323e2731323e2134323e2236313;__https://leakix.net) 20231220133616
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20231227184210
+Faraday_v1.10.3 20231209104601
+Mozilla/5.0_(compatible;_ips-agent) 20231212173559
+Mozilla/5.0_(compatible;_Dataprovider.com) 20231215141118
+Nokia6230i/2.0_(03.80)_Profile/MIDP-2.0_Configuration/CLDC-1.1 20231219090343
+SEC-SGHX820/1.0_NetFront/3.2_Profile/MIDP-2.0_Configuration/CLDC-1.1 20231226154238
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+OutlookMobileCloudService-Autodetect/1.0.0 20231226101455
+Chrome 20231230183713
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231229225412
+panscient.com 20231227000607
+Microsoft_Office_Excel_2014 20231210210502
+Python/3.8_aiohttp/3.9.1 20231228065622
+NetSurf/1.2_(NetBSD;_amd64) 20231205214148
+Python/3.9_aiohttp/3.9.1 20231220133747
+Opera 20231214000104
+msray-plus 20231220183833
+python-httpx/0.25.2 20231222013022
+Faraday_v1.10.3 20231209104601
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1146 1385
+From1 13 13
+From2 145 207
+From3 29 159
+From4 771 4963
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 8
+www_google_it 1 1
+search_yahoo_com 3 3
+google_com 1 1
+www_bing_com 10 10
+www_google_com 117 179
+baidu 11 11
+duckduckgo 1 1
+search_yahoo_co_jp 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 22
+http://mail.fukupa.com 6 6
+http://www.shuct.net 2 2
+http://www.aarecoverycoinsstore.com 2 2
+http://msmarket.coop 2 2
+https://www.yellowpages.com 2 2
+http://www.oganycc.com 2 2
+http://franciscansisters.org 2 2
+https://aacashandcarry.com 2 2
+http://ngq.wptraffic.xyz 1 1
+http://www.aaautoworks.com 1 1
+https://www.superpages.com 1 1
+http://adqsl.smzt.shop 1 1
+https://app.volza.com 1 1
+http://www.eqmovers.com 1 1
+http://www.pawnstar.com 1 1
+https://www.yelp.com 1 1
+http://kezo.smzt.shop 1 1
+https://mail.fukupa.com 0 35
+https://app.51wheatsearch.com 0 1
+http://122.144.179.12 0 89
+https://nbizr.tendata.cn 0 3
+https://mail.fukupa.com/css/common.css 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+https+//fukupa.com/ 1
+https+//fukupa.com/about.html 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+https 2
+//fukupa.com/ 1
+//fukupa.com/about.html 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+502 2 6339
+308 24 2366
+403 471 63114
+503 111 0
+404 5966 0
+401 62 2918
+421 1 322
+409 609 50464
+406 1378 308490
+400 139 5616
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1037
+/wp-content/plugins/real/v.php 9 http://fukupa.com//wp-content/plugins/real/v.php
+/wp-content/ 2 -
+/z.php 10 https://www.google.com
+/1234.php 1 -
+/adminer.php 3 -
+/snd.php 9 http://fukupa.com//snd.php
+/%d0%de%b8%c4%b0%e6.tar.gz 1 -
+/wp-admin/wso112233.php 13 http://fukupa.com//wp-admin/wso112233.php
+/wsoyanzorng.php 9 http://fukupa.com//wsoyanzorng.php
+/sh.php 9 http://fukupa.com//sh.php
+/wp-plugins.php 9 http://fukupa.com//wp-plugins.php
+/%cd%f8%d5%be.tar.gz 1 -
+/g.zip 1 -
+/wangzhan.tar.gz 1 -
+/wordpress 11 -
+/datad.zip 1 -
+/bak.php 1 -
+/DBDB.zip 1 -
+/shx.php 1 https://www.google.com
+/DBDB.tar.gz 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js 9 -
+/fukupa.com.zip 4 -
+/manage.rar 1 -
+/upfile.rar 1 -
+/info.zip 1 -
+/x.tar.gz 1 -
+/hehe.php 9 http://fukupa.com//hehe.php
+/100.php 1 https://www.google.com
+/uploads/wp-blog.php 4 http://mail.fukupa.com//uploads/wp-blog.php
+/k.php 1 https://www.google.com
+/staging 1 -
+/wp-admin/maint/maint/ajax-actions.php 7 -
+/debug/default/view 3 -
+/OLD/wp-admin/setup-config.php 3 www.google.com
+/cms/manage/style/calendar.css 1 -
+/database.rar 1 -
+/bat.tar.gz 1 -
+/wp-admin/images/index.php 3 -
+/my_alfa.php 1 https://www.google.com
+/V3.php 1 https://www.google.com
+/7.php 1 https://www.google.com
+/%b8%fc%d0%c2.zip 1 -
+/wp-admin/ajax-actions.php 7 -
+/backup.rar 1 -
+/wp-includes/images/include.php 3 www.google.com
+/ww.rar 1 -
+/wso1.php 1 https://www.google.com
+/wp-content/plugins/seoplugins/db.php 5 -
+/Images/Editor/Editor.gif 1 -
+/ww.tar.gz 1 -
+/wp-admin/admin-ajax.php 11 http://fukupa.com//wp-admin/admin-ajax.php
+/wp-content/plugins/about.php 2 -
+/uploader.php 1 https://www.google.com
+/Public/js.php 1 -
+/wso-x569.php 2 -
+/databack.tar.gz 1 -
+/%d7%ee%d0%c2%b0%e6.zip 1 -
+/about.php7 7 -
+/ups.php 10 https://www.google.com
+/js/filemanager/dialog.php 1 -
+/datad.tar.gz 1 -
+/lufix.php 13 http://fukupa.com//lufix.php
+/%ca%fd%be%dd%bf%e2.rar 1 -
+/yanz.php 7 -
+/ws.php7 4 -
+/net.rar 1 -
+/home 11 -
+/css/index.php 2 -
+/wp-content/plugins/xsid/marijuana.php 9 http://fukupa.com//wp-content/plugins/xsid/marijuana.php
+/wp-admin/1975.php 9 http://fukupa.com//wp-admin/1975.php
+/wp-admin/includes/xmrlpc.php 11 -
+/LV.php 1 -
+/b.php 1 https://www.google.com
+/wp-content/plugins/wordpresss3cll/up.php 18 http://fukupa.com//wp-content/plugins/wordpresss3cll/up.php
+/trust.php 1 -
+/testing 4 -
+/wp-includes/SimplePie/plugins.php 2 -
+/wsu.php 9 http://fukupa.com//wsu.php
+/images/F0x.php 9 http://fukupa.com//images/F0x.php
+/utchiha505.php 9 http://fukupa.com//utchiha505.php
+/1.zip 1 -
+/news/js/newsmember.js 1 -
+/wp-admin/js/about.php 19 -
+/static/js/logging.js 1 -
+/index2.php 9 http://fukupa.com//index2.php
+/backup.zip 1 -
+/HYTop.mdb.tar.gz 1 -
+/contents.php 9 http://fukupa.com//contents.php
+/%b8%fc%d0%c2.tar.gz 1 -
+/fm1.php 3 -
+/static/admin/javascript/hetong.js 3 -
+/Datasql.tar.gz 1 -
+/administrator/language/en-GB/en-GB.xml 9 -
+/manage.zip 1 -
+/h.php 1 https://www.google.com
+/403.php 14 https://www.google.com
+/xzourt.php 9 http://fukupa.com//xzourt.php
+/upfile.zip 1 -
+/old/ 4 -
+/inputs.php 21 www.google.com
+/godsend.php 1 -
+/d7.php 9 http://fukupa.com//d7.php
+/Datadata.zip 1 -
+/wp-content/wp-conf.php 9 http://fukupa.com//wp-content/wp-conf.php
+/database1.tar.gz 1 -
+/ok.php 1 https://www.google.com
+/wp-content/plugins/augmented-reality/vendor/elfinder/php/connector.minimal.php 9 http://fukupa.com//wp-content/plugins/augmented-reality/vendor/elfinder/php/connector.minimal.php
+/%d7%ee%d0%c2%b0%e6.tar.gz 1 -
+/wp-includes/wp-info.php 1 www.google.com
+/wp-content/plugins/apikey/mar.php 4 http://mail.fukupa.com//wp-content/plugins/apikey/mar.php
+/%cd%f8%d5%be.zip 1 -
+/%d5%fb%d5%be.rar 1 -
+/wp-admin/repeater.php 7 -
+/wp-content/plugins/masterx/wpx.php 4 http://mail.fukupa.com//wp-content/plugins/masterx/wpx.php
+/zhang.zip 1 -
+/update.php 9 http://fukupa.com//update.php
+/wp-content/themes/twenty/twenty.php 13 http://fukupa.com//wp-content/themes/twenty/twenty.php
+/web1.rar 1 -
+/wp-admin/js/widgets/moon.php 1 www.google.com
+/wp-content/plugins/instabuilder2/cache/up.php 1 http://fukupa.com/wp-content/plugins/instabuilder2/cache/up.php
+/css/ 1 http://www.fukupa.com/css/
+/zz.php 9 http://fukupa.com//zz.php
+/cache-compat.php 7 -
+/406.php 9 http://fukupa.com//406.php
+/s/4323e2731323e2134323e2236313/_/ 3 -
+/access.php 9 http://fukupa.com//access.php
+/databackup.rar 1 -
+/wumim.php 1 -
+/term.php 9 http://fukupa.com//term.php
+/Datadb.rar 1 -
+/gecko.php 13 http://fukupa.com//gecko.php
+/marijuana.php 15 -
+/bat.rar 1 -
+/wp-admin/css/colors/coffee/marijuana.php 1 -
+/banben.tar.gz 1 -
+/wp-content/themes/seotheme/mar.php 5 -
+/n.php 1 https://www.google.com
+/wwwroot.rar 3 -
+/V5.php 1 https://www.google.com
+/wwwroot.zip 3 -
+/Lux.php 1 https://www.google.com
+/img/xmrlpc.php 11 -
+/0x55.php 9 http://fukupa.com//0x55.php
+/%d7%ee%d0%c2%b0%e6%b1%be.tar.gz 1 -
+/F0x.php 9 http://fukupa.com//F0x.php
+/xxl.php 10 http://fukupa.com//xxl.php
+//feed/ 8 -
+/wp-content/cong.php 9 http://fukupa.com//wp-content/cong.php
+/%d2%fd%c7%e6.zip 1 -
+/text.php 13 http://fukupa.com//text.php
+/wp/ 4 -
+/credits.php 9 http://fukupa.com//credits.php
+/wp-admin/css/colors/xmrlpc.php 11 -
+/wp-zett.php 1 -
+/alf.php 10 https://www.google.com
+/x.php 17 https://www.google.com
+/wp-admin/network/db.php 9 http://fukupa.com//wp-admin/network/db.php
+/wp-content/plugins/admin.php 2 -
+/y.php 1 https://www.google.com
+/updates.php 5 -
+/index.php 9 http://fukupa.com//index.php
+/cp.php 13 http://fukupa.com//cp.php
+/gaza.php 10 https://www.google.com
+/http.rar 1 -
+/zhang.tar.gz 1 -
+/wp-includes/css/buttons.css 6 http://fukupa.com/wp-includes/css/buttons.css
+/webroot.rar 1 -
+/%cd%ea%d5%fb.rar 1 -
+/wp-content/upload.php 4 http://mail.fukupa.com//wp-content/upload.php
+/assets/filemanager/dialog.php 2 -
+/wp-includes/dropdown.php 1 -
+/webroot.zip 1 -
+/database.zip 1 -
+/wp-content/alfa.php 9 http://fukupa.com//wp-content/alfa.php
+/wp-includes/IXR/wp-login.php 8 http://fukupa.com//wp-includes/IXR/wp-login.php
+/z.tar.gz 1 -
+/wp-includes/pomo/wp-login.php 8 http://fukupa.com//wp-includes/pomo/wp-login.php
+/wp-admin/css/index.php 10 -
+/c.zip 1 -
+/wp-admin/images/admin.php 2 -
+/0byte.php 1 https://www.google.com
+/%d0%c2%bd%a8%ce%c4%bc%fe%bc%d0.zip 2 -
+/%b7%fe%ce%f1%c6%f7.tar.gz 1 -
+/wso112233.php 16 -
+/wp-content/plugins/seoplugins/mar.php 5 -
+/%d0%c2%b0%e6%b1%be.zip 1 -
+/fan.php 9 http://fukupa.com//fan.php
+/cjfuns.php 12 -
+/misc/drupal.js 4 -
+/560.asp 1 -
+/HYTop.mdb.rar 1 -
+/BACKUP 1 -
+/3301.php 1 https://www.google.com
+/cgi-bin/moon.php 1 www.google.com
+/fukupa_com.tar.gz 2 -
+/.DS_Store 3 -
+/wp-admin/js/widgets/about.php7 8 -
+/wp-content/install.php 11 http://fukupa.com//wp-content/install.php
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 13 http://fukupa.com//wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php
+/com.zip 1 -
+/css/cloud.php 5 -
+/symlink.php 10 https://www.google.com
+/wp-admin/css/colors/coffee/cloud.php 5 -
+/b1a3k.php 9 http://fukupa.com/b1a3k.php
+/libraries/phpmailer/updates.php 5 -
+/m.php 11 https://www.google.com
+/%d7%ee%ba%f3%d0%de%b8%c4%b0%e6.rar 1 -
+/news.rar 1 -
+/.well-known/acme-challenge/cloud.php 9 -
+/%d7%ee%ba%f3%d0%de%b8%c4%b0%e6.zip 1 -
+/wp-includes/rest-api/about.php 11 http://fukupa.com//wp-includes/rest-api/about.php
+/zm/index.php 1 -
+//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js 70 -
+/alfaindex.php 9 http://fukupa.com//alfaindex.php
+/db.rar 1 -
+/new/ 4 -
+/game.rar 1 -
+/humans.txt 4 http://fukupa.com/humans.txt
+/Datadata.rar 1 -
+/index.rar 1 -
+/plugins.php 13 http://fukupa.com//plugins.php
+/7yn.php 1 https://www.google.com
+/w.rar 1 -
+/net.tar.gz 1 -
+/database1.rar 1 -
+/backup/wp-admin/setup-config.php 3 www.google.com
+/.well-known/index.php 3 -
+/simple.php 25 http://fukupa.com/simple.php
+/assets/backend/plugins/jquery-file-upload/server/php/ 1 -
+/b.tar.gz 1 -
+/wp-content/themes/ccx/index.php 1 -
+/feed/ 1 http://fukupa.com/feed/
+/xmlrpc.php 2 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 2 -
+/config/AspCms_Config.asp 1 http://fukupa.com/config/AspCms_Config.asp
+/wp-content/plugins/w0rdpr3ssnew/about.php 9 http://fukupa.com//wp-content/plugins/w0rdpr3ssnew/about.php
+/vuln.php 1 https://www.google.com
+/wang.zip 1 -
+/404.php 13 https://www.google.com
+/Datadb.zip 1 -
+/minimo.php 1 https://www.google.com
+/customize.php 13 http://fukupa.com//customize.php
+/db.tar.gz 1 -
+/%b3%cc%d0%f2.rar 1 -
+/wang.tar.gz 1 -
+/data.tar.gz 1 -
+/wp-pano.php 1 -
+/%d2%fd%c7%e6.rar 1 -
+/wp-content/themes/hello-element/footer.php 2 -
+/core/misc/drupal.js 4 -
+/wz.rar 1 -
+/ajax-actions.php 7 -
+/manager.rar 1 -
+/readme.html 5 -
+/wp-includes/Text/about.php 11 http://fukupa.com//wp-includes/Text/about.php
+/class.api.php 10 http://fukupa.com//class.api.php
+/wp-content/plugins/seoo/wsoyanz1.php 7 -
+/wp-admin/user/wp-login.php 10 http://fukupa.com//wp-admin/user/wp-login.php
+/blog 5 -
+/resources/global/plugins/jquery-file-upload/server/php/ 1 -
+/content.php 1 -
+/wp-admin/network/autoload_classmap.php 2 -
+/g.php 1 https://www.google.com
+/manager.zip 1 -
+/blog/wp-login.php 5 -
+/wp-content/themes/signify/firkon.php 1 -
+/data.zip 1 -
+/wp-admin/css/colors/blue/blue.php 1 -
+/%b7%fe%ce%f1%b6%cb.zip 1 -
+/assets/color_admin/plugins/jquery-file-upload/server/php/ 1 -
+/z.zip 1 -
+/demo 1 -
+/fukupa_com.rar 3 -
+/.well-known/admin.php 1 www.google.com
+/c.tar.gz 1 -
+/css/xmrlpc.php 11 -
+/user.php 13 http://fukupa.com//user.php
+/wp-admin/options.php 5 -
+/ton.php 9 http://fukupa.com//ton.php
+/emergency.php 9 http://fukupa.com//emergency.php
+/plus/read.php 1 http://fukupa.com/plus/read.php
+/wp-includes/ID3/wp-login.php 1 -
+/wp-pano 1 -
+/%b3%cc%d0%f2.tar.gz 1 -
+/exit.php 9 http://fukupa.com//exit.php
+/css/tips.css 2 -
+/webroot.tar.gz 1 -
+/assets/jquery-file-upload/server/php/ 1 -
+/config.json 3 -
+/alfa-rex.php7 8 -
+/HYTop.mdb.zip 1 -
+/ms.php 4 -
+/by.php 13 http://fukupa.com//by.php
+/datad.rar 1 -
+/wp-admin/users.php 13 http://fukupa.com//wp-admin/users.php
+/jquery.easy-rollover.js 72 -
+/wp-admin/css/colors/index.php 3 -
+/wz.tar.gz 1 -
+/lcqc%b1%b8%b7%dd.zip 1 -
+//xmlrpc.php 1 -
+/skipper.php 1 https://www.google.com
+/OLDSITE 1 -
+/_all_dbs 3 -
+/kill.php 9 http://fukupa.com//kill.php
+/back.rar 1 -
+/M1.php 3 -
+/.tmb/wp-login.php 8 http://fukupa.com//.tmb/wp-login.php
+/2.php 1 https://www.google.com
+/wp-content/mari.php 1 -
+/.well-known/security.txt 2 http://www.fukupa.com/.well-known/security.txt
+/dev 1 -
+/87.php 2 https://www.google.com
+/%cd%ea%d5%fb.zip 1 -
+/wp-content/fw.php 10 https://www.google.com
+/__1975.php 9 http://fukupa.com//__1975.php
+/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/database1.zip 1 -
+/wp-content/uploads/ 13 http://fukupa.com//wp-content/uploads/
+/about.html/ 1 http://www.fukupa.com/about.html/
+/upload.rar 1 -
+/e.php 1 https://www.google.com
+/images/mar.php 1 -
+/wwwroot.tar.gz 2 -
+/shellx.php 9 http://fukupa.com//shellx.php
+/%d0%de%b8%c4%b0%e6.zip 1 -
+/server.rar 1 -
+/template/default/index/js/yunu.js 1 -
+/shells.php 9 http://fukupa.com//shells.php
+/%d7%ee%ba%f3%d0%de%b8%c4%b0%e6.tar.gz 1 -
+/wp-2019.php 4 http://mail.fukupa.com//wp-2019.php
+/databackup.tar.gz 1 -
+/wordpress/wp-admin/setup-config.php 3 www.google.com
+/anon.php 9 http://fukupa.com//anon.php
+/evil.php 9 http://fukupa.com//evil.php
+/b.zip 1 -
+/sites/default/files/HolaDR7_70778.php 4 http://mail.fukupa.com//sites/default/files/HolaDR7_70778.php
+/upload.zip 1 -
+/doc.php 14 https://www.google.com
+/wp-admin/images/xmrlpc.php 11 -
+/wp-header.php 2 -
+/wp-content/plugins/backup-backup/admin/css/bmi-plugin.min.css 4 -
+/databack.rar 1 -
+/filemanager/dialog.php 2 -
+/v.php 1 https://www.google.com
+/assets/plugins/jquery-file-upload/server/php/ 1 -
+/server.zip 1 -
+/blog/ 4 -
+/.well-known/acme-challenge/wp-login.php 8 http://fukupa.com//.well-known/acme-challenge/wp-login.php
+/wp-admin/maint/moon.php 12 http://fukupa.com//wp-admin/maint/moon.php
+/root.php 10 https://www.google.com
+/cms.rar 1 -
+/wp-admin/wp-trc.php 9 http://fukupa.com//wp-admin/wp-trc.php
+/img/cloud.php 5 -
+/%b7%fe%ce%f1%c6%f7.rar 1 -
+/xlettt.php 9 http://fukupa.com//xlettt.php
+/libraries/legacy/updates.php 5 -
+/%d7%ee%d0%c2%b0%e6%b1%be.rar 1 -
+/images/cloud.php 5 -
+/hanna1337.php 9 http://fukupa.com//hanna1337.php
+/wp-content/plugins/Cache/Cache.php 23 -
+/blog.tar.gz 1 -
+/th1s_1s_a_4o4.html 31 -
+/web.rar 3 -
+/1.php 14 https://www.google.com
+/%cd%ea%d5%fb.tar.gz 1 -
+/jeeSpringStatic/plugs/jquery/jquery-2.1.1.min.js 1 -
+/database.tar.gz 1 -
+/blog.zip 1 -
+/alfa123.php 1 https://www.google.com
+/about 5 -
+/Gecko.php 9 http://fukupa.com//Gecko.php
+/saudi.php 1 https://www.google.com
+/q.php 1 https://www.google.com
+/old/wp-admin/setup-config.php 3 www.google.com
+/%b3%cc%d0%f2.zip 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 3 -
+/shell4.php 1 https://www.google.com
+/temp/ 4 -
+/lock.php 9 http://fukupa.com//lock.php
+/wp-content/themes/seotheme/db.php 5 http://fukupa.com//wp-content/themes/seotheme/db.php
+/bala.php 13 -
+/XxX.php 1 https://www.google.com
+/LEAF.php 1 https://www.google.com
+/bbs.rar 1 -
+/root.rar 1 -
+/wp-content/index.php 16 -
+/.well-knownold/ 2 -
+/wangzhan.rar 1 -
+/include/taglib/ty.lib.php 1 http://fukupa.com/include/taglib/ty.lib.php
+/%d0%c2%bd%a8%ce%c4%bc%fe%bc%d01.zip 1 -
+/wp-admin/css/colors/coffee/xmrlpc.php 11 -
+/Deadcode1975.php 9 http://fukupa.com//Deadcode1975.php
+/www.rar 3 -
+/wp-content/plugins/WordPressCore/include.php 4 www.google.com
+/pi.php 4 http://mail.fukupa.com//pi.php
+/makhdmax.php 4 http://mail.fukupa.com//makhdmax.php
+/wp-admin/includes/cloud.php 5 -
+/TNT.php 1 -
+/server-status 3 -
+/wp-file.php 9 http://fukupa.com//wp-file.php
+/lyda.php 9 http://fukupa.com//lyda.php
+/wp-includes/ 2 -
+/wp_filemanager.php 9 http://fukupa.com//wp_filemanager.php
+/zhang.rar 1 -
+/lock360.php 13 http://fukupa.com//lock360.php
+/wp-content/plugins/alfa-rex.php 2 -
+/wp-admin/css/colors/coffee/index.php 11 -
+/wp-content/plugins/elementor/includes/settings/index.php 9 http://fukupa.com//wp-content/plugins/elementor/includes/settings/index.php
+/update-core.php 9 http://fukupa.com//update-core.php
+/%d5%fb%d5%be.tar.gz 1 -
+/inje3ctor.php 1 https://www.google.com
+/security.txt 1 http://www.fukupa.com/security.txt
+/wp-content/plugins/revslider/includes/external/page/index.php 9 http://fukupa.com//wp-content/plugins/revslider/includes/external/page/index.php
+/wp-admin/wso.php 9 http://fukupa.com//wp-admin/wso.php
+/Datadata.tar.gz 1 -
+/bypass.php 1 https://www.google.com
+/.git/config 13 -
+/fun.php 1 -
+/main.zip 1 -
+/wp-content/themes/gaukingo/db.php 9 http://fukupa.com//wp-content/themes/gaukingo/db.php
+/wp-admin/network/wp-login.php 8 http://fukupa.com//wp-admin/network/wp-login.php
+/wp-content/uploads/2023/index.php 2 -
+/p.php 1 https://www.google.com
+/wp-admin/images/moon.php 1 www.google.com
+/alfacgiapi/perl.alfa 2 www.google.com
+/jquery.slicknav.js 71 -
+/xx.php 15 https://www.google.com
+/%d7%ee%d0%c2%b0%e6%b1%be.zip 1 -
+/wp-includes/wp_filemanager.php 9 http://fukupa.com//wp-includes/wp_filemanager.php
+/bak.zip 1 -
+/j.php 1 https://www.google.com
+/wso1337.php 1 https://www.google.com
+/3.php 1 https://www.google.com
+/bk 6 http://fukupa.com/bk
+/4.php 1 https://www.google.com
+/lf.tar.gz 1 -
+/plugin/filemanager/dialog.php 1 -
+/x.zip 1 -
+/.well-known/pki-validation/x.php 1 www.google.com
+/wp 11 -
+/wp-content/plugins/wp-file-upload/ROOBOTS.php 9 http://fukupa.com//wp-content/plugins/wp-file-upload/ROOBOTS.php
+/test 5 -
+/c.php 4 https://www.google.com
+/wp-content/dropdown.php 12 -
+/lf.rar 1 -
+/wwroot.rar 1 -
+/%b8%fc%d0%c2.rar 1 -
+/wp_info.php 4 http://mail.fukupa.com//wp_info.php
+/alfa-rex.php 2 http://fukupa.com/alfa-rex.php
+/init.php 13 http://fukupa.com//init.php
+/a.php 2 https://www.google.com
+/wordpress/ 10 -
+/xxx.php 1 https://www.google.com
+/g.tar.gz 1 -
+/13.php 1 https://www.google.com
+/wp-includes/wp-class.php 24 -
+/wp-content/plugins/anttt/simple.php 9 http://fukupa.com//wp-content/plugins/anttt/simple.php
+/Datasql.zip 1 -
+/wwroot.zip 1 -
+/Datasql.rar 1 -
+/main 6 http://fukupa.com/main
+/bbs.tar.gz 1 -
+/wp-cron.php 2 -
+/xox.php 10 https://www.google.com
+/google.php 12 http://fukupa.com//google.php
+/robots.txt 368 -
+/add.rar 1 -
+/index.tar.gz 1 -
+/wp-content/themes/twentytwenty/404.php 4 http://mail.fukupa.com//wp-content/themes/twentytwenty/404.php
+/xl.php 1 https://www.google.com
+/bb.php 4 https://www.google.com
+/www.tar.gz 2 -
+/coloradmin/assets/plugins/jquery-file-upload/server/php/ 1 -
+/about.php 22 -
+/rahma.php 1 https://www.google.com
+/images/xmrlpc.php 11 -
+/xml.php 13 http://fukupa.com//xml.php
+/css/install.php 11 http://fukupa.com//css/install.php
+/wp-includes/customize/wp-login.php 8 http://fukupa.com//wp-includes/customize/wp-login.php
+/wp-content/themes/about.php 2 -
+/databack.zip 1 -
+/wp-content/uploads/wpr-addons/forms/CasperSecurity.php 1 www.google.com
+/wsoyanz.php 6 -
+/index.zip 1 -
+/1.tar.gz 1 -
+/cms.tar.gz 1 -
+/wp-login.php 2 http://www.fukupa.com/wp-login.php
+/%d5%fb%d5%be.zip 1 -
+/%cd%f8%d5%be.rar 1 -
+/wangzhan.zip 1 -
+/wp-content/plugins/dzs-zoomsounds/1877.php 13 http://fukupa.com/wp-content/plugins/dzs-zoomsounds/1877.php
+/wp-includes/Requests/Text/admin.php 5 -
+/public/static/common/images/ui_icon.jpg 1 -
+/t.php 1 https://www.google.com
+/.wp-cache.php 1 https://www.google.com
+/themes.php 15 -
+/sym403.php 1 https://www.google.com
+/ru.php 1 https://www.google.com
+/ebs.php7 4 -
+/web.tar.gz 2 -
+/wp-content/plugins/install.php 11 http://fukupa.com//wp-content/plugins/install.php
+/adm.rar 1 -
+/wp-content/plugins/linkpreview/wp-blog.php 4 http://mail.fukupa.com//wp-content/plugins/linkpreview/wp-blog.php
+/wp-content/up.php 13 http://fukupa.com//wp-content/up.php
+/wp-admin/xmrlpc.php 11 -
+/wp-admin.php 2 https://www.google.com
+/sites/all/libraries/elfinder/connectors/php/connector.php 9 http://fukupa.com//sites/all/libraries/elfinder/connectors/php/connector.php
+/core 4 -
+/js/calendar/active-bg.gif 1 -
+/ioxi-rex4.php7 2 -
+/wp-content/shell20211028.php 13 http://fukupa.com//wp-content/shell20211028.php
+/wp-includes/atom.php 9 http://fukupa.com//wp-includes/atom.php
+/wp-admin/css/colors/coffee/about.php 3 -
+/test/ 4 -
+/fukupa.tar.gz 1 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/index.php 4 http://mail.fukupa.com//wp-includes/js/tinymce/skins/lightgray/fonts/index.php
+/BAK 1 -
+/wp-apxupx.php 1 www.google.com
+/lf.zip 1 -
+/cgi-bin/install.php 11 http://fukupa.com//cgi-bin/install.php
+/5.php 1 https://www.google.com
+/css.php 13 http://fukupa.com//css.php
+/www.zip 3 -
+/wp-plain.php 2 www.google.com
+/o.php 1 https://www.google.com
+/lexiFlashFXP.tar.gz 1 -
+/wp-include/auto_seo.php 4 -
+/cloud.php 9 -
+/lcqc%b1%b8%b7%dd.tar.gz 1 -
+/wp-content/themes/wp-pridmag/up.php 1 www.google.com
+/if.php 2 https://www.google.com
+/wp-content/plugins/core/include.php 5 www.google.com
+/inbox.php 9 http://fukupa.com//inbox.php
+/777.php 1 https://www.google.com
+/auto_seo.php 4 -
+/tools.php 9 http://fukupa.com//tools.php
+/alfa-rex2.php7 4 -
+//wp-includes/ID3/license.txt 7 -
+/bbs.zip 1 -
+/cgi-bin/cloud.php 5 -
+/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php%20=%20%3e%3e%20shell%20no%20work 1 https://www.google.com
+/wp-admin/images/module.php 4 http://mail.fukupa.com//wp-admin/images/module.php
+/hacked.php 1 https://www.google.com
+/wp-admin/js/widgets/xmrlpc.php 11 -
+/fukupa.zip 2 -
+/Res/images/nopic.jpg 1 -
+/back.tar.gz 1 -
+/theme-install.php 9 http://fukupa.com//theme-install.php
+/back.zip 1 -
+/wwroot.tar.gz 1 -
+/admin/controller/extension/extension/Not_Found.php 4 http://mail.fukupa.com//admin/controller/extension/extension/Not_Found.php
+/wp-content/admin.php 4 -
+/public/static/common/images/bag-imgB.jpg 1 -
+/wp-includes/ID3/about.php 2 -
+/lufi.php 9 http://fukupa.com//lufi.php
+/wp-includes/fw.php 9 http://fukupa.com//wp-includes/fw.php
+/web.zip 3 -
+/wpx.php 9 http://fukupa.com//wpx.php
+/wp-p.php7 7 -
+/sett.php 4 http://mail.fukupa.com//sett.php
+/wp-content/plugins/td-composer/license.txt 6 -
+/w.zip 1 -
+/loktFlashFXP.rar 1 -
+/apple-touch-icon-precomposed.png 38 -
+/LeapFTP.tar.gz 1 -
+/wp-admin/css/wp-login.php 8 http://fukupa.com//wp-admin/css/wp-login.php
+/wp-ad.php 1 https://www.google.com
+/wp-includes/repeater.php 7 -
+/wp-content/languages/wp-login.php 8 http://fukupa.com//wp-content/languages/wp-login.php
+/backup/ 4 -
+/payout.php 4 http://mail.fukupa.com//payout.php
+/cms.zip 1 -
+/leaf.php 2 https://www.google.com
+/mrjn.php 1 https://www.google.com
+/wp-admin/includes/about.php 4 http://mail.fukupa.com//wp-admin/includes/about.php
+/modules/mod_simplefileuploadv1.3/elements/udd.php 4 http://mail.fukupa.com//modules/mod_simplefileuploadv1.3/elements/udd.php
+/admin-post.php 7 -
+/user-new.php 9 http://fukupa.com//user-new.php
+/admin/index.php 14 -
+/admin.php 23 -
+/default.php 13 http://fukupa.com//default.php
+/old-site 1 -
+/old_files 1 -
+/defau1t.php 1 https://www.google.com
+/01.php 4 http://mail.fukupa.com//01.php
+/wp.php 17 https://www.google.com
+/data.rar 1 -
+/cgi-bin/xmrlpc.php 11 -
+/1337.php 10 https://www.google.com
+/wp-content/plugins/linkpreview/db.php 13 http://fukupa.com//wp-content/plugins/linkpreview/db.php
+/wp/login.php 5 -
+/uph.php 9 http://fukupa.com//uph.php
+/st.php 10 http://fukupa.com//st.php
+/administrator/index.php 6 -
+/Marvins.php 9 http://fukupa.com//Marvins.php
+/shell20211028.php 19 -
+/demo.php 9 http://fukupa.com//demo.php
+/fukupacom.tar.gz 2 -
+/up.php 11 https://www.google.com
+/tshop.php 1 https://www.google.com
+/tttt.php 1 https://www.google.com
+/assets/lib/jquery-file-upload/server/php/ 1 -
+/Navir.php 1 https://www.google.com
+/root.tar.gz 1 -
+/kk.php 1 https://www.google.com
+/wp-includes/IXR/themes.php 2 -
+/alfashell.php 1 https://www.google.com
+/columns.php 9 http://fukupa.com//columns.php
+/olux.php 9 http://fukupa.com//olux.php
+/root.zip 1 -
+/wp-includes/random_compat/random_bytes_cyclone.php 9 http://fukupa.com//wp-includes/random_compat/random_bytes_cyclone.php
+/dup-installer/main.installer.php 1 http://www.fukupa.com/dup-installer/main.installer.php
+/moon.php 13 http://fukupa.com//moon.php
+/wp-content/plugins/classic-editor/wp-login.php 9 -
+/website.zip 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 11 http://fukupa.com//wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/aspvlheq.php 1 www.google.com
+/general.php 4 www.google.com
+/indexs.php 9 http://fukupa.com//indexs.php
+/website.rar 1 -
+/DKIZ.php 9 http://fukupa.com//DKIZ.php
+/sym.php 10 https://www.google.com
+/wp-admin/css/colors/blue/about.php 1 www.google.com
+/new.php 2 https://www.google.com
+/wp-content/themes/welfare-charity/www.php 9 http://fukupa.com//wp-content/themes/welfare-charity/www.php
+/%d0%c2%bd%a8%ce%c4%bc%fe%bc%d01.tar.gz 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wwwrool.tar.gz 1 -
+/cgi-bin/cgi-bin/about.php7 11 http://fukupa.com//cgi-bin/cgi-bin/about.php7
+/wp-admin/css/mari.php 1 -
+/%d0%c2%bd%a8%ce%c4%bc%fe%bc%d0.tar.gz 1 -
+/blog.rar 1 -
+/wp-admin/includes/export.php 1 http://fukupa.com//wp-admin/includes/export.php
+/alex.php 2 https://www.google.com
+/nee.php 1 https://www.google.com
+/wp-admin/includes/wp-login.php 8 http://fukupa.com//wp-admin/includes/wp-login.php
+/fukupa.rar 2 -
+/wp-admin/includes/users.php 13 http://fukupa.com//wp-admin/includes/users.php
+/inc20k1.php 1 https://www.google.com
+/images/vuln.php 9 http://fukupa.com//images/vuln.php
+/small.php 13 http://fukupa.com//small.php
+/wp-wso.php 1 https://www.google.com
+/0.php 1 https://www.google.com
+/wp-admin/alfa.php 13 http://fukupa.com//wp-admin/alfa.php
+/lexiFlashFXP.zip 1 -
+/wp-content/plugins/whlp/includes/wp-heart.php 2 -
+/bak.tar.gz 1 -
+/fukupa.com.rar 4 -
+/9.php 1 https://www.google.com
+/admin.rar 1 -
+/c.rar 1 -
+/wp-admin/wp_filemanager.php 9 http://fukupa.com//wp-admin/wp_filemanager.php
+/assets/vendor_admin/plugins/jquery-file-upload/server/php/ 1 -
+/wp-admin/images/cloud.php 5 -
+/lib/jquery-file-upload/server/php/ 1 -
+/wp-content/inputs.php 4 -
+/shellv3.php 2 -
+/wp-content/home.php 9 http://fukupa.com//wp-content/home.php
+/old2 1 -
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php 14 http://fukupa.com//wp-content/plugins/instabuilder2/cache/plugins/moon.php
+/xmrlpc.php 11 -
+/%cd%f8%d5%be%b1%b8%b7%dd.rar 1 -
+/wp-configer.php 1 https://www.google.com
+/%d5%be%b5%e3.zip 1 -
+/wp-admin/about.php 4 -
+/4price3.php 2 -
+/manifest.json 2 -
+/wp-content/plugins/ccx/index.php 15 -
+/f.php 1 https://www.google.com
+/wp-content/plugins/seoo/wsoyanz.php 8 -
+/v3n0m.php 9 http://fukupa.com//v3n0m.php
+/l.php 1 https://www.google.com
+/124.php 1 -
+/xl2023.php 13 http://fukupa.com//xl2023.php
+/tesla.php 9 http://fukupa.com//tesla.php
+/login.action 3 -
+/adm.zip 1 -
+/WSO.php 1 https://www.google.com
+/s.php 1 https://www.google.com
+/mad.php 13 http://fukupa.com//mad.php
+/libraries/vendor/updates.php 5 -
+/hello.php 1 https://www.google.com
+/8.php 1 https://www.google.com
+/base/js/common.js 1 -
+/wp-admin/images/install.php 12 http://fukupa.com//wp-admin/images/install.php
+/admin/controller/extension/wpm.php 4 http://mail.fukupa.com//admin/controller/extension/wpm.php
+/dropdown.php 22 -
+/swm.php 1 https://www.google.com
+/backup 7 http://fukupa.com/backup
+/readme.txt 5 -
+/xmlrpc2.php 9 http://fukupa.com//xmlrpc2.php
+/js/jquery-file-upload/server/php/ 1 -
+/1.rar 1 -
+/old1 1 -
+/10.php 1 https://www.google.com
+/404_icon.png 1 -
+/uploads/up.php 9 http://fukupa.com//uploads/up.php
+/main.rar 1 -
+/.well-known/acme-challenge/index.php 2 -
+/Old 1 -
+/metronic/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/%b7%fe%ce%f1%c6%f7.zip 1 -
+/wp-admin/xleet.php 4 http://mail.fukupa.com//wp-admin/xleet.php
+/.well-known/acme-challenge/xmrlpc.php 12 -
+/server.tar.gz 1 -
+/%b9%a4%be%df.rar 1 -
+/app/webroot/global/plugins/jquery-file-upload/server/php/ 1 -
+/add.zip 1 -
+/users.php 13 http://fukupa.com//users.php
+/.well-known/traffic-advice 3 -
+/an.php 9 http://fukupa.com//an.php
+/%d0%c2%bd%a8%ce%c4%bc%fe%bc%d01.rar 1 -
+/wz.zip 1 -
+/Leaf.php 1 https://www.google.com
+/wp-admin/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php%20=%20%3e%3e%20shell%20no%20work 1 https://www.google.com
+/admin/.env 2 -
+/%ca%fd%be%dd.rar 1 -
+/wp-admin/network/cloud.php 5 -
+/wp-content/plugins/revslider/includes/page/index.php 9 http://fukupa.com//wp-content/plugins/revslider/includes/page/index.php
+/adminfuns.php7 4 -
+/fm.php 13 http://fukupa.com//fm.php
+/wp-content/plugins/press/wp-class.php 4 -
+/wp-head.php 21 -
+/%d0%de%b8%c4%b0%e6.rar 1 -
+/lcqc%b1%b8%b7%dd.rar 1 -
+/oldwebsite 1 -
+/wp-confirm.php 1 https://www.google.com
+/lol.php 1 https://www.google.com
+/wp-consar.php 7 -
+/g.rar 1 -
+/wp-admin/network/xmrlpc.php 11 -
+/js/ 1 http://www.fukupa.com/js/
+/wp-admin/install.php 17 -
+/install.zip 1 -
+/wp-content/themes.php 2 -
+/cgi-bin/cgi-bin/about.php 11 http://fukupa.com//cgi-bin/cgi-bin/about.php
+/wp-admin/css/colors/cloud.php 5 -
+/newsite 4 -
+/mar.php 10 https://www.google.com
+/install.rar 1 -
+/minishell.php 9 http://fukupa.com//minishell.php
+/wp-admin/x.php 1 www.google.com
+/wp-content/plugins/ioptimization/IOptimize.php 9 http://fukupa.com//wp-content/plugins/ioptimization/IOptimize.php
+/wp-admin/css/colors/coffee/mari.php 1 -
+/beta 1 -
+/wp-admin/home.php 9 http://fukupa.com//wp-admin/home.php
+/wp-2020.php 3 http://mail.fukupa.com//wp-2020.php
+/fukupacom.rar 3 -
+/databak.tar.gz 1 -
+/wp-includes/blocks/table/int/tmpl/index.php 16 -
+/hello.rar 1 -
+/bak.rar 1 -
+/Public/home/js/check.js 3 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 5 -
+/utchiha.php 9 http://fukupa.com//utchiha.php
+/wp-admin/css/colors/blue/uploader.php 9 http://fukupa.com//wp-admin/css/colors/blue/uploader.php
+/leet.php 9 http://fukupa.com//leet.php
+/chengxu.tar.gz 1 -
+/formcraft/file-upload/server/php/ 1 -
+/wp-includes/Requests/Text/index.php 2 -
+/%b1%b8%b7%dd.rar 1 -
+/flashfxp.tar.gz 1 -
+/wp-admin/wp-22.php 9 http://fukupa.com//wp-admin/wp-22.php
+/wp-admin/user/cloud.php 5 -
+/%d7%ee%d0%c2.rar 1 -
+/databackup.zip 1 -
+/wp-content/upgrade/ 2 -
+/wp-content/repeater.php 7 -
+/wp-content/plugins/mw-wp-form/css/admin-common.css 2 -
+/ws.php 17 https://www.google.com
+/uploads/xleet.php 4 http://mail.fukupa.com//uploads/xleet.php
+/login.rar 1 -
+/smoothScroll.js 69 -
+/%b7%fe%ce%f1%b6%cb.rar 1 -
+/ee.php 24 http://fukupa.com//ee.php
+/wp-admin/fx.php 9 http://fukupa.com//wp-admin/fx.php
+/0z.php 13 http://fukupa.com//0z.php
+/templates/beez3/error.php 9 http://fukupa.com//templates/beez3/error.php
+/%d5%be%b5%e3.tar.gz 1 -
+/wp-one.php 1 https://www.google.com
+/wp-content/plugins/envato-market/inc/class-envato-market-api.php 4 -
+/wp-content/plugins/TOPXOH/wDR.php 18 http://fukupa.com//wp-content/plugins/TOPXOH/wDR.php
+/haxor.php 2 https://www.google.com
+/com.tar.gz 1 -
+/wp-content/themes/mero-megazines/ws.php 1 -
+/%d0%c2%b0%e6%b1%be.tar.gz 1 -
+/sitemap.xml 6 -
+/.well-known/acme-challenge/license.php 3 -
+/%b7%fe%ce%f1%b6%cb.tar.gz 1 -
+/banben.rar 1 -
+/home.php 9 http://fukupa.com//home.php
+/%d7%ee%d0%c2.tar.gz 1 -
+/wp-admin/shell20211028.php 13 http://fukupa.com//wp-admin/shell20211028.php
+/fukupacom.zip 3 -
+/wp-content/updates.php 5 -
+/admin/filemanager/dialog.php 1 -
+/my1.php 9 http://fukupa.com//my1.php
+/wp-admin/css/colors/blue/xmrlpc.php 11 -
+/plugins/qqkf/qqkf2.js 1 -
+/lf.php 2 https://www.google.com
+/wso.php 14 https://www.google.com
+/ini.php 9 http://fukupa.com//ini.php
+/label/ajax/hit.aspx 1 -
+/wp-22.php 9 http://fukupa.com//wp-22.php
+/Datadb.tar.gz 1 -
+/lock0360.php 9 http://fukupa.com//lock0360.php
+/byp.php 13 http://fukupa.com//byp.php
+/%d5%be%b5%e3.rar 1 -
+/me.php 9 http://fukupa.com//me.php
+/sitemap_index.xml 2 -
+/%ca%fd%be%dd.zip 1 -
+//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js 71 -
+/xleet.php 14 https://www.google.com
+/info.rar 1 -
+/.vscode/sftp.json 4 -
+/4pric.php 2 -
+/payload.php 9 http://fukupa.com//payload.php
+/wp-includes/ID3/license.txt 9 -
+/e/css/submenu.css 1 -
+/wp-admin/maint/wp-login.php 8 http://fukupa.com//wp-admin/maint/wp-login.php
+/DBDB.rar 1 -
+/wp-content/themes/applica/400.php 1 http://fukupa.com/wp-content/themes/applica/400.php
+/ch.php 9 http://fukupa.com//ch.php
+/kn.php 1 https://www.google.com
+/fw.php 14 https://www.google.com
+/wp-includes/js/wp-emoji-release.min.js 1 www.google.com
+/cmd13.php 1 https://www.google.com
+/%b9%a4%be%df.zip 1 -
+/w.php 1 https://www.google.com
+/wp-content/plugins/ 11 http://fukupa.com//wp-content/plugins/
+/js/comm.js 1 -
+/wp-admin/js/about.php7 11 http://fukupa.com//wp-admin/js/about.php7
+/wp-json/acf/v3/options/a 1 -
+/%b1%b8%b7%dd.tar.gz 1 -
+/plugins/jquery-file-upload/server/php/ 1 -
+/wp-include/inputs.php 4 -
+/flashfxp.zip 1 -
+/net.zip 1 -
+/%d0%c2%b0%e6%b1%be.rar 1 -
+/wp-includes/radio.php 4 http://mail.fukupa.com//wp-includes/radio.php
+/lalala.php 9 http://fukupa.com//lalala.php
+/wp-admin/mari.php 1 -
+/tnt.php 9 http://fukupa.com//tnt.php
+/assets/libs/jquery-file-upload/server/php/ 1 -
+/wp-blog.php 13 http://fukupa.com//wp-blog.php
+/%b1%b8%b7%dd.zip 1 -
+/v2/_catalog 3 -
+/IndoXploit.php 9 http://fukupa.com//IndoXploit.php
+/wp-admin/css/colors/blue/cloud.php 5 -
+/wp-includes/home.php 9 http://fukupa.com//wp-includes/home.php
+/nasgor.php 1 https://www.google.com
+/wp-content/auto_seo.php 4 -
+/wp-content/themes/pridmag/db.php 13 http://fukupa.com//wp-content/themes/pridmag/db.php
+/cgi-bin/wp-login.php 8 http://fukupa.com//cgi-bin/wp-login.php
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 9 http://fukupa.com//wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+/chosen.php 5 -
+/wp-content/wp_filemanager.php 9 http://fukupa.com//wp-content/wp_filemanager.php
+/.well-known/acme-challenge/install.php 11 http://fukupa.com//.well-known/acme-challenge/install.php
+/wp-admin/includes/themes.php 2 -
+/%ca%fd%be%dd.tar.gz 1 -
+/db.zip 1 -
+/wp-content/plugins/seoo/alfa-ioxi.php 2 -
+/%ca%fd%be%dd%bf%e2.tar.gz 1 -
+/%b9%a4%be%df.tar.gz 1 -
+/apple-touch-icon-120x120.png 37 -
+/u.php 1 https://www.google.com
+/wp-admin/dropdown.php 34 -
+/wp-admin/css/maro.php 1 -
+/BKP 1 -
+/alfa.php 10 https://www.google.com
+/r.php 1 https://www.google.com
+/plus/img/toplogo.gif 1 -
+/x.rar 1 -
+/style.php 17 www.google.com
+/assets/themes/metronic/global/jquery-file-upload/server/php/ 1 -
+/skippershell.php 1 https://www.google.com
+/wp-admin/cloud.php 5 -
+/1index.php 1 https://www.google.com
+/FoxWSOv1.php 1 https://www.google.com
+/install.tar.gz 1 -
+/website-sitemap.xml 2 -
+/fukupa_com.zip 3 -
+/images/ 1 http://www.fukupa.com/images/
+/wp-content/uploads/typehub/custom/.RxR.php 9 http://fukupa.com//wp-content/uploads/typehub/custom/.RxR.php
+/plugin-install.php 10 -
+/old 10 -
+/srx.php 10 https://www.google.com
+/databak.rar 1 -
+/banben.zip 1 -
+/wp-content/plugins/backup-backup/includes/kro.php 1 -
+/smm.php 4 http://mail.fukupa.com//smm.php
+/0x.php 9 http://fukupa.com//0x.php
+/media/mediamgr/other/jq_fileupload/server/php/ 1 -
+/databak.zip 1 -
+/upl.php 18 http://fukupa.com//upl.php
+/1975.php 10 -
+/alfanew2.php7 4 -
+/R00T.php 9 http://fukupa.com//R00T.php
+/chengxu.zip 1 -
+/wp-content/plugins/wp-login.php 7 http://fukupa.com//wp-content/plugins/wp-login.php
+/wp-admin/css/colors/maro.php 1 -
+/anone.php 1 https://www.google.com
+/%d7%ee%d0%c2.zip 1 -
+/admin.zip 1 -
+/chengxu.rar 1 -
+/wp-content/patior/ 12 http://fukupa.com//wp-content/patior/
+/wp-content/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php%20=%20%3e%3e%20shell%20no%20work 1 https://www.google.com
+/wp-content/themes/finley/min.php 12 -
+/fx.php 9 http://fukupa.com//fx.php
+/wp-content/plugins/core-plugin/include.php 1 www.google.com
+/upload.php 14 https://www.google.com
+/b.rar 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 25 -
+/moto.php 9 http://fukupa.com//moto.php
+/LeapFTP.zip 1 -
+/h4xor.php 9 http://fukupa.com//h4xor.php
+/upfile.tar.gz 1 -
+/LeapFTP.rar 1 -
+/http.zip 1 -
+/w.tar.gz 1 -
+/http.tar.gz 1 -
+/wp-admin/css/colors/blue/CasperExV1.php 13 http://fukupa.com//wp-admin/css/colors/blue/CasperExV1.php
+/telescope/requests 3 -
+/alfanew.php 9 -
+/wp-admin/network/subjects.php 9 http://fukupa.com//wp-admin/network/subjects.php
+/ads.txt 66 -
+/ww.zip 1 -
+/tmp/vuln.php 9 http://fukupa.com//tmp/vuln.php
+/i.php 1 https://www.google.com
+/3index.php 1 https://www.google.com
+/tmpshell.php 9 http://fukupa.com//tmpshell.php
+/wp-includes/fonts/wp-login.php 8 http://fukupa.com//wp-includes/fonts/wp-login.php
+/media/system/js/core.js 2 http://fukupa.com/media/system/js/core.js
+/flashfxp.rar 1 -
+/admin/ 1 -
+/%cd%f8%d5%be%b1%b8%b7%dd.tar.gz 1 -
+/wp-content/uploads/ac_assets/IndoSec.php%20 1 http://fukupa.com//wp-content/uploads/ac_assets/IndoSec.php%20
+/rxr.php 18 http://fukupa.com//rxr.php
+/end.php 9 http://fukupa.com//end.php
+/sftp-config.json 1 -
+/.well-known/fierzashell.php 2 www.google.com
+/wp-content/plugins/yyobang/mar.php 1 www.google.com
+/images/wp-login.php 7 http://fukupa.com//images/wp-login.php
+/wp-admin/images/wp-login.php 8 http://fukupa.com//wp-admin/images/wp-login.php
+/com.rar 1 -
+/geju.php 1 -
+/wp-info.php 14 http://fukupa.com//wp-info.php
+/wp_wrong_datlib.php 9 http://fukupa.com//wp_wrong_datlib.php
+/wp-includes/shell20211028.php 11 -
+/utchiha_uploader.php 9 http://fukupa.com//utchiha_uploader.php
+/priv8.php 11 https://www.google.com
+/%cd%f8%d5%be%b1%b8%b7%dd.zip 1 -
+/wp-includes/class-json-ajax-session.php 9 http://fukupa.com//wp-includes/class-json-ajax-session.php
+/radio.php 20 -
+/www.php 10 https://www.google.com
+/fukupa.com.tar.gz 2 -
+/b0.php 1 www.google.com
+/edit-form.php 1 https://www.google.com
+/wp-content/style-css.php 2 -
+/loktFlashFXP.zip 1 -
+/wp-content/plugins/index.php 13 http://fukupa.com//wp-content/plugins/index.php
+/apple-touch-icon.png 40 -
+/coaster/jquery/gallery-upload/server/php/ 1 -
+/web1.zip 1 -
+/alexus.php 1 https://www.google.com
+/classwithtostring.php 13 http://fukupa.com//classwithtostring.php
+/install.php 12 http://fukupa.com//install.php
+/%ca%fd%be%dd%bf%e2.zip 1 -
+/log.php 13 http://fukupa.com//log.php
+/backup.tar.gz 1 -
+/web1.tar.gz 1 -
+/%d7%ee%d0%c2%b0%e6.rar 1 -
+/loktFlashFXP.tar.gz 1 -
+/wp-admin/user/xmrlpc.php 11 -
+/z.rar 1 -
+/.well-known/acme-challenge/moon.php 1 www.google.com
+/wwwrool.rar 1 -
+/wang.rar 1 -
+/503.php 9 http://fukupa.com//503.php
+/1877.php 9 http://fukupa.com//1877.php
+/wp-content/themes/intense/block-css.php 4 -
+/ccx/index.php 2 -
+/shell.php 15 https://www.google.com
+/repeater.php 32 -
+/wwwrool.zip 1 -
+/wp-content/plugins/Cache/dropdown.php 24 http://fukupa.com//wp-content/plugins/Cache/dropdown.php
+/wp-includes/mari.php 1 -
+/wi.php 1 https://www.google.com
+/public/javascript/jquery.upload/server/php/ 1 -
+/d.php 1 https://www.google.com
+/hello.zip 1 -
+/login.tar.gz 1 -
+/cong.php 12 -
+/game.tar.gz 1 -
+/wikindex.php 5 https://www.google.com
+/game.zip 1 -
+/license.php 9 http://fukupa.com//license.php
+/mass.php 9 http://fukupa.com//mass.php
+/wp-includes/theme-compat/wp-conflg.php 1 http://fukupa.com/wp-includes/theme-compat/wp-conflg.php
+/news.zip 1 -
+/mini.php 13 http://fukupa.com//mini.php
+/.well-known/ 30 binance.com
+/popxeeyv.php 1 www.google.com
+/apple-touch-icon-120x120-precomposed.png 37 -
+/alfanew.php7 15 -
+/private.php 9 http://fukupa.com//private.php
+/edit-comments.php 13 http://fukupa.com//edit-comments.php
+/news.tar.gz 1 -
+/tron.php 9 http://fukupa.com//tron.php
+/wp-content/plugins/core-stab/casper.php 9 http://fukupa.com//wp-content/plugins/core-stab/casper.php
+/fox.php 13 http://fukupa.com//fox.php
+/6.php 1 https://www.google.com
+/wp-content/themes/classic/inc/casper.php 9 http://fukupa.com//wp-content/themes/classic/inc/casper.php
+/wp-l0gin.php 4 http://mail.fukupa.com//wp-l0gin.php
+/lexiFlashFXP.rar 1 -
+/wp-admin/css/ 28 binance.com
+/js/slick/images/code.png 1 -
+/wp-admin/fw.php 9 http://fukupa.com//wp-admin/fw.php
+/wp-admin/setup-config.php 10 -
+/bat.zip 1 -
+/wp-includes/certificates/wp-login.php 8 http://fukupa.com//wp-includes/certificates/wp-login.php
+/media-admin.php 13 http://fukupa.com//media-admin.php
+/font-editor.php 9 http://fukupa.com//font-editor.php
+/wp-admin/js/widgets/cloud.php 5 -
+/bc 6 http://fukupa.com/bc
+/%d0%c2%bd%a8%ce%c4%bc%fe%bc%d0.rar 2 -
+/clen.php 4 http://mail.fukupa.com//clen.php
+/website.tar.gz 1 -
+/login.zip 1 -
+/wp-includes/install.php 11 http://fukupa.com//wp-includes/install.php
+/wp-admin/ 2 -
+/autoload_classmap.php 6 -
+/wp-content/plugins/fix/up.php 42 -
+/hello.tar.gz 1 -
+/new 10 -
+/Ueditor/net/controller.ashx 2 www.fukupa.com/Ueditor/net/controller.ashx
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1001
+154.28.229.132 53 53 646801 20231220133723
+104.164.173.32 51 51 622110 20231220133726
+54.173.114.149 28 28 72800 20231214072432
+54.83.101.9 27 27 71215 20231214042617
+40.88.6.161 26 26 68991 20231225020258
+34.76.206.8 25 29 20625 20231228065622
+219.250.110.78 24 226 17890288 20231226214552
+34.76.41.77 23 29 10193 20231214003649
+198.20.67.203 20 40 255830 20231231214610
+193.188.20.238 20 20 116150 20231228050854
+107.185.241.8 17 182 15604441 20231229090105
+76.173.208.226 16 16 35920 20231214091730
+45.147.248.16 15 15 81555 20231231132347
+184.154.76.20 14 28 179081 20231229215019
+144.34.180.111 13 13 122419 20231214015657
+104.164.173.69 13 16 41084 20231220133721
+72.234.222.55 13 13 24895 20231228215916
+104.164.173.21 13 16 41084 20231220133722
+95.181.237.47 13 13 34485 20231227000607
+184.154.139.51 12 24 153498 20231219214841
+18.246.41.180 12 12 13310 20231210151700
+178.20.42.231 12 12 68208 20231229062609
+35.168.132.30 12 12 28932 20231227180149
+51.159.168.109 12 12 32570 20231213192849
+149.56.150.250 11 11 94840 20231215141101
+198.235.24.53 1 1 38006 20231229225412
+119.96.24.54 1 1 1915 20231231004915
+185.76.9.105 1 1 5931 20231222181849
+109.234.35.41 1 1 5931 20231224011546
+185.209.196.243 1 1 1915 20231220133724
+37.140.223.117 1 2 630408 20231205034304
+23.81.50.108 1 1 2224 20231216223747
+123.13.201.124 1 12 700162 20231227014906
+91.92.248.145 3 3 12789 20231228102143
+45.77.38.236 2 2 3830 20231230071209
+176.226.172.92 2 2 11396 20231208212051
+8.210.8.100 1 1 1915 20231217064539
+98.155.203.196 2 28 3316921 20231211213149
+172.56.44.105 1 11 1415431 20231231190042
+104.164.173.76 1 1 12237 20231220133718
+5.188.62.26 1 1 1915 20231215234738
+158.69.119.14 2 2 10874 20231217060948
+34.145.227.243 2 2 10874 20231231113739
+54.177.153.243 2 28 275374 20231215190004
+139.59.86.61 1 1 1915 20231218225450
+218.78.107.28 2 2 3830 20231222044916
+34.106.97.106 1 1 5437 20231205100826
+208.100.26.235 1 1 1915 20231217055223
+198.235.24.235 1 1 37994 20231211192406
+138.186.142.205 1 1 5437 20231215041143
+205.210.31.253 1 1 5437 20231229100212
+192.126.188.120 1 1 2224 20231231094528
+51.159.146.115 1 4 9698 20231213195805
+13.52.99.35 1 1 1915 20231214115941
+34.125.175.16 1 1 1915 20231204061437
+120.92.72.185 1 3 7556 20231216031618
+207.46.13.151 1 1 1915 20231218124213
+44.242.168.215 1 1 1915 20231225185639
+193.31.106.235 1 1 2224 20231209111046
+205.210.31.87 1 1 38006 20231215153806
+52.206.84.190 1 1 1915 20231211052628
+166.199.97.32 7 63 4973485 20231208175835
+34.94.169.174 1 1 5437 20231203064352
+20.24.9.227 2 2 10874 20231223151938
+77.83.92.122 2 2 8210 20231203152619
+41.142.50.144 1 1 1915 20231204182204
+207.46.13.64 1 1 1915 20231218125512
+172.187.136.26 1 1 1915 20231207141531
+154.12.52.51 1 1 1915 20231220183833
+184.154.139.50 8 16 102332 20231226215416
+52.53.184.182 1 1 1915 20231213183714
+176.123.7.11 3 13 125981 20231220065923
+120.92.72.199 0 1 958 
+3.238.58.112 1 1 1915 20231218141507
+24.193.38.44 1 18 2173117 20231201102606
+141.239.74.51 6 80 4778326 20231210140814
+47.242.182.173 2 2 3830 20231217064536
+188.165.87.96 1 1 5437 20231221131323
+165.227.82.132 1 1 1915 20231213060627
+18.144.82.70 1 1 1915 20231205063051
+80.245.120.0 2 2 8434 20231222233207
+110.166.71.39 3 3 5745 20231229173418
+34.204.78.132 1 1 8306 20231215010514
+188.126.94.170 1 1 3590 20231204171556
+20.199.80.170 1 1 5437 20231229010929
+124.226.222.66 1 1 1915 20231224103152
+195.211.77.140 1 1 0 20231220133620
+172.56.44.25 1 5 12170 20231207195722
+165.227.228.168 1 1 1915 20231211073400
+130.185.156.91 1 1 1915 20231206061108
+119.91.250.193 2 2 5505 20231212135623
+79.132.140.146 2 2 7410 20231230164428
+34.232.51.180 1 5 49810 20231208094341
+37.46.122.88 2 2 11862 20231227045253
+192.227.241.99 1 1 2224 20231213054435
+185.220.100.249 3 3 21155 20231231172524
+76.172.13.217 4 24 2980065 20231203065104
+54.185.203.72 1 1 1915 20231231214704
+175.44.42.27 1 1 1915 20231206032455
+120.92.72.72 1 3 3598 20231225060822
+8.209.100.59 2 2 11862 20231230113951
+192.36.248.249 1 1 1915 20231212001543
+76.173.42.62 1 12 2367888 20231222190550
+5.157.20.140 1 1 2224 20231229142928
+172.127.117.96 1 18 2173117 20231205102359
+143.198.14.162 1 1 1915 20231215023139
+178.66.20.153 1 1 5931 20231204074441
+172.241.245.192 1 1 2224 20231224181010
+35.161.206.169 1 1 1915 20231207045428
+124.225.164.130 1 1 1915 20231226001450
+40.77.167.70 1 1 1915 20231216113116
+209.99.152.210 1 1 2682 20231202041156
+173.44.153.15 1 1 1915 20231208115717
+191.102.151.84 1 1 1915 20231228223844
+27.115.124.118 1 18 2173117 20231221235251
+120.92.72.96 1 1 1915 20231211175432
+65.154.226.169 3 37 4348149 20231221115610
+139.99.117.36 1 1 5437 20231208114101
+174.202.0.136 1 17 1220660 20231201150938
+98.155.105.154 1 17 1220660 20231206005117
+35.87.137.173 1 1 5437 20231226082433
+51.159.183.69 1 4 9281 20231213203554
+193.109.120.16 4 4 23724 20231230201824
+149.34.245.198 1 1 5931 20231204155907
+192.198.98.234 1 1 2224 20231227130021
+82.147.85.78 5 5 26161 20231224210700
+51.159.143.153 1 4 10189 20231213195925
+72.253.102.123 2 36 4131245 20231220125502
+45.77.170.94 5 5 9575 20231229163330
+205.210.31.44 1 1 5437 20231222005608
+161.35.87.236 1 1 12230 20231221172421
+136.226.6.175 1 18 2173117 20231218193821
+54.198.149.117 6 6 13474 20231227180149
+65.109.23.2 1 1 5437 20231228174935
+45.141.215.88 3 3 19661 20231206072416
+77.74.177.119 2 2 3830 20231223011331
+185.220.100.240 1 1 5931 20231203101057
+23.106.30.228 2 2 5486 20231221175732
+142.93.153.3 2 2 50250 20231220133612
+46.246.8.66 2 2 8340 20231231135827
+37.19.217.97 1 1 5931 20231215060815
+52.167.144.186 3 3 5745 20231214141113
+67.52.93.30 2 20 2611770 20231204122008
+134.96.225.237 1 18 2173117 20231231124420
+205.185.113.180 3 3 38917 20231224225619
+123.6.49.15 2 36 4346234 20231217101933
+172.234.195.81 2 2 10874 20231201041138
+69.167.11.88 1 1 0 20231206063344
+149.102.152.100 1 1 1915 20231203000507
+94.233.241.10 1 1 5931 20231228075102
+152.58.65.20 2 2 8584 20231215194322
+51.159.145.98 1 4 9246 20231214040523
+165.227.92.222 1 1 1915 20231209070405
+185.146.232.243 1 1 5437 20231208002537
+52.53.197.124 2 23 225562 20231216134048
+184.99.25.49 2 14 2998168 20231202151649
+23.106.193.212 2 2 5890 20231221175732
+76.88.142.74 1 18 2173117 20231201234551
+107.77.229.183 0 1 30287 
+51.159.158.200 1 4 9376 20231213201338
+125.94.144.102 1 1 1915 20231207002727
+128.90.154.21 2 2 9796 20231211132219
+185.220.102.241 1 1 5931 20231209160741
+75.85.81.95 2 22 3491954 20231208192006
+174.202.3.233 1 1 1915 20231206171800
+72.168.128.22 1 9 727002 20231231183859
+51.159.149.179 1 4 8823 20231213194121
+174.202.1.17 3 20 1853313 20231207155119
+170.64.130.230 2 2 10874 20231202144428
+51.89.24.250 1 12 2367888 20231201162212
+113.219.218.197 1 1 1915 20231203131951
+62.84.96.213 1 1 5931 20231203063002
+95.142.121.37 1 1 5437 20231203133110
+185.196.52.161 1 1 1915 20231204123018
+193.35.48.118 1 1 5931 20231214213332
+37.19.210.16 3 3 5745 20231220133745
+80.94.250.113 2 2 11862 20231226112630
+23.27.240.186 1 1 2245 20231216091449
+69.167.28.240 1 1 0 20231222233757
+207.46.13.31 2 2 3830 20231218141806
+45.133.171.15 1 1 2224 20231205140643
+60.188.57.0 1 1 1915 20231223165755
+160.19.92.157 1 1 2548 20231202041159
+185.228.19.241 1 18 2173117 20231205154300
+64.227.25.223 1 1 1915 20231203065752
+195.181.170.232 2 2 10874 20231218112221
+103.132.241.180 5 49 4456450 20231230034102
+8.222.178.157 2 2 8276 20231217230143
+64.227.139.236 1 1 1915 20231223074634
+1.169.121.91 2 2 8356 20231201012706
+172.56.44.134 1 18 2173117 20231213172731
+43.206.126.163 1 1 1915 20231214111555
+188.134.80.97 1 1 1915 20231203013958
+47.88.11.18 0 89 11051802 
+43.131.62.4 1 1 1915 20231207074432
+104.248.200.149 2 13 2373325 20231214000107
+47.88.101.3 1 1 12234 20231221051359
+40.77.167.41 3 3 5745 20231201153643
+193.218.118.136 2 2 11368 20231202162824
+3.72.52.74 1 2 89643 20231215013528
+95.31.119.243 1 1 5931 20231230145321
+178.34.160.195 5 5 11120 20231224003844
+206.232.45.20 1 1 2224 20231204012209
+164.92.148.70 1 1 12233 20231203022534
+109.248.167.35 1 1 1915 20231203071904
+120.92.72.88 0 1 4916 
+49.7.227.204 1 1 1915 20231220012629
+34.106.191.6 1 1 5437 20231208124903
+172.241.152.155 1 1 2224 20231226141959
+185.126.252.116 1 1 5931 20231231181213
+104.236.9.13 1 1 1915 20231225233950
+54.153.65.195 1 1 1915 20231205214148
+47.242.224.70 2 2 24468 20231221080458
+51.159.139.127 1 4 8844 20231213194216
+38.125.75.48 1 1 2224 20231231214435
+73.35.248.83 6 6 32622 20231221112502
+35.222.24.193 1 1 3208 20231220212330
+185.223.152.6 2 41 6492660 20231214174828
+82.67.12.164 1 1 5437 20231214151311
+94.25.169.120 3 3 14153 20231206184658
+185.36.127.31 1 1 1915 20231230183713
+52.167.144.19 1 1 1915 20231201112932
+172.241.162.166 2 2 4448 20231206130009
+147.135.5.20 1 1 1915 20231215062203
+23.106.192.221 2 2 5325 20231221175732
+109.149.87.158 1 1 5931 20231207114124
+61.139.77.181 1 1 1915 20231224011944
+69.167.38.108 1 1 0 20231202053223
+167.99.4.44 1 1 1915 20231201000139
+23.239.26.201 4 4 21748 20231226180503
+107.150.0.33 1 1 2224 20231215021446
+72.79.16.210 7 55 6213482 20231211140715
+109.107.172.122 2 2 11484 20231202124148
+101.71.125.142 5 20 42570 20231231091309
+192.210.190.19 1 1 2224 20231227124011
+193.151.180.188 1 1 1915 20231226025737
+51.254.49.105 1 1 5437 20231221170616
+128.199.48.127 1 1 5437 20231230151413
+43.159.141.180 1 1 1915 20231210110207
+192.252.220.89 1 1 5437 20231221155247
+104.164.173.147 1 1 1915 20231220133718
+98.159.36.7 1 1 5931 20231223094153
+2.58.95.45 2 2 11862 20231214185458
+77.40.57.167 1 1 5931 20231227035144
+76.173.33.102 7 65 4248855 20231214082319
+123.187.240.242 3 3 5745 20231226173401
+54.90.157.132 1 1 1915 20231210193509
+205.210.31.89 1 1 5437 20231211145303
+104.28.123.26 1 25 2054722 20231222165933
+45.154.98.137 2 2 3830 20231218151024
+172.241.234.158 1 1 2224 20231217082748
+52.167.144.234 4 4 7660 20231226104800
+198.235.24.34 1 1 5437 20231226115528
+45.62.117.143 1 7 14303 20231227014859
+152.32.138.187 1 1 1915 20231214160107
+142.252.145.72 2 2 20544 20231230235454
+64.135.127.50 1 1 5437 20231228155728
+34.105.37.64 1 1 5437 20231220161307
+18.236.201.153 1 1 1915 20231203044948
+192.53.71.139 1 1 2224 20231205120300
+120.92.72.99 0 1 725 
+67.217.42.246 1 1 0 20231222021837
+37.140.223.151 1 10 516992 20231205034317
+185.113.141.189 1 1 1915 20231226154140
+199.45.154.18 3 3 26376 20231217184417
+175.44.42.120 1 1 1915 20231215230111
+23.106.30.91 1 1 2224 20231206051158
+205.210.31.95 1 1 5437 20231204153752
+13.57.249.194 1 1 1915 20231214091128
+120.92.72.197 0 2 1450 
+35.87.37.152 1 1 3590 20231204193533
+52.91.0.42 1 1 1915 20231203192821
+149.88.28.8 1 1 5931 20231226225119
+91.92.240.209 1 1 5437 20231215063808
+128.90.112.214 1 2 89643 20231215041324
+51.254.49.98 1 1 37994 20231221163906
+185.190.42.200 2 2 11368 20231216040405
+172.98.32.178 2 2 1915 20231206123217
+36.41.75.167 1 1 1915 20231211114422
+31.173.84.226 2 2 11862 20231213124328
+198.235.24.232 1 1 5437 20231208031234
+47.254.16.187 0 1 12258 
+188.163.68.92 2 2 11862 20231229155627
+174.195.132.230 3 21 2289593 20231212154436
+185.65.135.158 1 1 1915 20231202164018
+45.79.72.85 2 21 2887603 20231206182751
+85.255.20.171 1 1 0 20231214221608
+45.39.116.153 1 1 2224 20231215011035
+66.91.105.114 1 5 176294 20231201073855
+45.129.199.184 8 8 46954 20231230035316
+202.248.21.14 6 43 5668901 20231210210505
+35.81.171.37 2 2 10874 20231209025034
+183.136.225.46 1 1 37994 20231206153116
+107.172.170.165 1 1 2224 20231206061108
+172.245.10.5 1 1 1915 20231207001234
+163.172.69.223 1 1 5437 20231212014540
+198.23.242.151 1 1 5437 20231215041143
+47.88.93.234 1 1 1915 20231221051359
+143.198.203.92 1 1 5437 20231211224538
+59.152.97.133 2 2 11862 20231225124754
+104.252.131.142 1 1 2245 20231204190858
+199.45.155.16 2 2 14147 20231222212211
+172.252.231.132 1 1 2224 20231216091445
+183.249.89.133 2 20 2803397 20231220003100
+47.243.15.50 7 7 13405 20231229232304
+51.20.76.96 1 1 1915 20231211163223
+8.222.176.232 2 2 8304 20231217230143
+34.170.176.90 1 1 1915 20231220212328
+66.91.137.94 10 105 6884392 20231207135539
+222.235.218.231 1 18 2173117 20231228080256
+199.45.155.33 1 1 1915 20231206234808
+205.210.31.76 1 1 5437 20231225185150
+65.154.226.166 2 36 4346234 20231221115713
+77.72.85.27 3 3 17793 20231225085612
+23.106.193.106 2 2 5014 20231221175731
+35.224.190.47 1 1 3590 20231220212330
+62.221.113.3 2 2 16832 20231220234718
+149.102.233.225 1 1 5437 20231222082328
+121.229.185.160 3 3 5745 20231228054006
+117.33.163.216 1 1 1915 20231207161210
+54.201.211.37 1 1 1915 20231201165151
+37.204.161.9 3 3 14275 20231202125747
+52.167.144.180 2 2 3830 20231214141918
+34.134.218.77 1 1 2647 20231220212329
+157.97.122.18 1 1 5931 20231212125450
+45.38.60.186 1 1 1915 20231226175025
+182.42.111.213 1 1 1915 20231210202625
+205.210.31.221 1 1 37994 20231220030929
+173.208.28.157 1 1 1915 20231218122447
+174.218.100.67 4 40 4499870 20231211104803
+47.144.170.207 10 105 6884392 20231210020518
+85.254.43.43 1 1 3590 20231202041206
+51.159.155.252 2 2 0 20231207044533
+165.231.253.68 1 2 89643 20231215013530
+54.202.92.205 1 1 5437 20231211175045
+101.224.27.105 0 1 516054 
+161.35.89.229 1 1 1915 20231221173858
+74.125.215.225 1 3 6676 20231206005117
+18.237.39.62 1 1 5437 20231208122258
+174.243.147.245 2 10 627143 20231225162752
+40.77.167.13 3 3 5745 20231214135511
+156.239.62.178 1 1 2245 20231226164707
+165.22.176.208 1 1 12238 20231231111540
+68.183.104.62 1 1 12233 20231201022309
+43.130.32.224 2 2 3830 20231218034900
+59.111.226.129 4 4 7660 20231220203212
+64.43.108.96 1 1 1915 20231229095636
+52.12.119.27 1 1 5437 20231227153948
+79.164.137.247 6 6 35586 20231226182643
+113.211.108.235 1 9 726874 20231204000650
+128.90.166.39 1 1 5931 20231230124309
+208.100.26.247 3 3 5745 20231224112819
+188.126.89.116 2 2 11368 20231225015936
+185.220.100.244 5 5 36251 20231208002543
+38.97.116.244 1 1 1915 20231227230735
+207.46.13.150 1 1 1915 20231218101114
+104.28.124.27 1 25 2054722 20231213214946
+222.186.58.225 1 1 1915 20231220134432
+103.188.244.181 6 6 31914 20231229144607
+42.83.147.56 1 1 1915 20231206010556
+185.104.113.224 1 1 5931 20231211011428
+165.22.81.160 1 1 12239 20231221171935
+109.63.160.194 1 1 5931 20231207160102
+81.163.253.142 1 1 5931 20231225052442
+72.234.186.101 6 58 4020527 20231220112415
+54.189.35.59 1 1 1915 20231203044922
+101.44.249.224 1 1 2245 20231231133218
+45.141.215.135 1 1 5437 20231227143252
+205.210.31.32 1 1 5437 20231216115426
+23.105.144.151 1 1 2224 20231225220733
+52.125.129.5 4 4 1392 20231201112949
+91.224.178.92 2 2 11862 20231201025404
+178.62.225.118 2 2 10874 20231215000950
+117.57.38.141 1 1 1915 20231223022152
+34.170.65.24 1 1 2245 20231220212330
+223.166.245.65 0 1 317831 
+188.165.87.105 1 1 37994 20231221130649
+34.145.165.227 1 1 5437 20231220162526
+5.133.192.135 1 1 1915 20231219130929
+191.102.152.249 1 1 2224 20231228223845
+114.80.36.40 1 1 1915 20231212045446
+172.241.94.161 1 1 2224 20231210040723
+172.56.44.244 4 41 2700373 20231208202616
+34.229.7.159 1 1 3590 20231214051256
+38.170.15.37 1 18 2173117 20231203090624
+174.243.149.176 2 19 1659313 20231214124305
+47.148.124.156 9 91 6841389 20231202082358
+144.126.198.24 2 2 50239 20231220133616
+146.70.174.203 1 1 2224 20231217162109
+77.232.36.78 1 1 5931 20231217052558
+146.70.111.146 2 2 11862 20231215081239
+23.83.88.64 1 1 2224 20231218122809
+143.198.69.54 1 18 2173117 20231206182729
+35.93.7.187 0 1 2373 
+209.73.147.132 2 2 14421 20231230235515
+81.200.221.185 1 1 5437 20231231212721
+31.173.84.56 3 3 17793 20231228114759
+81.163.253.141 2 2 12526 20231205103220
+34.94.68.30 1 1 5437 20231215105510
+199.244.88.230 1 1 1915 20231204155607
+166.196.68.112 1 17 1220660 20231212150802
+126.218.42.135 1 17 1220660 20231215061920
+205.210.31.162 1 1 5437 20231212031803
+157.55.39.11 2 2 3830 20231218112012
+139.167.79.65 2 2 3830 20231205015907
+47.88.86.63 2 2 3830 20231221051359
+45.87.212.70 1 1 5437 20231215041143
+43.133.77.208 1 1 1915 20231209015345
+5.53.232.216 1 18 2173117 20231201003821
+52.167.144.145 1 1 1915 20231214133034
+172.178.81.216 1 1 5437 20231208062149
+101.44.249.249 1 1 1915 20231229031113
+73.221.215.97 1 1 5437 20231219114645
+185.100.85.25 1 1 5931 20231231045716
+45.114.51.249 2 2 5437 20231206050703
+185.220.100.242 1 1 1915 20231230092604
+170.106.101.31 1 1 1915 20231225135859
+94.25.168.153 3 3 14141 20231211235326
+104.198.202.101 1 1 2548 20231220212329
+122.180.183.123 1 1 2224 20231215030159
+37.187.215.247 1 1 5437 20231221152357
+122.176.201.83 2 2 4139 20231218120235
+163.123.192.52 4 33 3562637 20231207195006
+49.51.206.130 1 1 1915 20231226074856
+8.209.96.92 2 2 8618 20231229060236
+45.157.37.165 1 1 1915 20231209012349
+23.230.167.125 1 1 5931 20231230013619
+192.121.87.42 2 2 11862 20231231190634
+77.222.115.125 3 3 15109 20231223133045
+172.56.44.165 1 17 1220660 20231212125001
+161.35.130.91 1 1 12241 20231229053616
+185.181.61.115 1 1 5437 20231207062529
+46.23.98.14 1 1 5931 20231231001600
+38.242.7.245 3 3 7729 20231228203556
+5.188.62.174 2 2 3830 20231215223704
+120.92.72.246 0 2 9832 
+72.130.142.88 6 85 5474203 20231223194830
+45.91.23.70 1 1 2224 20231221210504
+16.171.195.77 4 26 252006 20231222114656
+103.170.162.161 1 17 1220660 20231219222018
+43.135.164.74 1 1 1915 20231201121331
+170.83.178.146 1 1 2224 20231229222955
+198.44.129.60 1 1 1915 20231220133704
+76.172.48.14 9 77 5696336 20231230102018
+3.86.8.215 1 1 5437 20231214202044
+178.68.168.145 2 2 8212 20231220153621
+35.89.51.228 0 1 1875 
+98.151.29.144 3 30 2470755 20231211010857
+76.173.24.65 3 43 3623767 20231208143157
+34.31.78.2 1 1 2373 20231220212328
+98.151.36.227 4 24 3171692 20231211011858
+54.183.216.128 1 24 248169 20231208153235
+165.154.224.222 4 4 28304 20231229213735
+198.235.24.219 1 1 5437 20231204163725
+93.158.91.25 1 1 1915 20231231212843
+88.99.26.177 1 1 1915 20231221020936
+101.44.249.160 1 1 2224 20231231023705
+152.58.93.5 2 2 8540 20231203101332
+44.214.1.187 1 1 1915 20231217193100
+72.130.128.102 3 23 3494199 20231218190831
+104.172.202.10 2 22 3491954 20231205184039
+51.159.140.204 1 4 9861 20231213200707
+43.159.128.68 2 2 3830 20231213134746
+172.241.26.92 1 2 89643 20231215041324
+77.246.104.223 1 1 5931 20231226194031
+43.130.47.136 1 1 1915 20231216020212
+52.53.164.202 1 19 187002 20231214103534
+5.133.192.167 1 1 1915 20231225154207
+203.33.203.148 1 1 1915 20231229030355
+35.238.151.15 3 3 5745 20231222003810
+35.239.100.119 1 1 1915 20231220212329
+198.235.24.83 1 1 5437 20231218192239
+185.159.156.5 1 1 5931 20231229180616
+107.189.7.144 2 2 8672 20231209160739
+199.45.155.34 1 1 12234 20231231144027
+72.184.1.14 1 1 5931 20231205220739
+196.196.23.167 1 1 1915 20231209203829
+35.235.90.26 1 1 5437 20231213132702
+3.141.165.213 9 39 81489 20231220163411
+54.95.81.117 1 18 2173117 20231205203426
+20.42.97.241 1 1 5437 20231221223958
+37.140.223.146 1 18 2173117 20231205034242
+51.20.32.183 1 1 5437 20231216034411
+196.223.148.7 4 17 2825881 20231229062826
+154.202.99.82 1 1 2224 20231220202402
+199.244.88.224 1 1 1915 20231225144129
+192.71.126.207 1 1 1915 20231225215302
+142.93.67.59 1 1 5437 20231213102453
+43.153.110.177 1 1 1915 20231208013753
+154.201.43.147 1 1 2224 20231229051520
+128.90.161.37 2 2 9834 20231229205858
+223.15.245.170 2 2 3830 20231220090040
+73.97.22.34 1 10 1679331 20231201082720
+205.169.39.71 2 22 2181631 20231221163158
+126.254.28.130 1 9 625228 20231206172017
+156.227.14.30 1 1 2224 20231231042201
+121.200.51.211 1 1 2224 20231201084230
+3.110.236.102 1 5 49800 20231203001405
+117.68.216.94 1 1 1915 20231222094814
+59.111.227.87 4 4 7660 20231211041848
+23.106.192.13 1 1 2224 20231226224533
+168.91.79.190 2 2 4618 20231221175732
+23.106.28.221 1 1 2224 20231227183750
+60.21.221.202 1 1 1915 20231225203512
+47.88.5.56 0 1 12255 
+98.152.247.218 1 18 2173117 20231215092450
+164.92.89.44 1 1 1915 20231205070707
+35.93.113.213 1 1 5437 20231214121824
+157.97.122.21 1 1 5931 20231212125448
+23.106.22.91 1 1 2224 20231224123616
+178.20.55.182 1 1 5931 20231205050655
+47.243.9.61 6 6 11490 20231224043803
+51.254.49.103 2 2 10874 20231221190154
+34.106.190.59 1 1 5437 20231205042642
+38.154.166.2 1 1 2224 20231213010931
+213.226.100.8 3 3 14461 20231220182800
+64.227.161.38 1 1 1915 20231217060001
+45.141.215.138 3 3 16311 20231224021241
+104.244.74.57 2 2 12450 20231201070038
+47.91.78.18 2 2 8564 20231219030007
+125.124.133.75 3 3 5745 20231228210840
+212.66.63.126 2 2 11862 20231208190001
+199.45.154.50 1 1 12237 20231201220141
+51.15.17.105 5 5 9575 20231224013416
+172.241.235.76 1 1 2224 20231226024013
+82.147.85.79 4 4 23724 20231231144606
+198.235.24.145 1 1 37994 20231229211002
+166.196.68.38 3 20 1850940 20231217150439
+14.21.90.2 1 1 5437 20231209121016
+159.253.120.135 2 2 13743 20231215114421
+95.107.39.2 1 1 5931 20231204012937
+178.254.12.183 2 2 3830 20231223023206
+118.163.207.1 4 25 3932522 20231220025448
+54.255.229.14 1 2 438653 20231219013152
+101.44.251.121 1 1 2647 20231230081636
+198.235.24.45 1 1 5437 20231222035222
+142.93.131.102 1 18 2173117 20231214000104
+14.215.163.132 2 2 3830 20231230084849
+164.90.222.39 1 1 1915 20231215053136
+84.247.50.179 2 2 11862 20231230202207
+166.196.68.132 0 1 526719 
+156.239.55.161 1 1 2245 20231220202437
+222.79.104.23 1 1 1915 20231201202951
+154.21.223.177 1 1 2224 20231225221027
+166.196.68.13 4 30 2369847 20231227120434
+34.78.36.141 1 1 5437 20231211020344
+20.120.74.197 1 11 2647 20231203034150
+35.166.159.164 1 1 5437 20231221173554
+40.94.28.40 1 18 2173117 20231219183200
+101.91.148.219 2 2 3830 20231219150435
+43.130.39.101 1 1 1915 20231215163436
+52.55.232.133 1 1 1915 20231224193822
+34.28.223.240 2 2 3830 20231215045429
+20.12.213.197 1 18 2173117 20231219172616
+209.99.152.25 1 1 3262 20231202041159
+157.55.39.205 2 2 3830 20231218122630
+54.185.253.195 1 1 1915 20231205225525
+178.122.119.134 1 1 5931 20231218090529
+95.55.85.120 1 1 5931 20231201181706
+80.94.250.80 2 2 9530 20231231165209
+4.233.146.14 1 1 1915 20231201214205
+104.164.173.64 1 1 1915 20231220133718
+35.167.119.36 1 1 8306 20231207055859
+34.94.104.198 2 2 10874 20231208030738
+34.83.54.135 2 2 3830 20231218173238
+47.251.14.232 0 1 12258 
+157.230.230.18 1 1 1915 20231219115011
+128.90.163.162 1 1 0 20231204235131
+34.221.26.63 1 1 1915 20231220025648
+120.92.72.108 1 2 2873 20231230173522
+198.235.24.109 1 1 5437 20231216010058
+198.235.24.184 1 1 5437 20231219193955
+172.241.247.223 1 1 2224 20231212061650
+65.21.65.198 5 5 30212 20231220133747
+136.0.116.5 1 1 5437 20231230235442
+107.150.59.122 2 2 8416 20231207150054
+93.158.91.29 1 1 1915 20231213074934
+120.92.72.147 1 2 6831 20231208174632
+148.59.185.24 1 12 2367888 20231211072411
+34.220.216.112 1 1 3590 20231207101721
+35.88.69.15 1 1 5437 20231211175045
+64.253.87.209 1 1 0 20231201114032
+72.109.100.179 2 22 3491954 20231211010232
+185.220.100.248 1 1 5931 20231231045719
+42.83.147.53 4 4 7660 20231219170334
+64.140.128.238 1 1 2647 20231202041159
+198.235.24.183 1 1 5437 20231219051533
+47.145.119.75 3 31 4328261 20231212124744
+31.173.81.224 3 3 17793 20231218035219
+40.77.167.235 3 3 5745 20231201111343
+20.243.123.247 2 2 10874 20231205164331
+194.67.198.250 1 1 5437 20231223115924
+149.102.232.78 1 1 5931 20231222175300
+165.231.182.148 2 2 11368 20231210062719
+34.116.126.32 1 18 2173117 20231211233122
+103.191.241.118 1 1 5437 20231210024731
+188.166.34.188 1 1 5437 20231231213022
+185.41.152.214 1 1 5437 20231231185037
+208.100.26.244 0 14 171569 
+163.172.174.176 2 2 0 20231209090435
+45.32.125.95 1 1 1915 20231213030138
+85.254.51.52 1 1 1915 20231202041150
+13.212.138.205 1 18 2173117 20231219013140
+51.15.204.62 1 4 8514 20231220233554
+182.150.1.23 1 1 1915 20231208023404
+159.65.185.207 1 1 1915 20231207064652
+92.118.39.243 3 13 126000 20231207122727
+31.220.0.86 1 1 12243 20231201054539
+23.95.251.61 2 2 3830 20231227100716
+81.163.253.140 1 1 5931 20231205002811
+205.210.31.56 1 1 5437 20231205010245
+13.52.97.18 1 1 1915 20231213163931
+212.80.45.211 7 7 48709 20231212094838
+198.235.24.243 1 1 37994 20231221210419
+208.100.26.243 6 7 21815 20231228145416
+44.204.128.253 1 1 1915 20231211080556
+172.56.44.113 2 29 2169282 20231222211350
+149.5.4.212 1 1 2224 20231210132108
+27.115.124.53 1 18 2173117 20231220003142
+70.187.201.178 1 1 1915 20231208150013
+184.154.139.49 8 16 102332 20231230214552
+59.152.100.30 2 2 12066 20231211194659
+75.247.241.83 1 1 5931 20231215030913
+5.9.158.8 1 1 5437 20231204041342
+75.85.153.81 0 5 257418 
+5.133.192.168 1 1 1915 20231207022100
+98.151.111.243 3 21 2613685 20231219181535
+172.56.44.136 1 17 1220660 20231207175548
+2.58.113.194 1 1 5437 20231217124454
+72.234.168.89 2 19 1850940 20231204155759
+113.165.48.28 1 1 5931 20231230100813
+120.92.72.106 0 2 9832 
+36.111.67.189 1 1 1915 20231220180502
+199.244.88.232 1 1 1915 20231213104800
+62.141.44.236 1 1 1915 20231204122941
+107.77.227.186 2 19 1749294 20231207154724
+118.194.236.219 1 1 1915 20231214153334
+13.51.158.61 1 1 1915 20231214092953
+51.159.152.44 1 4 8972 20231213201635
+154.38.168.152 1 1 1915 20231213113303
+120.92.72.170 1 2 2873 20231223032843
+35.211.111.19 1 1 1915 20231206062503
+23.19.125.228 1 1 1915 20231206130007
+157.230.184.50 1 1 1915 20231231065728
+199.45.154.17 2 2 14150 20231231174712
+199.45.155.17 1 1 1915 20231213115115
+205.169.39.72 2 22 2181631 20231211233141
+192.71.142.134 1 1 1915 20231206093429
+36.14.112.187 3 24 4122234 20231214002757
+8.219.235.86 2 2 8288 20231217230144
+123.6.49.47 2 27 2899991 20231220003231
+80.85.139.190 2 2 11862 20231230153154
+91.92.253.77 1 1 5437 20231220075454
+98.151.165.131 0 7 216284 
+47.242.41.190 4 4 7660 20231229232254
+205.210.31.205 1 1 5437 20231227002651
+34.102.49.193 1 1 5437 20231212053416
+8.218.81.43 1 1 2224 20231209121601
+43.130.31.48 1 1 1915 20231213054740
+198.176.56.23 5 50 3950571 20231206185753
+109.74.196.148 1 1 5437 20231223181426
+172.58.208.70 1 11 1415431 20231207120700
+172.56.44.82 1 17 1427819 20231229231115
+172.56.44.235 1 1 3099 20231221162300
+209.99.160.208 1 1 2224 20231202041154
+198.235.24.21 1 1 5437 20231215211734
+34.79.174.58 1 1 5437 20231222030015
+76.173.28.171 2 11 1165655 20231205125338
+24.25.243.12 8 89 5280793 20231221141248
+207.32.131.202 1 1 2245 20231202041154
+212.47.230.140 1 1 1915 20231220232409
+54.201.161.215 1 1 5437 20231201015254
+72.130.164.167 3 23 2978150 20231219221249
+205.169.39.168 4 44 4363262 20231220205723
+178.120.238.10 1 1 5931 20231204062319
+68.183.37.67 1 1 1915 20231201072155
+157.55.39.14 4 4 7660 20231218182954
+84.58.236.247 4 4 21182 20231213083625
+35.160.122.198 1 1 1915 20231227042754
+18.232.101.4 1 1 1915 20231231193113
+193.39.12.219 1 1 1915 20231214000104
+91.193.178.44 3 3 19129 20231229224700
+208.100.26.249 7 7 23732 20231226151236
+146.70.111.145 1 1 5931 20231209021402
+52.211.64.62 1 1 0 20231204064249
+101.44.251.108 1 1 1915 20231228051340
+37.187.215.244 1 1 5437 20231221152510
+120.92.72.66 1 1 1915 20231202085707
+193.186.4.204 1 1 3099 20231206090449
+45.41.141.251 1 1 1915 20231202041154
+46.148.206.226 10 10 59310 20231231171938
+34.78.102.4 1 1 5437 20231208204803
+34.135.107.91 1 1 2682 20231220212330
+18.139.221.184 1 1 1915 20231204102902
+18.144.100.159 1 1 1915 20231201024711
+103.247.6.76 1 18 2173117 20231227042335
+217.160.65.174 2 2 3830 20231212224559
+158.220.92.203 1 2 89643 20231215013530
+213.32.25.76 2 4 152076 20231230031131
+68.183.245.101 2 3 95080 20231215041325
+124.141.64.197 1 9 726874 20231231172327
+37.19.217.98 1 1 5931 20231211052008
+146.148.12.228 1 1 5437 20231224100205
+180.47.108.148 1 18 2173117 20231213184704
+23.82.111.187 1 1 2224 20231204130613
+8.222.168.177 4 4 16500 20231225222330
+64.253.87.39 1 1 0 20231228112628
+34.219.76.23 1 1 1915 20231205125527
+95.216.27.171 1 1 8306 20231209170623
+116.16.248.172 1 1 5437 20231209055237
+1.231.27.148 1 1 5931 20231215202304
+51.254.49.102 1 1 38006 20231221161832
+45.141.215.90 2 2 11368 20231204020819
+20.25.162.194 1 1 1915 20231201085417
+149.137.244.139 5 70 10206076 20231215162620
+198.235.24.240 1 1 5437 20231211165244
+49.37.240.186 1 12 2367888 20231222010023
+156.239.54.5 1 1 2224 20231201140747
+103.213.96.230 2 8 17028 20231218112517
+75.127.5.69 1 1 2224 20231208115718
+149.56.160.140 1 18 2173117 20231215141118
+117.57.37.32 1 1 1915 20231224051113
+188.165.87.110 1 1 5437 20231221130412
+104.244.72.115 2 2 12450 20231204151832
+8.222.179.80 6 6 24780 20231228230340
+76.173.17.110 3 23 3493869 20231205200637
+175.44.42.2 1 1 1915 20231221204149
+120.92.72.116 0 1 958 
+37.46.199.152 2 2 11862 20231226104259
+64.176.55.208 1 1 5437 20231204031137
+20.169.52.139 1 1 5437 20231203011945
+35.203.255.120 1 1 1915 20231226170618
+103.192.227.81 1 19 3125574 20231221235200
+37.139.53.13 1 1 1915 20231221161218
+154.202.108.51 1 1 2245 20231201140752
+23.82.109.160 1 1 2224 20231217153724
+45.91.83.230 1 18 2173117 20231201013858
+34.210.6.182 1 1 1915 20231227042822
+182.44.2.148 1 1 1915 20231205204230
+167.99.190.170 1 1 1915 20231229052140
+213.202.233.34 2 2 3830 20231230022343
+23.95.224.74 1 1 1915 20231213054434
+172.252.233.66 1 1 13638 20231230235526
+142.189.234.185 1 1 1915 20231222164201
+98.151.231.206 9 88 6459018 20231216233053
+35.90.144.48 1 1 5437 20231226082433
+188.247.108.149 2 2 8984 20231219162613
+146.190.158.62 1 1 12233 20231217005630
+205.210.31.175 1 1 5437 20231229164055
+23.81.152.64 1 1 2224 20231225132248
+170.106.159.160 1 1 1915 20231219052104
+134.209.149.203 1 1 1915 20231222122738
+125.75.66.97 2 2 3830 20231217030219
+68.183.134.21 1 1 1915 20231221054145
+168.151.228.99 1 1 2224 20231217172346
+72.13.46.2 3 3 7750 20231212173559
+212.227.239.129 2 2 3830 20231212143347
+40.77.167.45 1 1 1915 20231215175658
+54.187.155.190 1 1 5437 20231205105805
+8.222.178.240 4 4 16532 20231225222331
+76.173.18.47 3 39 4712614 20231206110709
+89.185.85.140 2 2 14222 20231204122153
+62.33.66.177 1 1 5931 20231228121925
+178.184.55.173 2 2 21472 20231222002827
+174.202.2.76 1 1 1915 20231228192920
+34.106.45.64 2 2 10874 20231214155312
+172.56.177.141 6 46 4021583 20231208114138
+123.6.49.10 3 54 6519351 20231220003215
+176.102.65.47 2 2 11862 20231206100043
+104.252.30.43 3 3 18742 20231230235537
+104.28.85.34 1 38 3310890 20231229183211
+149.102.133.73 1 1 1915 20231230124155
+64.135.127.68 1 1 5437 20231211151548
+34.222.128.46 1 7 14303 20231210151657
+172.56.44.10 2 20 2014217 20231202150815
+34.216.32.249 1 1 8306 20231221070036
+52.188.175.169 2 2 10874 20231226172755
+176.212.72.42 1 1 5931 20231207173756
+104.28.116.26 0 8 587937 
+165.154.244.2 2 2 3830 20231228163054
+204.217.180.104 1 1 2224 20231202230303
+182.42.105.85 2 2 3830 20231216092854
+198.235.24.30 1 1 38006 20231205062944
+64.140.134.100 1 1 3208 20231202041206
+45.91.23.108 1 1 2224 20231223045115
+54.36.121.9 3 3 0 20231223115215
+43.154.56.253 2 2 3830 20231211141706
+141.239.114.102 3 20 1661228 20231231140856
+205.210.31.192 1 1 38006 20231222184605
+136.226.64.95 2 2 3830 20231228123356
+107.164.77.178 1 1 2224 20231224121910
+31.173.87.244 3 3 17793 20231227211133
+8.222.179.76 1 1 5931 20231211191001
+120.92.72.144 0 2 1916 
+188.165.87.103 1 1 5437 20231221130859
+167.71.79.236 1 1 5437 20231217084803
+194.147.106.222 2 2 11862 20231225173847
+54.70.53.60 1 18 2173117 20231219173944
+173.234.227.82 1 1 2224 20231206010610
+208.100.26.236 3 3 5745 20231221052605
+172.241.245.234 1 1 2224 20231217193144
+34.210.78.202 1 1 5437 20231221173554
+91.92.246.2 1 1 5437 20231219183739
+223.244.35.77 1 1 1915 20231206060747
+5.8.251.52 1 1 2224 20231221223726
+34.219.32.238 0 1 17183 
+205.169.39.150 2 22 2181631 20231227174225
+198.235.24.28 1 1 5437 20231202080843
+109.70.100.68 2 2 16234 20231230001715
+86.111.6.194 1 1 5931 20231229114228
+8.222.170.97 4 4 16576 20231221224522
+74.125.215.233 0 4 10402 
+198.235.24.94 1 1 5437 20231202105424
+114.96.103.33 1 1 1915 20231231142907
+77.222.116.216 1 1 5931 20231230165453
+14.226.222.12 1 17 1220660 20231220053044
+205.169.39.116 2 22 2181631 20231211233143
+194.26.192.215 1 1 1915 20231207102636
+67.205.184.200 1 1 1915 20231201091949
+104.244.210.254 1 2 89643 20231215013528
+209.127.148.192 1 1 2224 20231204190824
+137.184.225.163 1 1 12240 20231215103539
+34.76.146.130 1 1 5437 20231202062614
+149.34.242.45 2 2 11862 20231206232052
+113.141.91.58 1 1 1915 20231209093634
+207.228.13.125 1 1 2224 20231205094659
+104.197.69.115 1 18 2173117 20231211233119
+188.166.94.125 1 1 1915 20231212035229
+166.196.75.27 1 17 1220660 20231207142421
+34.222.79.110 1 1 1915 20231203045408
+199.45.154.51 1 1 1915 20231218054228
+182.42.111.156 5 5 9575 20231225052319
+23.106.22.16 1 1 2224 20231209213913
+94.232.103.31 1 1 2224 20231222071327
+51.159.138.116 1 1 1915 20231212233041
+142.54.169.131 3 3 5745 20231220060617
+91.92.242.41 1 1 5437 20231222070230
+54.218.98.199 2 2 10874 20231227153948
+20.89.16.57 1 18 2173117 20231219134445
+195.211.77.142 1 1 1915 20231220133637
+138.186.142.206 1 2 89643 20231215013529
+185.171.97.116 1 1 5437 20231219143629
+76.32.78.33 1 18 2173117 20231214172846
+20.197.50.135 1 1 5437 20231205064357
+205.210.31.80 1 1 5437 20231207154909
+64.227.126.135 2 2 10874 20231220133611
+51.254.49.99 1 1 5437 20231221160249
+91.92.245.162 2 2 10874 20231229103513
+51.159.144.116 1 4 8514 20231213195514
+124.237.181.145 1 1 1915 20231226154238
+3.80.253.57 1 1 1915 20231217193109
+34.132.180.98 4 52 3663895 20231220212351
+134.122.110.138 1 1 1915 20231205080339
+205.210.31.156 1 1 5437 20231202104331
+104.206.162.215 1 1 1915 20231201214601
+34.77.176.45 1 1 5437 20231217160954
+37.214.9.156 1 1 5931 20231227111320
+34.204.204.57 2 2 1915 20231201144733
+37.187.215.248 1 1 5437 20231221152429
+34.28.145.210 1 1 2224 20231220212328
+49.37.115.6 3 9 20117 20231201230114
+87.106.114.236 1 1 5437 20231205020411
+51.159.182.0 1 4 8514 20231213092951
+35.203.255.107 1 4 8514 20231215033823
+46.167.110.15 1 1 5931 20231231185119
+120.92.72.149 0 2 1450 
+76.173.20.224 5 59 3316456 20231209222146
+23.106.22.8 2 2 6237 20231221175732
+47.90.203.159 2 2 11368 20231216123559
+20.51.214.146 1 1 5437 20231208033043
+5.62.58.9 1 1 5437 20231220085643
+47.88.90.156 1 1 12238 20231221051359
+198.235.24.72 1 1 37994 20231216111705
+94.41.239.52 3 3 14251 20231227160317
+151.115.36.66 1 1 1915 20231222183255
+152.58.122.199 2 2 11862 20231202030948
+42.83.147.55 1 1 1915 20231221032658
+178.184.9.185 2 2 21544 20231213153519
+180.102.134.69 3 3 5745 20231222143639
+156.239.51.39 1 1 2224 20231211030219
+104.174.94.195 1 18 2173117 20231201144232
+184.170.242.168 1 1 2224 20231228133121
+182.44.8.254 2 2 3830 20231212124553
+3.235.162.121 1 1 1915 20231209120514
+191.101.61.190 1 1 3590 20231229054706
+206.232.44.144 1 1 2224 20231210062158
+64.44.48.29 1 1 2224 20231208102051
+123.138.160.209 1 7 14303 20231212090046
+41.0.52.234 1 1 1915 20231212073717
+65.108.46.46 2 2 11862 20231221082750
+35.225.82.182 3 3 24512 20231226205543
+192.46.186.191 1 1 2224 20231205164556
+76.39.52.143 9 103 5929690 20231206143653
+59.126.197.154 3 21 2613685 20231201015319
+27.115.124.101 1 18 2173117 20231217102137
+52.125.129.14 4 4 1376 20231211100331
+43.131.44.218 1 1 1915 20231221032606
+23.81.67.105 2 2 4448 20231209011655
+174.202.0.144 4 4 7660 20231206163628
+160.237.179.20 2 36 4346234 20231224180802
+8.222.165.101 1 1 5931 20231217230142
+65.154.226.170 2 36 4346234 20231227173132
+45.4.145.46 1 1 1915 20231231120646
+58.84.55.140 0 1 516054 
+18.236.207.135 1 1 5437 20231210151656
+208.100.26.248 1 1 1915 20231221052610
+185.76.9.37 2 2 11862 20231204095130
+46.185.114.118 1 1 5931 20231208140400
+3.113.57.77 1 1 0 20231208091807
+206.84.170.22 2 20 2611770 20231214000116
+18.182.94.92 2 2 0 20231209104601
+165.227.220.39 1 1 1915 20231229094446
+51.254.49.107 2 2 10874 20231221183704
+199.45.154.19 3 3 5745 20231231211754
+116.91.158.128 1 11 1208272 20231206172305
+199.45.155.19 2 2 3830 20231215024157
+65.154.226.167 1 1 1915 20231202041427
+101.227.238.116 2 2 3830 20231216105855
+51.159.149.62 1 4 9147 20231213195309
+192.236.155.110 1 1 5931 20231219161712
+98.151.68.33 3 22 3242050 20231206110322
+107.77.227.48 1 17 1220660 20231223145405
+8.222.177.141 5 5 26069 20231229040913
+136.0.95.2 1 1 2224 20231226164704
+43.157.40.112 1 1 1915 20231223075620
+172.14.53.34 1 20 2205932 20231217112151
+149.40.51.25 3 3 13807 20231201154947
+170.106.171.77 1 1 1915 20231222061118
+199.45.155.35 3 3 16064 20231231232339
+3.229.248.49 2 35 3393777 20231218195624
+185.221.32.184 3 3 14317 20231221085244
+205.210.31.51 1 1 38006 20231209080002
+166.196.68.64 0 11 1211273 
+198.235.24.88 1 1 38006 20231226044657
+52.71.155.178 1 1 3590 20231208110524
+52.90.67.56 6 18 58530 20231222013021
+172.56.44.75 1 17 1220660 20231219005934
+166.196.68.97 1 4 1318837 20231209143531
+44.203.225.207 1 1 1915 20231211071613
+23.229.104.2 4 4 9665 20231211154414
+185.220.100.254 1 1 5931 20231203100838
+35.93.91.63 1 1 5437 20231208122258
+185.241.208.50 2 2 3830 20231208131141
+172.203.224.97 2 2 10874 20231222180616
+178.67.184.30 1 1 5931 20231224081618
+54.241.203.35 0 21 211430 
+50.54.155.194 2 20 2611770 20231220123734
+138.199.29.243 2 2 11862 20231227110833
+178.120.177.2 2 2 13406 20231207183854
+8.222.178.207 5 5 22459 20231229015346
+64.226.106.136 1 1 1915 20231219052219
+45.141.215.129 2 2 10874 20231202165239
+27.115.124.70 1 18 2173117 20231201014105
+188.126.94.48 1 1 5931 20231204102556
+154.37.67.58 1 1 2224 20231211055215
+46.35.252.130 1 1 5931 20231216211842
+5.140.233.250 1 1 5931 20231227061705
+184.94.240.88 6 6 39188 20231218215934
+192.252.216.81 2 2 10412 20231218165422
+72.14.201.207 2 2 4160 20231222013516
+193.186.4.207 1 1 1915 20231222013515
+43.130.37.62 1 1 1915 20231212215754
+34.204.206.76 1 6 62027 20231206045538
+34.140.107.62 1 1 5437 20231204110254
+173.197.179.102 6 49 7440989 20231207140022
+52.125.128.10 4 4 1392 20231219100032
+43.239.251.69 2 2 11862 20231218195619
+198.235.24.252 1 1 38006 20231211215309
+54.241.219.151 1 1 1915 20231209031731
+58.49.233.126 4 4 7660 20231223003351
+111.172.249.49 1 1 1915 20231209191426
+180.59.95.3 3 22 2541412 20231206152531
+52.125.128.15 4 4 1392 20231226101455
+217.76.48.181 1 1 1915 20231221053526
+64.71.166.34 1 4 8514 20231222195148
+35.89.67.105 1 1 1915 20231207045359
+208.100.26.246 2 2 14153 20231218114312
+137.226.113.44 2 2 3830 20231227184210
+106.119.167.146 2 2 3830 20231215004503
+87.89.48.69 1 2 89643 20231215041324
+54.221.61.250 1 1 1915 20231231030433
+43.133.38.182 1 1 1915 20231228143013
+167.172.54.241 1 1 1915 20231207091448
+43.133.77.230 2 2 3830 20231227210235
+193.218.118.89 1 1 1915 20231217213848
+197.184.180.60 1 1 1915 20231227055205
+209.97.179.44 1 1 1915 20231225060402
+121.22.248.58 1 1 1915 20231219030636
+212.22.70.91 2 2 11862 20231228035346
+34.106.208.84 2 2 10874 20231204164809
+74.125.215.224 1 4 4929 20231206005117
+35.83.254.80 1 1 5437 20231211115327
+188.165.87.109 1 1 38006 20231221130411
+35.187.31.229 1 1 5437 20231228233055
+8.218.80.185 2 2 5505 20231209121601
+43.159.129.209 1 1 1915 20231227105634
+139.59.182.142 1 1 5437 20231220133611
+192.144.39.60 2 2 13743 20231231144012
+154.201.58.131 1 1 2245 20231211030238
+23.226.16.47 1 1 2224 20231223021414
+8.222.173.171 2 2 8336 20231217230143
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20231201 63 234 21319522 44
+20231202 52 169 12026237 33
+20231203 34 110 8503111 26
+20231204 48 113 8869931 39
+20231205 59 198 19637110 44
+20231206 84 437 34086798 50
+20231207 70 344 28132330 44
+20231208 70 311 20632150 45
+20231209 56 116 4899497 33
+20231210 62 310 21820256 29
+20231211 89 325 31665485 55
+20231212 73 265 23656099 41
+20231213 66 170 7440422 47
+20231214 126 348 26132338 46
+20231215 68 169 9337222 52
+20231216 35 155 7012007 22
+20231217 56 129 8638211 41
+20231218 70 126 5851166 38
+20231219 58 323 28765063 35
+20231220 243 613 38080020 72
+20231221 98 272 16741297 66
+20231222 57 170 10452318 39
+20231223 37 137 6822784 25
+20231224 31 50 2290019 26
+20231225 43 57 845416 31
+20231226 60 174 11110709 31
+20231227 58 160 9807230 34
+20231228 67 203 13629756 29
+20231229 65 233 15311874 40
+20231230 52 182 11116651 33
+20231231 54 124 7208779 43
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 12
+30mn-1h 5
+1h+ 5
+5mn-15mn 11
+0s-30s 1160
+30s-2mn 38
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 1166 5383468 849 767
+/contact.html 382 1828216 266 243
+/products.html 88 205249 34 41
+/about.html 87 348720 36 47
+/mail.php 67 310693 1 58
+/bento.html 46 170433 9 13
+/paper_products.html 38 96418 7 12
+/donburi_noodle.html 37 103261 6 9
+/restaurant_supplies.html 37 105666 2 8
+/food_pack.html 36 152412 5 11
+/sushi.html 34 93622 4 5
+/deli_souzai_appetizer.html 33 100178 4 5
+/sashimi.html 30 90652 4 6
+/autodiscover/autodiscover.xml 16 5552 4 4
+/_all_dbs 2 24489 0 2
+/installer/index.php 2 76040 1 1
+/resetpass 2 1564 0 0
+/.git/config 1 12243 1 1
+END_SIDER

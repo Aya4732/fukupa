@@ -1,0 +1,1867 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202108 will be lost/reset.
+# Last config file used to build this data file was /home3/fukupaco/tmp/awstats/awstats.fukupa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2008                
+POS_TIME 2691                
+POS_VISITOR 28577               
+POS_DAY 57492               
+POS_DOMAIN 3648                
+POS_LOGIN 4527                
+POS_ROBOT 4682                
+POS_WORMS 5836                
+POS_EMAILSENDER 5967                
+POS_EMAILRECEIVER 6110                
+POS_SESSION 58404               
+POS_SIDER 58615               
+POS_FILETYPES 6245                
+POS_DOWNLOADS 6492                
+POS_OS 6540                
+POS_BROWSER 6935                
+POS_SCREENSIZE 10424               
+POS_UNKNOWNREFERER 10498               
+POS_UNKNOWNREFERERBROWSER 11702               
+POS_ORIGIN 12577               
+POS_SEREFERRALS 12728               
+POS_PAGEREFS 13016               
+POS_SEARCHWORDS 13828               
+POS_KEYWORDS 13989               
+POS_MISC 2355                
+POS_ERRORS 14057               
+POS_CLUSTER 4383                
+POS_SIDER_404 14201               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210901001151 918 225154 16750513734666
+FirstTime 20210801003129
+LastTime 20210831233243
+LastUpdate 20210901070331 918 0 917 0 0
+TotalVisits 898                 
+TotalUnique 703                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 757                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 39 199 16078329 155 286 4094017
+1 72 454 35861072 219 365 9878192
+2 63 228 21232657 205 272 4873445
+3 51 161 12315118 250 364 4341311
+4 65 126 5859585 240 320 4109375
+5 47 235 21431401 116 197 3967788
+6 56 87 2541050 242 393 5825112
+7 52 71 1437928 163 292 5280606
+8 57 279 15707846 191 270 6062995
+9 71 211 14542148 316 472 1315562
+10 94 260 15144090 562 700 8634259
+11 37 160 10724430 210 269 1005814
+12 50 205 13532952 298 384 1492872
+13 215 942 68982822 281 372 2140463
+14 154 578 32541052 312 397 1785206
+15 107 579 38734187 225 326 1676122
+16 29 121 10536371 119 171 1505783
+17 94 318 23507236 278 348 2342433
+18 50 318 22348155 202 302 3298223
+19 78 230 13161693 186 253 1419756
+20 62 188 13503467 430 498 4604431
+21 165 692 38615056 739 880 6415848
+22 76 497 35427502 324 458 10095581
+23 57 198 11133733 163 234 5163461
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 46
+us 1184 5491 365222514
+cn 157 675 51217177
+ua 90 90 450085
+ru 76 95 3038038
+in 50 146 12722978
+jp 35 149 16611034
+gb 29 106 6683665
+th 20 128 9208367
+nl 16 16 32419
+au 14 33 2517272
+sc 13 13 41679
+de 12 30 2633959
+tr 12 29 2209603
+gr 11 11 59785
+hk 11 112 9166108
+ca 11 65 7258969
+fr 10 10 35995
+it 9 9 48915
+vn 8 8 38315
+eu 7 24 2206634
+ro 7 7 36342
+dk 6 6 24266
+se 5 5 13079
+pl 5 5 14831
+sg 4 4 14692
+es 2 13 2286363
+zz 3 3 9648
+pt 2 2 5606
+ar 2 3 5240
+at 2 8 19734
+cl 1 1 5435
+by 2 2 10870
+id 3 3 5733
+my 0 1 31229
+ng 4 4 10522
+hn 2 2 4020
+ie 1 1 1911
+kz 1 1 1911
+mx 1 13 952660
+ee 2 2 4020
+ge 3 3 6637
+bd 1 1 1911
+md 2 2 7424
+sa 1 1 5916
+is 3 3 14458
+qa 1 1 1911
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 26
+spider 726 7892524 20210831215709 0
+bingbot/ 617 24551786 20210831222335 0
+baidu 562 56623008 20210831184054 0
+Googlebot/ 208 294800 20210831211254 0
+no_user_agent 139 7939752 20210831183839 0
+facebookexternalhit/ 65 145194 20210831082807 0
+Applebot/ 52 149246 20210831065109 0
+robot 39 121875 20210821092958 0
+bingpreview 35 253209 20210828121230 0
+Apache\-HttpClient/ 28 38220 20210824051926 0
+bot[\s_+:,\.\;\/\\-] 28 235965 20210831030250 0
+crawl 27 82848 20210815122942 0
+Googlebot\-Image/ 19 1113197 20210825073857 0
+DuckDuckGo\-Favicons\-Bot/ 17 32487 20210831183847 0
+YandexBot/ 14 26754 20210828125704 0
+Baiduspider/ 4 11168 20210823081304 0
+nbot 4 7644 20210816204345 0
+Dalvik/ 4 7644 20210825050519 0
+fetcher 3 5733 20210815010920 0
+Babya[\x20]Discoverer 3 16305 20210817075438 0
+GrapeshotCrawler/ 3 5733 20210823010039 0
+curl 3 10870 20210818085639 0
+Mail\.RU_Bot/ 3 6066 20210824094753 0
+oBot/ 2 3822 20210827090250 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 5435 20210819225925 0
+KomodiaBot/ 1 5435 20210821183838 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+html 1714 6515283 0 0
+jpeg 18 330930 0 0
+jpg 2285 144252016 0 0
+css 587 1161656 0 0
+Unknown 45 3708 0 0
+gif 135 905812 0 0
+png 1859 340178913 0 0
+js 612 1359972 0 0
+php 82 191590 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 24
+Unknown 203 124
+unix 30 6
+macosx10 15 9
+win8.1 60 54
+winnt 7 7
+winxp 70 46
+win98 12 12
+win10 3103 737
+win7 1066 242
+ios_iphone 1336 106
+winvista 1 1
+linux 239 137
+macosx 754 165
+win2003 3 3
+macosx7 7 1
+macosx8 2 2
+macosx11 91 62
+linuxandroid 181 66
+win8 35 23
+macosx12 49 13
+macosx9 24 6
+ios_ipad 5 5
+winlong 39 9
+winunknown 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 164
+chrome71.0.3578.98 1 1
+chrome60.0.3112.107 10 10
+safari12.1.2 6 0
+chrome84.0.4112.0 1 1
+chrome89.0.4389.114 21 21
+firefox33.0 2 2
+firefox72.0 9 9
+firefox28.0 25 25
+chrome35.0.2913.8 1 1
+chrome90.0.4430.85 100 100
+chrome88.0.4240.193 24 24
+chrome83.0.4103.106 1 1
+chrome92.0.4515.159 1303 66
+Unknown 147 84
+safari14.1.1 416 36
+chrome78.0.3904.62 10 5
+chrome26.0.1410.63 4 4
+chrome67.0.3396.99 1 1
+chrome90.0.2891.17 1 1
+firefox82.0 4 4
+chrome49.0.2623.112 8 2
+chrome73.0.3683.90 2 2
+netscape4.72 1 1
+chrome86.0.4240.193 18 1
+chrome60.0.2327.75 1 1
+chrome46.0.2490.80 2 2
+safari11.0 2 2
+chrome90.0.4430.86 1 1
+safari14.1.2 745 41
+chrome32.0.1664.3 7 1
+chrome76.0.3809.132 4 4
+chrome79.0.3945.79 4 1
+chrome78.0.3904.87 5 5
+chrome68.0.3427.1 68 0
+mozilla 70 54
+chrome67.0.3396.79 1 1
+msie9.0 251 139
+chrome52.0.3370.85 1 1
+chrome86.0.4240.198 112 11
+chrome86.0.4240.75 1 1
+firefox50.0 7 3
+chrome83.0.4102.0 1 1
+chrome79.0.3945.88 2 2
+chrome34.0.1847.116 4 4
+chrome45.0.2454.94 1 1
+firefox52.0 62 50
+chrome91.0.4472.114 58 11
+opera8.01 6 6
+chrome39.0.2171.95 6 6
+chrome34.0.1866.237 7 1
+chrome27.0.1453.93 15 3
+chrome81.0.4044.138 1 1
+firefox84.0 1 1
+safari 352 21
+chrome62.0.3202.94 1 1
+chrome51.0.2704.84 29 12
+msie11 1 1
+chrome32.0.1700.102 1 1
+chrome60.0.3112.113 2 2
+chrome83.0.4093.3 5 5
+chrome91.0.4472.124 179 15
+chrome26.0.1410.65 2 2
+chrome83.0.4089.0 1 1
+chrome84.0.4147.105 10 10
+webcapture 3 3
+chrome72.0.3626.109 8 2
+chrome90.0.4400.8 2 2
+firefox91.0 40 5
+chrome80.0.3987.132 2 2
+chrome92.0.4515.107 360 23
+chrome36.0.1985.67 7 1
+firefox55.0 20 10
+firefox64.0 7 7
+firefox52.9 10 1
+chrome83.0.4103.97 81 81
+safari13.1.2 16 0
+chrome83.0.4099.2 3 3
+chrome83.0.4096.0 1 1
+firefox63.0 3 3
+chrome41.0.2225.0 2 2
+msie11.0 400 31
+chrome67.0.3396.62 56 56
+firefox24.0 4 4
+chrome72.0.3597.0 1 1
+chrome79.0 29 29
+msie10.0 1 1
+chrome60.0.3112.90 11 11
+firefox53.0 6 6
+chrome85.0.4183.121 27 25
+safari14.0.2 67 5
+chrome45.0.2454.93 1 1
+chrome41.0.2226.0 7 1
+chrome75.0.3770.100 5 5
+chrome92.0.4515.131 912 56
+chrome88.0.4324.190 2 2
+firefox81.0 33 33
+chrome73.0.3683.86 2 2
+chrome83.0.4098.0 1 1
+opera60.0.3255.170 1 1
+chrome76.0.3809.71 18 1
+chrome83.0.4087.0 1 1
+chrome37.0.2062.124 7 1
+msie5.5 3 3
+chrome81.0.4044.92 20 3
+firefox45.0 2 2
+chrome90.0.4430.72 42 42
+chrome35.0.3319.102 14 2
+chrome93.0.4542.2 18 1
+safari14.0.1 32 1
+chrome90.0.4430.93 18 18
+chrome74.0.3729.169 45 13
+safari13.0.3 4 3
+chrome60.0.2034.2 1 1
+chrome65.0.3325.146 1 1
+chrome45.0.2643.72 1 1
+msie7.0 9 9
+chrome83.0.4103.61 9 9
+opera69.0.3686.7 1 1
+netscape4.61 3 3
+firefox51.0 10 2
+chrome67.0.3396.87 1 1
+chrome63.0.3239.132 4 4
+edge13 4 1
+chrome78.0.3904.108 282 282
+chrome76.0.3809.100 27 0
+firefox78.0 18 1
+chrome59.0.3071.125 50 22
+android 10 10
+firefox57.0 2 2
+chrome79.0.3945.130 11 11
+chrome76.0.3809.89 1 1
+safari12.0 1 1
+chrome85.0.4164.0 1 1
+chrome27.0.1453.116 7 1
+firefox89.0 3 3
+firefox88.0 2 2
+chrome57 4 4
+chrome88.0.4324.175 37 4
+chrome35.0.1916.47 17 5
+chrome91.0.4472.167 20 2
+opera7.54 6 6
+chrome90.0.4427.0 9 9
+chrome75.0.3770.142 13 2
+chrome91.0.4472.77 2 2
+chrome42.0.2876.87 1 1
+chrome59.0.3071.115 7 1
+chrome5.0.375.99 2 2
+msie5.0 3 3
+msie6.0 34 34
+chrome83.0.4100.3 1 1
+chrome49.0.2623.75 1 1
+chrome70.0.3538.77 6 6
+iphone 48 13
+safari11.1.2 6 0
+firefox90.0 16 5
+chrome80.0.3987.87 18 1
+firefox35.0 1 1
+firefox59.0 2 2
+safari14.0.3 100 6
+chrome86.0.4217.2 1 1
+firefox68.0 4 4
+chrome83.0.4086.0 3 3
+safari10.0 1 1
+chrome80.0.3987.149 15 15
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 17
+Mozilla/5.0_(compatible;_Dataprovider.com) 20210814071925
+GRequests/0.10 20210825055106
+Mozilla/4.0_(compatible;_ms-office;_MSOffice_16) 20210823181301
+Cpanel-HTTP-Client/1.0 20210816135526
+ae/0.1 20210823022927
+Mozilla/4.0_(compatible;_ms-office) 20210818175735
+Mozilla/5.0_Firefox/35.0 20210826072718
+Go-http-client/1.1 20210831124528
+udu/1.6.5 20210812115332
+DDI_System,_LLC 20210831183839
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210831160513
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210830010901
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20210816135540
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20210824122008
+User-Agent\ 20210805164759
+Mozilla/5.0_(compatible;_ips-agent) 20210830042900
+WordPress/5.8;_https://idloc.info 20210827122459
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+GRequests/0.10 20210825055106
+ae/0.1 20210823022927
+Cpanel-HTTP-Client/1.0 20210816135526
+Go-http-client/1.1 20210831124528
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210831160513
+Microsoft_Office_Excel_2014 20210819032732
+DDI_System,_LLC 20210831183839
+udu/1.6.5 20210812115332
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210830010901
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20210824122008
+User-Agent\ 20210805164759
+WordPress/5.8;_https://idloc.info 20210827122459
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1131 1304
+From1 114 114
+From2 117 185
+From3 76 76
+From4 403 5658
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 8
+r_search_yahoo_com 1 1
+bing 6 6
+www_google_co_jp 2 2
+google_com 8 8
+www_google_com 86 152
+www_google_co_th 0 2
+baidu 13 13
+search_yahoo_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 23
+https://fishers-spb.ru 9 9
+https://jobgirl24.ru 6 6
+https://hollyclub.com.ua 6 6
+https://rusmuz.net 6 6
+https://business-cooper.ru 6 6
+https://goldstick.ru 3 3
+https://niagarapack.com 3 3
+https://skinali.photo-clip.ru 3 3
+https://lesstroyproyekt.ru 3 3
+https://crm.xiaoman.cn 3 3
+https://okna-rating-msk.ru 3 3
+http://kinozapas.me 3 3
+https://stk-vrn.ru 3 3
+https://saunapeterburg.ru 3 3
+https://group.od.ua 3 3
+https://usg.in.ua 3 3
+https://abhomes.net 3 3
+http://plastic.oie.go.th 2 2
+http://vzsgwi.enrz.net 1 1
+http://fbkwriter.com/about-me/ 1 1
+http://l.facebook.com/l.php 1 1
+http://wugcr.tcyh.net 1 1
+https://g-turs.com/p-tour/package-tour-fukuoka.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+semalt 8
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+semalt 8
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+406 1542 348492
+206 23 1378849
+404 4198 0
+409 150 12450
+403 16 2144
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 482
+/js/header-rollup-554.js 10 -
+/statics/js/API.js 1 -
+/xy/ 2 -
+/index/api/config 1 -
+/app/js/base.js 2 -
+/wp-1ogin_bak.php 7 anonymousfox.co
+/api/site/getInfo.do 1 -
+/nyyh/chkjs.js 1 -
+/js/fckeditor/editor/filemanager/connectors/test.html 1 -
+/bk/ 2 -
+/proxy/games 1 -
+/apis/api/index 1 -
+/api/currency/quotation_new 1 -
+/index.php/Wap/Api/getBanner 1 -
+/haders.php 7 anonymousfox.co
+/plugins/system/debug/debug.xml 10 -
+//fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/step1.asp 1 -
+/bento.html/js/jquery.easy-rollover.js 2 -
+/im/in/GetUuid 2 -
+/plus/moon.php 1 http://fukupa.com/plus/moon.php
+/humans.txt 3 -
+/config/aws.yml 4 -
+/misc/ajax.js 10 -
+/wap/trading/get_newallorder_ajax 1 -
+/Public/css/hall.css 1 -
+/wp-content/wp-1ogin_bak.php 7 anonymousfox.co
+/old-site/ 2 -
+/2020/wp-includes/wlwmanifest.xml 15 -
+//leaf.php 1 -
+/api/v1/borrowxx.html 1 -
+/cms/wp-includes/wlwmanifest.xml 158 -
+/public/web/css/add//index.css 1 -
+/wp-content/plugins/backup_index.php 7 anonymousfox.co
+/static/guide/ab.css 1 -
+/bento.html/js/jquery.slicknav.js 4 -
+//13.php 1 -
+/friendGroup/list 1 -
+/public/h5static/js/main.js 1 -
+/s_api/basic/download/info 1 -
+/new 1 -
+/home/main/login 2 -
+/api/web/user/getIndexData.php 1 -
+/api/uploads/apimap 2 -
+/cindex.php 7 anonymousfox.co
+/XxX.php 2 -
+/Templates/user/js/global.js 2 -
+//haxor.php 1 -
+/api/common/getConfig 2 -
+/admin/controller/extension/extension/ 28 binance.com
+/backup 1 -
+/Public/home/js/check.js 1 -
+/template/css/login.css 1 -
+/new-site/ 2 -
+/wp-includes/lfx.php 7 anonymousfox.co
+/apple-touch-icon.png 72 -
+/products.html/js/jquery.slicknav.js 3 -
+/public/tpl/default/static/css.css 2 -
+/cms/wp-admin/install.php 6 -
+/gumdy.php 1 http://fukupa.com/gumdy.php
+/paper_products.html/js/smoothscroll.js 1 -
+/products.html/js/jquery.easy-rollover.js 3 -
+/upload.php 7 anonymousfox.co
+/static/download/style.css 1 -
+/maccms/index.php 1 http://fukupa.com/maccms/index.php
+/food_pack.html/js/jquery.slicknav.js 1 -
+/template/js/comm/Confrim.js 2 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 10 -
+/admin/fckeditor/editor/filemanager/connectors/test.html 1 -
+/files/ 28 binance.com
+/ckeditor/ckfinder/core/connector/php/connector.php 1 -
+/jiaoyimao/default.css 2 -
+/m.php 2 -
+/sushi.html/js/jquery.slicknav.js 2 -
+/mtja.html 1 -
+/Home/Get/getJnd28 1 -
+/magento_version 2 -
+//js/header-rollup-554.js 1 -
+/static/wap/css/index.css 1 -
+//c99.php 2 -
+/pages/console/js/common.js 1 -
+/FCKeditor/editor/filemanager/connectors/test.html 1 -
+/2020/ 2 -
+//admin/includes/general.js 1 -
+/user/userlist 1 -
+/phpinfo.php 4 -
+/wp-includes/js/jquery/jquery.js 10 -
+/wp-content/db_cache.php 7 anonymousfox.co
+/v2/ 2 -
+/feed/ 1 -
+/cscpLoginWeb/app/home 1 -
+//bb.php 1 -
+/legion.php 7 anonymousfox.co
+/haxor.php 1 -
+/wp2/ 2 -
+/wp-content/ 9 -
+/Public/Mobile/ecshe_css/wapmain.css 1 -
+/wp-json/wp/v2/users 3 -
+/old 1 -
+/js/json.js 2 -
+/public/appapi/images/error.jpg 1 -
+/public/img/cz1.png 1 -
+/api/linkPF 2 -
+/c.php 1 http://fukupa.com/c.php
+/douyinpay.php 1 -
+/wp/wp-includes/wlwmanifest.xml 152 -
+//images/editor/separator.gif 1 -
+/main/ 2 -
+/resources/main/common.js 2 -
+/public/static/home/js/moblie/login.js 1 -
+/wp-content/plugins/t_file_wp/t_file_wp.php 7 anonymousfox.co
+/vendor/phpunit/phpunit/build.xml 10 -
+//srx.php 1 -
+/public/admin.php/api/index/loansList 1 -
+/deli_souzai_appetizer.html/js/smoothscroll.js 1 -
+/site/wp-includes/wlwmanifest.xml 158 -
+/wp-json/wp/v2/users/ 1 -
+/backup/ 10 -
+/mh/phone.do 1 -
+/mobile/config.js 2 -
+///about.php 1 -
+/config.js 5 -
+/wp-includes/fonts/css.php 7 anonymousfox.co
+/food_pack.html/js/jquery.easy-rollover.js 1 -
+/mobile/v3/appSuperDownload.do 2 -
+/Public/css/errorCss.css 1 -
+/bb.php 2 -
+/wp-content/mu-plugins/db-safe-mode.php 7 anonymousfox.co
+/js/base1.js 2 -
+/getLocale 1 -
+/static/xianyu/js/bankCheck.js 1 -
+/images/editor/separator.gif 10 -
+/owa/auth/logon.aspx 3 -
+/robots.txt 198 -
+/Backoffice/ 2 http://fukupa.com/Backoffice/
+/2015/wp-includes/wlwmanifest.xml 3 -
+/kkrps/im_group/show_members 1 -
+/xmlrp.php 7 anonymousfox.co
+/melody/api/v1/pageconfig/list 2 -
+/admin/view/javascript/common.js 10 -
+/Lux.php 1 -
+//wp-includes/js/jquery/jquery.js 1 -
+/legal/currency/set 1 -
+/index/Mobile/kline_week 1 -
+/ws/index/getTheLotteryInitList 2 -
+/static/diff_worker.js 1 -
+//XxX.php 1 -
+/products.html/js/smoothscroll.js 3 -
+/Home/GetInitSource 1 -
+/static/home/js/rooms.js 1 -
+/web/api/getBanner 2 -
+/moduless.php 6 anonymousfox.co
+/infe/rest/flash/getServerIP.json 1 -
+/xy/image/jiantou.png 1 -
+/fdgq.php 1 http://fukupa.com/fdgq.php
+/assets/room/css/room_mobile.css 2 -
+/2019/ 2 -
+/wp-admin/ 6 http://fukupa.com/
+/thriveGame.css 1 -
+/api/user/get_user_group 1 -
+/about.html/js/smoothscroll.js 2 -
+/shop/wp-includes/wlwmanifest.xml 145 -
+/api/contactWay 1 -
+/js/home.js 2 -
+//admin/view/javascript/common.js 1 -
+/index.rdf 2 -
+/wp-login.php 3 http://fukupa.com/wp-login.php
+/old-site 1 -
+/xmlrpc.php 12 -
+/css/view/main/style.css 1 -
+/zz2/address.php 1 -
+/dup-installer/main.installer.php 9 -
+//m.php 1 -
+/about.html/js/jquery.easy-rollover.js 2 -
+/2018/ 5 -
+/ajax/allcoin_a/id/0 1 -
+/Home/GetAllGameCategory 1 -
+/static/data/gamedatas.js 2 -
+/style.css 2 -
+/js/dianzan.js 2 -
+/install.php 2 -
+/Public/home/js/fukuang.js 1 -
+/old-wp/ 2 -
+/admin.php 13 anonymousfox.co
+/base/exchange_article/index/classid/1/id/1 1 -
+/assets/js/dmshub.js 1 -
+/oldsite/ 3 -
+/aws.yml 4 -
+/sashimi.html/js/jquery.slicknav.js 1 -
+/static/h5/img/icon__create-group.png 2 -
+/div/ 3 -
+/s_api/basic/config_js 2 -
+/public/wap/js/basis.js 1 -
+/fckeditor/editor/filemanager/connectors/test.html 1 -
+/api/v1/member/kefu 2 -
+/zz/address.php 2 -
+/mytio/config/base 1 -
+/apple-touch-icon-120x120.png 6 -
+/im/ 2 -
+/home/ 3 -
+//haccess.php 1 -
+/leaf.php 2 -
+/donburi_noodle.html/js/jquery.easy-rollover.js 2 -
+/js/common.js 2 -
+/api/stock/getSingleStock.do 1 -
+/website/wp-includes/wlwmanifest.xml 150 -
+/2016/wp-includes/wlwmanifest.xml 3 -
+/market/market-ws/iframe.html 2 -
+/wordpress/wp-admin/setup-config.php 2 -
+/js/ckfinder/core/connector/php/connector.php 1 -
+/2017/ 3 -
+/leafmailer2.8.php 2 -
+/Public/home/wap/css/qdgame.css 2 -
+/config.php 8 anonymousfox.co
+/media/wp-includes/wlwmanifest.xml 133 -
+/template/920ka/js/woodyapp.js 1 -
+/back/ 3 -
+/_profiler/phpinfo 4 -
+/portal/index/protocol.html 1 -
+/v1/ 2 -
+/script/public.js 1 -
+/oldsite/wp-admin/install.php 6 -
+/xx.php 2 -
+/install/ 2 -
+/admin/webadmin.php 1 -
+/web/wp-includes/wlwmanifest.xml 97 -
+/Pc/Lang/index.html 1 -
+/admin_aspcms/_system/AspCms_SiteSetting.asp 2 http://fukupa.com/admin_aspcms/_system/AspCms_SiteSetting.asp
+/js/basic.js 2 -
+/uploads/ 27 binance.com
+/user/allroleinfo 2 -
+/assets/dist/static/js/vendor_prod.js 1 -
+/template/tmp1/js/common.js 1 -
+/wp/ 12 -
+/2019/wp-includes/wlwmanifest.xml 143 -
+/static/css/mobile.css 1 -
+/index/Mobile/fenshi 1 -
+/admin/includes/general.js 10 -
+/static/data/thirdgames.json 2 -
+/index.php/api/Uploadify/preview 1 http://fukupa.com/index.php/api/Uploadify/preview
+/service 1 -
+/tmp/ 2 -
+/admin_user/m_tixian.php 1 -
+/wp-admin/install.php 7 -
+/ysyqq.php 1 http://fukupa.com/ysyqq.php
+//shell.php 1 -
+/wp-admin/css/ 31 binance.com
+/index.php 11 anonymousfox.co
+/administrator/ 3 http://fukupa.com/administrator/
+/assets/extension/market/css/mt4.css 1 -
+/feeds 2 -
+/static/index/js/lk/order.js 1 -
+/food_pack.html/js/smoothscroll.js 1 -
+//a.php 1 -
+/backup/wp-admin/install.php 6 -
+/member/js/lang_zh_CN.js 2 -
+/home 1 -
+/Content/common/web/CommonActivity.css 1 -
+/ads.txt 69 -
+/wp 1 -
+/misc/drupal.js 3 -
+/dev/ 2 -
+/api/customerServiceLink 1 -
+/new/ 9 -
+/static/config.js 1 -
+/wp-content/plugins/wpdiscuz/themes/default/style-rtl.css 7 anonymousfox.co
+/pma/ 1 http://fukupa.com/pma/
+/utility/convert/index.php 1 http://fukupa.com/utility/convert/index.php
+/Template/Mobile/js/main.js 2 -
+/blog/ 10 -
+/static/common/js/common.js 1 -
+/2018/wp-includes/wlwmanifest.xml 131 -
+/static/local/img/userCenter/hourlyPrivilege.svg 1 -
+/sito/wp-includes/wlwmanifest.xml 158 -
+/getConfig/listPopFrame.do 3 -
+/Public/Home/images/game/pk10.png 2 -
+/css/all.css 2 -
+/css/skin/ymPrompt.css 1 -
+/index.php/api/other/appSetting 2 -
+/Promotions/list.mvc 2 -
+/files/pub_rem.js 1 -
+/paper_products.html/js/jquery.slicknav.js 1 -
+/alfa.php 7 anonymousfox.co
+/Content/css/wzwstylel.css 2 -
+/m/allticker/1 2 -
+/wp-includes/class-wp-page-cache.php 1 www.google.com
+/infe/rest/fig/advertise/common.json 2 -
+/manager/js/left.js 1 -
+/test/ 5 -
+/alfindex.php 7 anonymousfox.co
+/login/img/nyyh/chkjs.js 1 -
+/style.php 8 anonymousfox.co
+/api/mobile/checkStrategyHistory 1 -
+/blog/wp-includes/wlwmanifest.xml 92 -
+/Public/Home/ecshe_css/main.css 1 -
+/wordpress/wp-includes/wlwmanifest.xml 143 -
+/wp-content/plugins/ubh/up.php 7 anonymousfox.co
+/apple-touch-icon-120x120-precomposed.png 6 -
+/wp-content/wp-old-index.php 7 anonymousfox.co
+/public/css/style.css 2 -
+/im/h5/ 1 -
+/uploads/dede/sys_verifies.php 1 http://fukupa.com/uploads/dede/sys_verifies.php
+/home/GetQrCodeInfo 1 -
+/oldsite 1 -
+/e/DoInfo/ecms.php 1 http://fukupa.com/e/DoInfo/ecms.php
+/old/ 10 -
+/css/dafa.css 1 -
+//alfa.php 2 -
+/wp2/wp-includes/wlwmanifest.xml 158 -
+/site/wp-admin/install.php 6 -
+/administrator/index.php 1 http://fukupa.com/administrator/
+/js/pups.js 1 -
+//Lux.php 1 -
+/client/api/findConfigByKey 1 -
+/news/ 1 -
+/api/user/ismustmobile 1 -
+/plus/mytag_js.php 1 http://fukupa.com/plus/mytag_js.php
+/api/v/index/queryOfficePage 2 -
+/wordpress/ 14 -
+/index.PHP 1 http://fukupa.com/index.PHP
+/up.php 7 anonymousfox.co
+/user.php 2 45ea207d7a2b68c49582d2d22adf953aads|a:2:{s:3:\"num\"
+/temp/ 8 -
+/wordpress 1 -
+/iframe/rankgiftgotapi/1005 1 -
+/web/wp-admin/install.php 6 -
+/loan 1 -
+/paper_products.html/js/jquery.easy-rollover.js 1 -
+/client/api/findFreeTrade 2 -
+/wp-content/langar.php 7 anonymousfox.co
+/old-index.php 6 anonymousfox.co
+/stock/search.html 2 -
+/bento.html/js/smoothscroll.js 4 -
+/assets/res/mods/room.js 1 -
+/api/v1/about 1 -
+/JS/loginstatus.js 2 -
+/donburi_noodle.html/js/smoothscroll.js 2 -
+/wordpress/wp-admin/install.php 6 -
+/ehthg.php 1 http://fukupa.com/ehthg.php
+/wp/wp-admin/install.php 6 -
+/apple-touch-icon-precomposed.png 72 -
+/api/message/webInfo 1 -
+//1337.php 1 -
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 7 anonymousfox.co
+/js/tvConfig.js 1 -
+/shell.php 1 -
+/api/apps 1 -
+/core/misc/drupal.js 3 -
+//misc/ajax.js 1 -
+/cms/ 3 -
+/wap/banner/details 1 -
+/Home/Bind/binding 1 -
+/util/login.aspx 2 -
+/.env.example 3 -
+/test.php 7 anonymousfox.co
+/.aws/credentials 6 -
+/blog/robots.txt 1 -
+/old/wp-admin/install.php 6 -
+/views/commData/commonSite.js 2 -
+/FCKeditor/editor/filemanager/connectors/asp/connector.asp 1 http://fukupa.com/FCKeditor/editor/filemanager/connectors/asp/connector.asp
+/site/get-hq 1 -
+/kkrp/site/info 2 -
+/sites/default/files/ 28 binance.com
+/test/wp-admin/install.php 6 -
+/anquan/qgga.asp 2 -
+/js/a.script 1 -
+/data/json/config.json 2 -
+//x.php 3 -
+/getConfig/getArticle.do 1 -
+/skin/main/onload.js 1 -
+/wp-includes/css/css.php 7 anonymousfox.co
+/Public/Wchat/css/index.css 1 -
+/wap/api/exchangerateuserconfig!get.action 1 -
+/rss.xml 2 -
+/wp-includes/small.php 7 anonymousfox.co
+/js/app.ling.js 2 -
+/Public/home/common/js/index.js 1 -
+/wp-includes/wlwmanifest.xml 151 -
+/api/product/topRank 1 -
+/admin/index 1 -
+/wp-includes 2 www.google.com
+/static/css/index.css 1 -
+/js/config20181225.js 1 -
+/static/admincp/js/common.js 1 -
+//wp-json/wp/v2/users 1 -
+/resources/css/headernav.css 2 -
+/api/wallet/redDetail 1 -
+/bc 1 -
+/srx.php 2 -
+/images/no.jpg 1 -
+/news/wp-includes/wlwmanifest.xml 153 -
+/admin 9 -
+/Home/Index/ajaxTJ 2 -
+/sushi.html/js/smoothscroll.js 2 -
+/static/common/js/global.js 1 -
+/app/common/getRegisterSet 1 -
+/feed 2 -
+/scripts/boxsizing.htc 8 -
+/static/home/css2/login--1.css 2 -
+/info.php 6 -
+/plus/90sec.php 1 http://fukupa.com/plus/90sec.php
+//wso.php 1 -
+/main 1 -
+/api/v1/invest 2 -
+/Public/Home/js/cls.js 2 -
+/static/mobile/user.html 2 -
+/about.html/js/jquery.slicknav.js 2 -
+/room/script/face.js 2 -
+/api/content_bottom 2 -
+/demo/ 2 -
+//leafmailer2.8.php 1 -
+/Scripts/common.js 1 -
+/css/info.css 2 -
+/lanren/css/global.css 2 -
+/bak/ 2 -
+/search.php 5 http://fukupa.com/search.php
+/index/index/andiro 1 -
+/ckfinder/core/connector/php/connector.php 1 -
+/donburi_noodle.html/js/jquery.slicknav.js 2 -
+/dev/wp-admin/ 1 http://fukupa.com/
+/1337.php 2 -
+/wp-includes/js/jquery/jquery-migrate.min.js 2 www.google.com
+/phpMyAdmin/ 1 http://fukupa.com/phpMyAdmin/
+/Public/js/common.js 1 -
+/api/system/system/config/get 1 -
+/sushi.html/js/jquery.easy-rollover.js 2 -
+//vendor/phpunit/phpunit/build.xml 1 -
+/administrator/language/en-GB/en-GB.xml 1 www.google.com
+/proxy/settings 1 -
+/css/main.css 1 -
+/xx.js 2 -
+/new/wp-admin/install.php 6 -
+/wp-content/plugins/ioptimization/IOptimize.php 7 anonymousfox.co
+/Public/uploads/web/step1.png 2 -
+/v1/management/tenant/getSpeedDomain 1 -
+/site/ 3 -
+/wso.php 2 -
+/user/Login 1 -
+/2017/wp-includes/wlwmanifest.xml 3 -
+/phpinfo 4 -
+/Css/Hm.css 1 -
+/wp1/wp-includes/wlwmanifest.xml 156 -
+/wp-booking.php 7 anonymousfox.co
+/sitemap.xml 2 -
+/guess/list.php 1 -
+/myConfig.js 2 -
+/index.rss 2 -
+/Recruit/download_url 2 -
+/plus/download.php 1 http://fukupa.com/plus/download.php
+/boom.php 7 anonymousfox.co
+/index.php/sign 2 -
+/bk 1 -
+/web/ 3 -
+/static/home/css/css.css 2 -
+/Public/Home/js/game.js 1 -
+/blog/wp-admin/install.php 6 -
+/downloader/ 2 http://fukupa.com/downloader/
+/js/chat/chat.js 2 -
+/m/ticker/usdtqc 1 -
+/homes/ 3 -
+/wp-includes/ID3/license.txt 2 www.google.com
+/api/index/loansList 1 -
+/utility/convert/data/config.inc.php 1 http://fukupa.com/utility/convert/data/config.inc.php
+/ipl/app/flash/publicbmw/ball/FigLeaf.js 1 -
+/index.xml 2 -
+/views/home/home.js 1 -
+/img/zllqdk.png 2 -
+//plugins/system/debug/debug.xml 1 -
+/th1s_1s_a_4o4.html 31 http://www.google.com/url
+/kefu.php 1 -
+//xx.php 1 -
+/js/smoothscroll.js 4 -
+/verification.asp 1 -
+/x.php 2 -
+/sashimi.html/js/smoothscroll.js 1 -
+/csjs/bankCheck.js 1 -
+/static/home/static/js/login.js 2 -
+/test/wp-includes/wlwmanifest.xml 156 -
+/index.php/Wap/Api/getSystemNotice 2 -
+/admin/ 6 http://fukupa.com/admin/
+/wp1/ 2 -
+/h5/ 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 757
+35.195.197.130 50 62 94448 20210825133550
+37.229.198.180 33 33 179355 20210830233408
+162.241.217.24 33 33 2664 20210816135540
+114.226.148.35 28 28 184415 20210802191624
+34.106.5.173 28 28 152180 20210804100218
+49.80.190.205 28 28 184415 20210811212047
+184.154.76.20 27 53 169351 20210829215643
+195.123.209.118 27 27 146745 20210831135027
+209.126.9.211 24 24 45864 20210822054234
+34.130.108.200 20 20 108700 20210831173543
+173.225.107.125 18 18 97830 20210818102754
+184.154.139.51 18 36 116199 20210828215155
+64.60.31.198 16 390 24428040 20210827135455
+143.244.177.202 15 15 81525 20210825032737
+34.125.233.16 15 15 81525 20210831233243
+184.154.139.50 14 28 90377 20210830215309
+34.140.218.206 14 14 76090 20210828223414
+146.56.133.227 14 14 40005 20210827122459
+80.92.235.200 13 13 40625 20210816074803
+34.122.28.240 13 13 70655 20210802134407
+107.150.37.187 13 13 40625 20210816130902
+104.248.9.53 12 12 8712 20210826200201
+144.217.135.181 12 12 158320 20210814071543
+111.202.91.3 12 84 171588 20210830184355
+66.91.144.50 12 225 16239166 20210826154218
+103.107.198.235 3 3 16305 20210819033818
+178.159.37.153 3 3 16305 20210814221525
+85.192.161.161 1 1 5435 20210816103457
+18.116.19.4 3 3 5733 20210819071520
+34.244.217.140 1 1 1911 20210804155637
+104.244.72.248 1 1 5435 20210831191945
+34.246.160.243 1 1 1911 20210805005325
+141.239.80.79 2 20 2367125 20210806133637
+34.216.87.182 1 1 1911 20210811142423
+93.75.48.211 1 1 5435 20210809085750
+166.170.14.86 0 8 561461 
+166.137.8.24 1 8 1022408 20210823024823
+35.162.194.73 1 1 1911 20210809145144
+123.58.211.142 8 9 15553 20210831092631
+52.149.58.173 1 1 1911 20210814140146
+18.234.16.132 4 4 7644 20210831124528
+52.13.83.41 1 1 1911 20210826142319
+38.109.150.58 1 1 5435 20210822183009
+44.192.254.217 2 2 3822 20210822134056
+137.74.24.99 1 1 1911 20210804001521
+31.207.89.66 1 12 2280447 20210829214417
+105.112.45.98 2 2 5261 20210812151231
+46.45.185.162 1 1 3330 20210827091507
+54.68.165.154 2 2 3822 20210827141031
+162.55.191.37 1 1 1911 20210824011241
+23.148.144.55 1 1 2224 20210816141953
+176.48.127.215 1 1 5435 20210816234231
+207.46.13.109 0 1 725 
+170.246.102.186 1 1 1911 20210821091144
+52.149.61.51 1 1 1911 20210816195922
+42.236.10.84 1 15 1335835 20210825050432
+45.147.246.153 2 2 11832 20210826205621
+52.37.211.134 1 1 1911 20210814043813
+171.244.1.84 5 5 25534 20210826145831
+184.94.240.92 6 6 38472 20210825043703
+143.244.186.99 4 4 2904 20210811213501
+54.190.28.15 1 1 1911 20210820145706
+185.220.102.247 1 1 5435 20210817191244
+70.39.129.108 1 1 5435 20210811214817
+76.173.137.46 4 10 808597 20210825000522
+45.144.225.119 1 1 5435 20210811172244
+104.222.33.181 1 1 5435 20210806174748
+195.154.60.148 3 3 16305 20210829195048
+205.169.39.21 1 18 2173113 20210816170135
+27.115.124.70 2 25 2533479 20210828012715
+18.159.196.172 2 2 174 20210816135529
+42.236.10.78 0 6 612858 
+182.253.191.106 2 2 3822 20210810193524
+5.226.142.49 4 4 7644 20210824020805
+45.56.122.196 1 4 8510 20210823022922
+54.149.221.123 1 1 1911 20210811142614
+199.249.230.180 2 2 7424 20210827040811
+35.164.78.111 1 1 1911 20210814142713
+216.131.116.225 2 2 5085 20210826191357
+185.220.101.132 1 1 5435 20210801181550
+188.35.131.246 1 1 5435 20210823130206
+3.250.195.59 1 1 1911 20210818150714
+40.94.35.82 1 4 88668 20210831104858
+37.0.8.34 6 6 4356 20210811022050
+183.83.135.7 2 20 2611766 20210831021245
+144.86.173.25 2 2 10870 20210817024521
+66.91.40.39 8 98 6444097 20210827044231
+191.102.135.189 2 2 4020 20210810144911
+51.116.118.30 3 3 16305 20210821063109
+193.218.118.167 3 3 14502 20210825234308
+42.236.10.75 1 12 879352 20210825050451
+45.17.200.92 0 1 30975 
+107.174.148.34 2 2 5020 20210818020804
+17.233.99.81 2 21 3564223 20210802235423
+144.86.173.84 1 1 5435 20210824064039
+34.78.208.17 5 5 27175 20210830212132
+8.210.218.190 1 1 1911 20210809043004
+93.158.90.66 1 1 1911 20210814050227
+66.91.203.171 0 6 341806 
+209.141.59.180 1 1 5435 20210822194047
+216.145.5.42 1 1 1911 20210829081001
+24.165.47.128 4 37 5893721 20210820131205
+144.86.173.30 1 1 5435 20210817185342
+144.91.125.168 2 2 3822 20210804031404
+130.255.162.253 1 1 1911 20210818233159
+190.111.161.112 1 1 2224 20210805164757
+37.45.216.107 1 1 5435 20210810070312
+35.245.188.175 1 1 17748 20210816172733
+104.222.43.250 1 1 5435 20210803214433
+208.72.23.128 1 1 1911 20210805164754
+176.67.85.203 2 2 4727 20210815203236
+34.222.197.188 1 1 1911 20210826021141
+34.221.199.95 1 1 1911 20210812143841
+216.10.31.131 1 1 5435 20210803082337
+46.166.187.72 1 1 5435 20210831231640
+171.34.177.32 1 1 1911 20210812042248
+185.220.101.139 1 1 5435 20210804201728
+54.187.5.60 1 1 1911 20210830143832
+45.33.106.125 0 1 74934 
+34.207.76.247 0 1 1875 
+34.219.249.111 1 1 1911 20210804144714
+92.38.136.69 2 2 10870 20210827140337
+3.249.97.170 1 1 1911 20210803155528
+51.15.201.34 1 1 1911 20210828025504
+180.163.220.67 1 11 263717 20210824052726
+172.56.44.226 1 17 1220656 20210825142124
+54.189.125.235 1 1 1911 20210823144000
+3.236.144.193 1 1 1911 20210808173300
+208.109.34.195 3 3 16305 20210825154116
+34.71.21.196 1 1 0 20210829180213
+52.143.95.204 2 2 3822 20210810204432
+3.135.191.142 3 3 16305 20210811090435
+111.200.39.124 1 1 0 20210804052833
+54.191.215.187 1 1 1911 20210806142423
+172.58.19.194 1 2 630279 20210821130245
+188.166.209.154 3 3 16305 20210825224332
+46.45.185.173 0 5 1173776 
+193.169.145.202 3 3 14602 20210813031454
+54.187.42.141 1 1 5435 20210814035310
+72.55.136.154 3 3 16305 20210817235950
+52.24.79.26 1 1 1911 20210819143738
+91.79.14.55 1 1 5435 20210813193051
+5.199.138.97 4 4 2904 20210820014622
+49.234.43.244 0 1 84927 
+34.219.29.19 1 1 1911 20210818142413
+52.26.183.191 1 1 1911 20210809145121
+106.132.231.31 2 19 1850935 20210806124518
+185.245.85.10 3 3 16305 20210806042810
+42.112.93.165 1 1 5435 20210814134847
+185.247.225.79 1 1 5435 20210830104838
+72.13.46.2 3 3 7505 20210830042900
+34.138.190.80 11 11 33495 20210805173356
+172.58.22.216 1 4 1231396 20210821130237
+185.38.175.72 1 1 5916 20210810212437
+85.209.90.183 1 1 5916 20210802131542
+104.244.77.73 1 1 5435 20210825180806
+54.189.164.203 1 1 1911 20210808143205
+107.127.21.116 2 2 10870 20210803231458
+196.240.143.180 3 3 8266 20210816064246
+134.209.69.115 6 6 32610 20210820112908
+114.143.236.202 1 1 1911 20210831172754
+156.146.56.106 3 3 16305 20210809223431
+76.173.214.17 1 17 1220656 20210825182200
+100.26.160.62 1 1 1911 20210814022402
+66.175.85.52 3 55 4258999 20210811131855
+23.94.145.192 1 1 5435 20210823091735
+54.218.53.14 0 1 17183 
+193.218.118.156 3 3 14576 20210803080123
+40.94.35.72 0 1 50276 
+34.69.170.4 2 2 10870 20210820101741
+141.164.96.8 1 10 1487704 20210817080547
+76.173.24.121 8 205 13383613 20210828223311
+27.6.38.113 1 18 2173113 20210803005339
+46.45.185.168 0 3 159585 
+76.173.18.178 4 26 4473441 20210822180430
+54.189.51.212 1 1 1911 20210804144855
+156.146.56.116 2 2 10870 20210830085903
+103.106.250.36 3 3 16305 20210804121351
+66.249.84.154 3 3 14037 20210824012927
+222.242.191.18 1 1 1911 20210802091213
+14.161.10.191 1 1 1911 20210823125322
+165.22.34.205 1 1 1911 20210808040741
+208.100.26.247 1 1 1911 20210801224411
+58.11.39.202 5 5 8682 20210809061456
+208.100.26.249 2 2 3822 20210810221814
+37.120.203.71 3 3 16305 20210801133200
+52.195.7.212 1 18 2173113 20210810023923
+80.253.235.74 2 2 10870 20210823044343
+52.213.170.106 1 1 1911 20210810204822
+180.163.220.3 0 23 2210122 
+156.146.56.120 3 3 16305 20210809151102
+173.197.95.170 6 164 10652628 20210824180649
+52.42.174.203 1 1 36143 20210815014748
+51.77.129.159 1 15 1119002 20210814071924
+144.86.173.131 1 1 5435 20210820051113
+119.131.142.178 5 43 4525024 20210827065707
+12.45.252.34 1 10 1679330 20210805182313
+39.101.140.2 2 2 1911 20210814003249
+120.92.72.104 0 1 958 
+47.52.99.123 1 1 1911 20210813065837
+20.69.240.176 6 6 32610 20210812205909
+188.0.138.11 1 1 1911 20210824215203
+38.202.2.207 1 18 2173113 20210830130527
+180.163.220.4 3 20 2858144 20210824095611
+2.92.198.40 4 4 19217 20210823031410
+3.249.31.245 1 1 1911 20210805153827
+162.55.37.78 9 9 48915 20210817192443
+104.222.33.153 1 1 5435 20210804084510
+49.228.40.227 1 7 14299 20210808030003
+34.245.74.45 1 1 1911 20210831155534
+156.146.56.118 3 3 16305 20210814082953
+18.216.97.224 1 1 1911 20210815152434
+94.23.102.104 1 1 5916 20210829190915
+203.159.80.102 4 4 2904 20210822224003
+176.202.85.206 1 1 1911 20210824213953
+172.85.176.122 8 200 12393760 20210808212647
+208.100.26.237 1 1 1911 20210817120210
+35.84.198.26 1 1 1911 20210826081909
+185.200.117.173 3 3 16305 20210810064433
+98.42.108.237 1 40 3999818 20210819225323
+172.56.16.244 1 6 9383 20210828120437
+124.121.27.247 1 66 5865470 20210828100441
+3.249.33.140 1 1 1911 20210825150741
+52.141.57.69 3 3 16305 20210825012443
+46.45.185.171 0 3 137218 
+167.71.212.112 3 3 16305 20210829014502
+208.100.26.243 2 2 3822 20210816233719
+185.130.104.185 1 1 1911 20210808234929
+167.172.37.241 2 2 10870 20210803170556
+35.194.204.62 3 3 16305 20210805100331
+54.149.164.207 1 1 1911 20210808143249
+54.212.155.254 1 1 1911 20210816143308
+54.89.25.120 2 2 3822 20210814131029
+34.245.181.82 1 1 1911 20210827152328
+52.149.30.45 3 3 5733 20210819112847
+107.127.60.6 1 4 89011 20210822195637
+68.183.88.242 2 10 987196 20210826005357
+113.31.111.114 0 1 34456 
+24.94.80.80 2 2 10870 20210825050519
+34.78.128.124 1 1 5435 20210812222625
+45.153.160.131 1 1 5435 20210801153445
+2.92.126.230 1 1 5435 20210809235602
+98.15.67.13 1 37 1596653 20210831183049
+46.45.185.170 3 5 537401 20210827091507
+66.249.82.153 0 14 1002869 
+3.250.43.110 1 1 1911 20210816154900
+52.40.228.202 1 1 1911 20210819142910
+76.170.166.127 1 35 2179150 20210801043701
+157.55.84.109 2 2 10870 20210801031812
+66.102.6.83 2 5 9621 20210821130614
+166.137.8.96 2 20 2478970 20210820105856
+113.31.110.42 0 1 171809 
+42.236.10.114 3 19 1191869 20210828012856
+54.188.111.28 1 1 1911 20210812143910
+103.253.25.161 2 2 10870 20210805031049
+120.11.234.174 2 2 4135 20210806232401
+113.41.27.212 1 18 2173113 20210818005802
+54.187.137.235 1 1 1911 20210831150518
+5.188.48.217 1 1 5435 20210818015629
+106.75.250.226 0 1 34456 
+104.244.72.168 1 1 5435 20210816231849
+138.199.10.21 1 1 6346 20210801090029
+54.218.116.216 1 1 1911 20210814144105
+51.79.204.46 1 1 5916 20210827213810
+185.253.99.134 3 3 16305 20210826214807
+54.203.73.198 1 1 1911 20210804215552
+167.172.24.96 3 3 16305 20210803011019
+203.218.249.178 8 109 9160051 20210806022920
+34.221.89.45 1 1 1911 20210813143046
+34.220.70.168 1 1 1911 20210823143923
+120.228.246.49 2 28 3660817 20210824052719
+72.253.175.176 1 10 1487704 20210814222918
+119.131.142.96 1 19 2198988 20210822192504
+178.45.215.118 2 2 10934 20210813101233
+54.82.173.57 1 4 8510 20210801073718
+27.221.75.35 1 1 1911 20210822155601
+45.129.18.53 1 1 0 20210819185206
+91.185.236.236 1 1 5916 20210815104408
+54.190.42.29 1 1 1911 20210807144317
+146.70.52.10 1 1 5916 20210802104602
+43.245.160.44 6 6 32610 20210814121330
+164.90.140.115 2 2 3822 20210827235648
+52.149.58.69 1 1 1911 20210829154325
+37.9.13.48 1 1 5435 20210808105934
+73.155.225.227 2 12 2117983 20210804131332
+34.244.207.50 1 1 1911 20210802152014
+153.181.41.55 4 25 4036699 20210805025808
+34.217.144.179 1 1 1911 20210819143929
+50.113.15.242 2 22 3404509 20210820221005
+14.207.118.55 1 1 1911 20210809233408
+156.146.41.22 2 2 5084 20210829025801
+144.86.173.95 1 1 5435 20210824164114
+144.86.173.90 1 1 5435 20210828013107
+100.21.218.158 2 2 3822 20210823175033
+34.217.11.162 1 1 1911 20210805142106
+24.25.253.124 0 3 214611 
+34.243.60.106 1 1 1911 20210810153505
+47.149.147.101 1 18 2173113 20210801142037
+144.86.173.88 1 1 5435 20210823141616
+180.163.220.5 0 11 1387786 
+34.212.39.128 1 1 1911 20210809145007
+103.246.41.21 1 2 3016 20210809223354
+185.246.208.53 3 3 15572 20210813043138
+5.62.56.254 3 3 5733 20210828114752
+34.213.182.192 2 2 3822 20210806142021
+3.142.122.14 2 2 174 20210816135529
+185.185.132.105 1 2 18622 20210805051133
+181.214.129.242 1 1 5435 20210824201553
+120.92.72.199 0 1 725 
+34.77.217.45 2 2 10870 20210827182036
+92.118.160.17 4 4 21740 20210830010901
+172.56.44.204 1 1 3330 20210825142252
+3.248.202.52 1 1 1911 20210830154603
+3.250.90.35 1 1 1911 20210808032430
+166.137.246.18 0 12 808098 
+185.100.87.202 1 1 5435 20210809222722
+175.170.76.98 4 4 8270 20210825162853
+63.33.65.130 1 1 1911 20210804181242
+77.243.191.41 3 3 16305 20210816022805
+110.169.10.102 1 16 2071459 20210823012315
+107.185.241.8 7 64 4220188 20210823093851
+52.210.179.168 2 2 3822 20210819202231
+92.118.160.1 2 2 10870 20210829231018
+5.188.48.58 5 5 56740 20210811112219
+185.200.117.166 3 3 16305 20210818142606
+74.208.53.185 3 3 16305 20210829150852
+34.219.133.116 1 1 1911 20210806142454
+185.200.117.171 2 2 10870 20210814024411
+34.222.230.59 1 1 1911 20210809145021
+75.80.216.43 1 12 2280447 20210807215125
+103.113.156.7 1 18 2173113 20210820003713
+46.33.33.1 1 1 5435 20210804204117
+121.5.113.11 1 1 1911 20210810133921
+176.9.99.241 2 2 3822 20210828034224
+42.236.10.93 2 19 683761 20210825054022
+107.172.183.159 1 1 5435 20210820124847
+81.16.245.179 3 3 6637 20210801133010
+106.75.177.238 2 8 53732 20210811024813
+205.185.209.221 2 2 5603 20210802170326
+100.37.226.124 2 12 1507820 20210818055151
+5.34.180.192 3 3 16305 20210803151623
+72.234.36.123 3 80 6061846 20210824141626
+40.94.35.47 0 4 209454 
+20.102.76.190 1 1 1911 20210810104813
+46.45.185.161 1 1 2244 20210827091507
+91.188.247.31 1 1 1911 20210819084908
+212.90.39.68 1 1 1911 20210804083903
+54.188.215.215 1 1 1911 20210811142824
+166.170.14.122 0 2 62313 
+24.6.100.253 3 104 7953879 20210816114905
+46.45.185.165 1 1 3778 20210827091507
+166.70.207.2 1 1 5916 20210801130704
+144.86.173.22 1 1 5435 20210831160513
+180.51.162.251 8 28 4200235 20210819032741
+193.239.84.145 1 1 2224 20210811173158
+103.82.4.86 1 10 1459637 20210813030437
+3.239.11.56 1 1 1911 20210822144201
+34.248.46.220 1 1 1911 20210824153116
+151.138.13.148 3 3 5733 20210825144406
+34.208.223.6 1 1 1911 20210831151325
+18.236.190.174 0 1 2373 
+54.244.37.141 1 1 1911 20210801143759
+35.185.241.102 1 1 5849 20210822085108
+34.221.189.48 1 1 1911 20210827140932
+20.56.217.80 3 3 16305 20210825194557
+80.111.130.108 1 7 14299 20210801095549
+34.243.180.166 1 1 1911 20210813153427
+85.202.80.35 3 3 14528 20210813184034
+52.19.30.155 1 1 1911 20210819155426
+37.19.210.171 3 3 10794 20210801090018
+45.144.113.80 2 2 10870 20210824015229
+103.108.92.91 2 2 10870 20210817221323
+64.233.172.6 2 8 22928 20210824012903
+34.72.84.253 4 4 21740 20210803190710
+24.165.25.127 1 18 2173113 20210822233505
+175.44.42.228 1 1 1911 20210806170958
+34.211.141.246 1 1 1911 20210805141632
+3.226.217.104 1 18 2173113 20210830130425
+144.86.173.79 1 1 5435 20210802183952
+124.65.117.38 3 3 16305 20210814131010
+201.212.239.74 1 2 3016 20210809101043
+89.163.252.30 1 1 5435 20210815030634
+163.172.29.30 1 1 5435 20210818102241
+64.225.3.93 4 4 2904 20210818065850
+216.60.239.103 1 1 2224 20210826134854
+138.128.118.130 2 2 4155 20210811120838
+104.129.18.140 3 3 16305 20210804082151
+144.86.173.32 1 1 5435 20210820194512
+107.189.6.61 1 1 5435 20210830104724
+216.226.146.214 3 3 16305 20210816150128
+71.174.55.120 3 3 5733 20210808101819
+5.62.58.233 2 2 10870 20210807204351
+172.250.225.82 1 18 2173113 20210804153034
+34.220.235.32 1 1 1911 20210809144143
+37.45.190.85 1 1 5435 20210805211757
+185.128.25.78 2 20 2611766 20210815153045
+126.152.75.142 4 26 3086375 20210825134902
+144.86.173.73 1 1 5435 20210810211436
+66.102.6.85 2 4 5888 20210821130614
+199.16.241.217 1 1 3350 20210805164759
+121.89.208.237 6 6 5733 20210825174739
+206.189.144.241 3 3 16305 20210822172254
+199.249.230.109 3 3 14550 20210818152810
+63.33.43.208 1 1 5435 20210809193803
+64.246.161.190 1 1 1911 20210808203016
+18.236.174.251 0 1 1875 
+34.214.93.254 1 1 1911 20210811144103
+72.130.172.237 2 13 1766643 20210816142024
+40.94.35.90 0 4 701232 
+54.244.44.210 1 1 1911 20210813143426
+34.215.253.229 1 1 1911 20210819143618
+34.221.227.230 1 1 1911 20210806141418
+64.225.76.223 2 2 10870 20210803023214
+123.56.228.164 2 2 10870 20210831221334
+67.52.93.30 1 18 2173113 20210811214659
+23.108.44.209 3 3 8266 20210810001039
+5.9.78.207 1 1 5435 20210804025158
+42.236.10.106 1 14 1630771 20210825055426
+54.191.146.16 1 1 1911 20210807145557
+138.199.59.162 1 1 5435 20210802044048
+124.122.219.247 1 7 14299 20210804062607
+185.200.117.202 1 1 5435 20210806013044
+34.216.169.170 1 1 1911 20210820144849
+216.151.183.46 2 2 4730 20210812131626
+62.16.8.186 1 1 5435 20210817231655
+67.149.129.18 1 1 5435 20210810201549
+185.220.102.252 1 1 5435 20210824050251
+185.220.100.242 1 1 5435 20210821002740
+75.82.182.5 7 166 10437314 20210810082701
+185.220.100.244 1 1 5435 20210816044855
+223.29.254.89 2 2 4146 20210829050759
+52.39.4.59 1 1 87 20210816135530
+23.94.145.22 1 1 5435 20210819165508
+5.255.97.149 1 1 1508 20210810212438
+34.221.238.94 1 1 1911 20210820145736
+35.161.228.55 1 1 1911 20210821142542
+34.94.148.147 8 8 43480 20210827175048
+196.19.249.16 1 1 1911 20210818020759
+172.58.44.77 4 103 7186941 20210824012926
+76.173.243.102 0 1 436429 
+172.56.44.120 0 27 2079226 
+123.24.39.177 1 1 5435 20210805141830
+141.239.157.49 2 22 3404509 20210820020039
+213.164.204.94 1 1 5435 20210815154237
+34.214.242.168 4 4 8603 20210805015249
+184.154.139.49 4 8 25822 20210831215708
+176.34.145.252 1 1 1911 20210811151844
+141.239.244.71 1 18 2173113 20210823005352
+18.212.27.105 1 2 38516 20210828100959
+206.169.71.222 0 1 952457 
+13.78.131.10 3 3 16305 20210828122239
+184.22.36.25 2 20 2611766 20210804220300
+75.85.128.21 4 59 5272281 20210830164754
+34.71.210.147 4 4 7644 20210822145916
+193.169.255.214 1 1 5435 20210807175902
+45.77.226.127 1 1 1911 20210823085654
+72.235.215.88 4 155 12915659 20210823135508
+34.78.11.209 1 1 5435 20210825172646
+212.98.91.85 2 2 3822 20210813021829
+144.86.173.134 1 1 5435 20210820130511
+196.16.223.247 1 1 1911 20210816171609
+35.225.136.39 9 9 48915 20210819121002
+152.32.171.98 6 7 11731 20210824063354
+54.188.236.85 1 1 1911 20210814051814
+180.244.222.25 1 1 1911 20210806083213
+34.209.204.168 1 1 1911 20210820153227
+45.129.18.105 1 1 0 20210829093622
+201.114.65.19 1 13 952660 20210803174303
+73.222.196.192 3 26 2460710 20210828205019
+144.86.173.68 1 1 5435 20210809230732
+84.17.46.18 6 6 32610 20210827205111
+35.187.89.43 1 1 5435 20210831202035
+82.221.128.191 3 3 14458 20210825234223
+172.94.12.60 1 1 1911 20210812142043
+91.77.108.222 1 1 5916 20210802170246
+34.221.244.123 1 1 1911 20210829142113
+98.150.150.1 2 25 3364020 20210821213557
+40.66.43.188 2 2 10870 20210818160556
+208.100.26.246 2 2 3822 20210824074237
+77.35.254.51 3 3 13969 20210810041210
+172.113.106.213 2 47 3779395 20210805172055
+52.11.187.58 1 1 1911 20210813144059
+198.98.51.151 1 1 5435 20210818072525
+70.39.81.151 4 4 13660 20210829085231
+66.91.208.241 1 18 2173113 20210824112140
+18.203.98.3 1 1 1911 20210820152531
+69.243.147.178 5 55 5345465 20210804133129
+174.248.254.97 1 9 726873 20210825041021
+162.247.74.204 1 1 1508 20210801130709
+113.210.62.32 0 1 31229 
+199.249.230.161 3 3 14560 20210823001204
+64.233.172.3 1 7 15708 20210824012927
+45.130.83.21 1 1 5435 20210816043618
+76.173.114.161 3 53 2198957 20210809221908
+72.253.14.248 1 17 1220656 20210822140454
+13.56.149.238 4 4 8603 20210829111017
+50.112.138.160 1 1 1911 20210820153255
+17.58.59.21 1 1 1911 20210822000731
+175.44.42.171 1 1 1911 20210829093231
+144.86.173.138 1 1 5435 20210805135031
+54.217.130.4 1 1 1911 20210814162705
+62.16.11.164 2 2 10870 20210810200546
+77.255.13.22 1 1 1911 20210809145419
+51.15.230.233 2 2 0 20210824122008
+34.213.5.161 1 1 5435 20210830135253
+166.137.8.62 2 34 3822 20210802232200
+46.45.185.180 1 5 174857 20210827091501
+34.89.176.225 8 8 43480 20210831183751
+75.85.2.213 4 76 6072044 20210820011347
+103.35.74.46 1 10 1343755 20210813030358
+138.68.180.18 4 4 9416 20210805023416
+3.19.56.43 1 1 87 20210816135529
+156.146.56.117 3 3 16305 20210821015836
+157.55.39.117 0 1 4916 
+92.118.160.9 1 1 5435 20210807062718
+62.16.2.145 1 1 5435 20210831083936
+27.115.124.101 3 36 2959704 20210825053922
+66.249.84.32 3 3 6359 20210821130614
+40.121.255.54 4 4 2904 20210822153702
+34.139.223.144 3 3 16305 20210813171319
+91.149.225.120 2 2 5261 20210811133449
+171.100.219.31 5 5 8687 20210816041610
+52.41.74.250 1 1 0 20210829015522
+18.202.58.82 1 1 1911 20210823154832
+52.209.10.46 2 2 4135 20210811041158
+52.24.11.182 1 1 1911 20210824144019
+3.229.142.94 1 1 1911 20210815135709
+34.219.91.173 1 1 1911 20210816143343
+208.100.26.235 1 1 1911 20210822223137
+92.118.160.41 1 1 5435 20210824021443
+34.221.244.35 1 1 1911 20210809143506
+103.245.204.42 1 1 1911 20210802191358
+66.249.82.159 3 14 1479717 20210818183817
+5.62.57.90 2 2 10870 20210826172801
+18.119.139.39 7 37 77402 20210831080916
+34.244.98.250 2 2 3822 20210810213129
+13.69.130.86 3 3 16305 20210829075453
+92.118.160.45 1 1 5435 20210822052056
+27.115.124.38 2 6 91482 20210824095735
+167.99.70.89 3 3 16305 20210825045107
+66.102.6.84 2 7 16111 20210821130538
+66.249.83.84 1 1 1911 20210804135109
+54.186.147.48 1 1 1911 20210809144945
+125.127.37.194 2 19 1850935 20210828012848
+120.92.72.2 0 1 958 
+46.253.39.142 1 1 5916 20210801122309
+18.117.175.35 1 1 1911 20210801172145
+185.220.100.249 1 1 5435 20210816024935
+45.151.167.10 1 1 5435 20210804155438
+66.249.84.63 2 2 4448 20210821130538
+50.113.44.32 10 211 13520066 20210821210920
+66.249.84.35 1 1 1911 20210821130614
+180.163.220.66 0 7 449197 
+141.239.234.135 2 18 1222567 20210826043353
+103.107.198.233 6 6 32610 20210813202634
+195.154.56.206 4 4 2904 20210816230917
+172.58.22.197 1 17 1220656 20210821130211
+84.17.57.123 3 3 16305 20210815192240
+78.85.134.29 1 1 5435 20210818034226
+143.198.137.138 8 8 5808 20210822143318
+66.27.193.177 2 2 3822 20210803004945
+18.117.73.145 1 1 1911 20210829175634
+42.236.10.117 0 7 1968104 
+174.202.0.220 0 4 611769 
+34.221.255.206 2 2 174 20210816135530
+54.194.30.125 1 1 1911 20210826154754
+208.109.36.83 3 3 16305 20210803145732
+44.234.66.77 1 1 1911 20210803022903
+35.165.221.224 1 1 1911 20210825141436
+105.112.156.124 2 2 5261 20210812135958
+91.79.7.185 1 1 5435 20210807223101
+18.236.73.181 1 1 1911 20210821142010
+121.4.181.178 1 1 1911 20210826181327
+116.90.72.246 6 6 32610 20210813040922
+34.213.5.28 1 1 1911 20210807144126
+5.188.62.214 1 1 1911 20210817055834
+35.231.39.184 1 1 1911 20210812115332
+185.220.101.141 1 1 5435 20210807065129
+108.184.5.203 0 16 1060236 
+196.245.164.10 3 3 8266 20210828142242
+54.184.113.187 1 1 1911 20210810143801
+46.148.234.229 4 4 21740 20210829130634
+5.188.48.31 2 2 10870 20210820153356
+12.206.203.227 3 54 6355276 20210823091233
+34.215.155.126 1 1 1911 20210814144125
+18.221.222.10 4 4 21740 20210806154030
+124.206.180.139 1 1 5435 20210826072718
+109.70.100.32 1 1 5435 20210817091552
+23.253.195.36 0 60 4741758 
+45.32.103.7 3 3 16305 20210827142439
+45.153.160.135 1 1 5435 20210811002222
+34.220.118.174 1 1 1911 20210824144030
+147.182.164.34 3 3 16305 20210819032227
+209.216.79.92 3 3 16305 20210801062814
+96.45.183.76 2 20 2611766 20210831214152
+34.209.240.72 1 1 1911 20210810143724
+172.58.22.160 1 2 438653 20210821130218
+46.45.185.182 1 1 3371 20210827091507
+35.184.13.183 1 1 1911 20210826033828
+35.193.222.244 2 2 10870 20210810090033
+178.20.55.18 1 1 5435 20210819065923
+66.115.165.161 2 2 5604 20210810175645
+120.92.72.220 0 2 9832 
+93.158.91.233 1 1 1911 20210807140708
+81.69.191.124 1 1 1911 20210830110028
+40.94.35.60 0 2 87279 
+3.94.185.35 1 1 5435 20210814095523
+147.135.137.126 1 1 1911 20210814221634
+62.16.11.68 1 1 5435 20210824042002
+180.163.220.68 0 6 707176 
+64.78.149.164 3 3 261 20210816135529
+23.154.177.100 2 2 7424 20210802121409
+139.5.249.120 2 20 2611766 20210825163427
+196.240.60.21 3 3 16305 20210810102500
+3.80.197.245 2 2 3822 20210822041037
+52.11.209.113 1 1 1911 20210831151521
+3.86.93.206 2 2 3822 20210808141202
+49.204.226.255 2 28 2611766 20210802234907
+94.196.104.109 1 1 1911 20210816105458
+52.212.55.208 1 1 1911 20210817152443
+221.191.72.107 1 17 1220656 20210812161205
+124.171.211.235 2 21 2452052 20210829191327
+208.100.26.248 2 2 3822 20210831030602
+120.92.72.96 1 1 1911 20210803232721
+143.198.40.79 4 4 4062 20210826063827
+196.242.84.165 2 2 5020 20210816171612
+66.91.78.42 2 22 3404509 20210830134206
+94.140.114.213 1 1 5435 20210822081402
+3.120.130.29 1 1 87 20210816135529
+45.137.22.36 1 1 1911 20210817212337
+73.158.206.126 9 201 12396004 20210808155427
+54.202.219.152 1 1 1911 20210822142027
+176.9.140.11 1 1 1911 20210828034224
+172.56.44.70 1 11 1327990 20210804135335
+52.148.161.87 1 1 1911 20210810154520
+144.86.173.155 1 1 5435 20210831141602
+34.75.152.27 2 2 10870 20210825102205
+42.236.10.125 0 13 3019172 
+34.216.75.105 1 1 1911 20210818142330
+54.218.240.4 1 1 1911 20210829142047
+87.118.116.103 1 1 2686 20210827213814
+125.65.92.104 1 1 5435 20210822024103
+20.75.128.100 0 27 7398816 
+100.25.98.220 1 1 1911 20210810083633
+172.58.19.144 1 17 1220656 20210820023157
+18.237.229.23 1 1 1911 20210830143843
+8.3.127.223 1 17 1220656 20210824190311
+27.115.124.6 0 5 718840 
+45.153.160.138 2 2 10870 20210827025829
+185.108.106.241 2 2 5606 20210806122142
+169.38.69.8 2 2 10870 20210812231624
+23.95.9.7 3 3 5733 20210815214502
+67.180.98.137 6 134 9444953 20210830130516
+208.100.26.236 1 1 1911 20210824124654
+34.140.142.12 1 1 5435 20210817001828
+99.254.4.168 2 21 2452052 20210818223004
+52.42.98.176 1 1 1911 20210826142255
+54.68.53.29 1 1 1911 20210825141503
+54.203.201.114 1 1 1911 20210811143646
+54.38.112.208 1 1 1911 20210818145046
+42.193.16.135 2 2 3822 20210827104337
+111.225.241.55 2 20 2611766 20210820012806
+34.216.118.31 1 1 1911 20210802142736
+98.155.121.31 1 18 2173113 20210822132952
+104.152.185.55 1 1 1911 20210824054834
+67.53.41.90 12 147 15473565 20210813141124
+188.165.241.215 1 1 5435 20210831100858
+108.161.133.219 1 1 5435 20210807102333
+52.16.133.1 1 1 1911 20210809151920
+45.129.18.201 1 1 0 20210810064731
+144.86.173.71 1 1 5435 20210827110603
+66.91.204.194 1 18 2173113 20210820021515
+121.5.145.96 0 1 3656 
+34.221.230.218 1 1 1911 20210806141217
+54.189.230.128 1 1 1911 20210816144422
+119.131.143.252 8 71 8470769 20210825014833
+5.157.17.32 2 2 4020 20210824135709
+103.107.198.234 1 1 5435 20210815144554
+66.249.82.156 1 9 915005 20210818183816
+18.202.165.59 1 1 1911 20210806152713
+64.233.172.9 3 9 19576 20210824012927
+109.146.206.51 1 64 5459542 20210818124623
+142.44.181.161 2 2 3822 20210829120258
+24.116.52.210 1 39 3047361 20210805205212
+120.92.72.147 0 1 725 
+141.239.191.26 3 53 5402819 20210820225626
+104.144.105.114 1 1 5916 20210814215541
+208.100.26.244 2 2 3822 20210829214740
+144.86.173.5 1 1 5435 20210827082308
+34.209.17.68 1 1 1911 20210807145722
+111.221.46.53 2 2 3822 20210810085705
+166.170.15.77 0 4 124626 
+34.220.253.83 1 1 1911 20210802142714
+13.66.37.42 2 2 1452 20210830192852
+219.138.163.116 2 2 3822 20210825055106
+121.5.147.119 0 3 10968 
+69.160.160.56 11 28 2207692 20210812170419
+120.92.72.106 1 1 1911 20210830105744
+37.113.244.244 1 1 5435 20210809194735
+65.21.224.124 1 1 1911 20210819174410
+123.232.112.70 1 1 1911 20210822192226
+66.249.84.156 1 1 2607 20210824012902
+103.108.92.86 3 3 16305 20210818012437
+92.118.160.13 1 1 5435 20210814065954
+52.12.125.123 1 1 1911 20210831150115
+52.152.175.170 3 3 16305 20210807042703
+75.119.129.90 1 1 5435 20210824041626
+37.0.10.159 4 4 2904 20210827054032
+147.182.251.52 6 6 32610 20210827140203
+54.244.104.41 1 1 1911 20210814142909
+178.62.36.218 1 18 2173113 20210810011713
+107.189.29.41 1 1 5435 20210803235111
+76.93.211.252 0 9 502874 
+3.249.229.177 1 1 1911 20210812152755
+137.135.72.56 3 3 5733 20210829214748
+185.220.101.254 1 1 5435 20210815154848
+169.38.79.209 3 3 16305 20210806091839
+172.249.26.83 1 17 1220656 20210830185903
+107.181.178.110 1 12 2280447 20210818155527
+40.94.35.66 0 3 1036204 
+52.149.58.27 1 1 1911 20210829173043
+103.147.184.237 3 3 16305 20210830065549
+216.131.88.76 2 2 8573 20210801100118
+12.186.206.84 2 2 3817 20210806184330
+92.118.160.57 1 1 5435 20210809074235
+118.184.177.109 1 1 1911 20210816182959
+54.187.119.195 1 1 1911 20210820144747
+34.150.53.71 9 9 48915 20210831220513
+104.222.43.247 1 1 5435 20210830155256
+174.202.6.234 0 1 30287 
+3.112.25.14 1 1 5435 20210819095252
+128.90.184.80 3 3 16305 20210802070324
+74.74.163.236 1 12 2280447 20210828034223
+178.17.174.198 2 2 7424 20210830104731
+34.215.239.244 1 1 1911 20210822142112
+46.45.185.190 4 4 14043 20210827091507
+34.219.58.34 1 1 1911 20210805142138
+34.219.128.38 1 1 1911 20210801143806
+162.55.6.11 1 1 5435 20210808045534
+23.100.232.233 8 56 126692 20210830231139
+34.140.252.40 2 2 10870 20210821020836
+46.41.141.2 1 1 5435 20210813002359
+216.226.149.153 3 3 16305 20210815054907
+108.177.213.24 1 1 1911 20210806004400
+93.158.91.228 1 1 1911 20210823194901
+103.167.92.88 3 3 16305 20210829035530
+58.53.128.88 2 2 3822 20210809173415
+18.205.24.91 0 1 17183 
+20.102.97.27 2 2 3822 20210826094156
+209.137.144.158 0 2 226156 
+172.58.19.62 5 24 2730152 20210821130614
+171.97.223.145 1 17 1220656 20210801155554
+103.212.145.45 1 10 1487704 20210805050508
+199.249.230.170 3 3 14474 20210826041127
+103.83.178.214 2 2 10870 20210807171845
+74.101.58.87 2 6 544101 20210817031106
+216.93.235.199 1 18 2173113 20210804165141
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20210801 48 162 7266906 28
+20210802 64 148 6622005 24
+20210803 51 93 3452556 23
+20210804 54 194 17517243 30
+20210805 56 199 15210544 28
+20210806 45 211 14941389 25
+20210807 27 40 2407936 21
+20210808 52 451 25117786 22
+20210809 45 108 2844990 33
+20210810 91 347 19348792 42
+20210811 69 175 10846401 26
+20210812 44 117 9154368 21
+20210813 44 99 5381904 24
+20210814 54 102 3732076 32
+20210815 29 110 6959980 18
+20210816 123 257 12765201 41
+20210817 53 303 17701253 25
+20210818 64 240 20479993 28
+20210819 50 212 15495053 28
+20210820 60 475 46106927 33
+20210821 58 339 22541977 26
+20210822 55 204 15326926 36
+20210823 31 224 20767112 24
+20210824 76 503 36304750 43
+20210825 115 394 29813875 44
+20210826 55 311 22780104 25
+20210827 83 330 18599452 33
+20210828 52 396 27934582 24
+20210829 49 92 6653780 30
+20210830 49 278 20937095 28
+20210831 95 223 9886924 33
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 797
+1h+ 3
+2mn-5mn 17
+5mn-15mn 11
+15mn-30mn 8
+30s-2mn 47
+30mn-1h 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 37
+/ 1144 4388632 711 620
+/contact.html 131 441960 66 63
+/mail.php 81 189997 5 64
+/products.html 63 154026 21 22
+/about.html 60 215212 17 28
+/bento.html 55 392170 11 18
+/sushi.html 32 185780 6 7
+/donburi_noodle.html 31 147062 8 12
+/food_pack.html 31 158370 3 6
+/images/ 29 31929 0 28
+/restaurant_supplies.html 29 125822 4 6
+/.well-known/ 28 9828 27 0
+/sashimi.html 28 83718 5 4
+/paper_products.html 26 68647 4 9
+/deli_souzai_appetizer.html 24 108853 1 2
+/.well-known/acme-challenge/wkqGoyjjt-fAHTrN50XK7ZXLN9SKwy5uXwh_GBVLVPc 4 348 0 1
+/.well-known/acme-challenge/f-PU8L2qA98lJrK9ThYsqSoYN9AvXW7A1thUtSQK-9k 4 348 0 0
+/.well-known/acme-challenge/cmttj66o4KpFbd1HFIQNiPNg6Hj4daDSd7GaZfSqhq4 4 348 0 0
+/.well-known/acme-challenge/jx5f5p0yExPagUBaYnCZf9zvlkOSbyT_f-tTX22G5ZY 4 348 3 1
+/.well-known/acme-challenge/7OwikwAnbb-d_oLKyZqB_zuRx-5JfPVScen-MoSNTaE 4 348 0 0
+/.well-known/acme-challenge/RagPZhtz8dHsGsXvthDbrwYSGLDvzlG9XsdIGh5mpNA 4 348 0 0
+/.well-known/acme-challenge/Rj5nv5Caf-mb3iYjbojxQK3kOCUGPV-SgoUFMEGi_x4 4 348 0 0
+/.well-known/acme-challenge/0I_eA6vM8lVaCMk195DWISsadNLxoHe6SuR-eAgcR0I 4 348 3 4
+/.well-known/acme-challenge/KCpnGGRdmWoowQ02Q3j7SoHJvjtlwrVVynQvgYbN15Y 4 348 1 2
+/.well-known/acme-challenge/NYXUXIHFVCGU2F24XP75M2WSQKH2KKZS 1 64 0 0
+/css/ 1 521 0 0
+http://www.fukupa.com/contact.html 1 2224 1 0
+/.well-known/acme-challenge/8XKUE2P96ANHAZNIR3-UZW3JKAMS6LCY 1 64 0 0
+/.well-known/acme-challenge/MWDJJF0LBGWKGG3OQ9JT5M481YT77EXT 1 64 0 0
+/js/ 1 529 0 0
+/.well-known/acme-challenge/E3PO54T_RZKGVO46XWK7HGFCOE2Q722L 1 64 0 0
+/.well-known/acme-challenge/EQELF_3USUE9DRGY6XOZ7NC48UOTNU5P 1 64 0 0
+/.well-known/acme-challenge/TDGSY6TXVB__FI_TSR4ISBJBP42WB1YN 1 64 0 0
+http://www.fukupa.com/mail.php 1 1593 0 1
+/.well-known/acme-challenge/8-F42E6NDOMATRE_A1D99SYSUJKTCL7P 1 64 0 0
+/.well-known/acme-challenge/-F8ES611FMMJZJRXM-M58Y0U9_SHT055 1 64 1 0
+/.well-known/acme-challenge/I59ARKY2XLR2GBDGV2LM1UAATWDQ46ZM 1 64 0 0
+END_SIDER

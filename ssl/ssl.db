@@ -1,0 +1,189 @@
+--- 
+files: 
+  certificate: 
+    cpanel_fukupa_com_9172f_f6f8b_1726770827_5ab4b5836e729a3fbd8df9c2d4f76366: 
+      created: '1718998429'
+      domains: 
+        - autodiscover.fukupa.com
+        - cpanel.fukupa.com
+        - cpcalendars.fukupa.com
+        - cpcontacts.fukupa.com
+        - fukupa.com
+        - mail.fukupa.com
+        - webdisk.fukupa.com
+        - webmail.fukupa.com
+        - www.fukupa.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “fukupa.com” 1718998429.0
+      id: cpanel_fukupa_com_9172f_f6f8b_1726770827_5ab4b5836e729a3fbd8df9c2d4f76366
+      is_self_signed: 0
+      issuer.commonName: R10
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: 9172f68385e9fb7c64643c6cbac87999fab9b2fe83beebcc5eb604dddf6c3bafdaef4b5a695d47961b40ae032aa0321841f34a904a224172aa04680ee36d5c777580989be8890368d8aa0d5c7080c359e11cb72a5128eb39d0fc53b76b3ce2308615b59a5bb4ef1d742fd21b6aee32ff29528b66a7e42799950b1216d42f893417d1cf9405752c2f348b8ede842b61a9ea9570c8c00301fa64d12b58fbb1ba0f17f367747988bbf85781ce3331ae190c54ded0edbfa551943a37b0a0a400106c344c8223456984b633db778838f720c2ce47eec524576fb49a476c185bb9e8ec97005e52b6b8d202723c66b7d6aef88cb93b3c2f41861d2dd5d89427589f6f8b
+      modulus_length: 2048
+      not_after: '1726770827'
+      not_before: '1718994828'
+      serial: 040fe66fdcac7a7b4aca88efc6860e7f52ee
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: cpanel.fukupa.com
+      validation_type: dv
+    cpanel_fukupa_com_9e2db_b8391_1710876890_87087c0d44d9ae0a71a86e38414cf122: 
+      created: '1703104492'
+      domains: 
+        - autodiscover.fukupa.com
+        - cpanel.fukupa.com
+        - cpcalendars.fukupa.com
+        - cpcontacts.fukupa.com
+        - fukupa.com
+        - mail.fukupa.com
+        - webdisk.fukupa.com
+        - webmail.fukupa.com
+        - www.fukupa.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “fukupa.com” 1703104492.0
+      id: cpanel_fukupa_com_9e2db_b8391_1710876890_87087c0d44d9ae0a71a86e38414cf122
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: 9e2db72a9804742c87118002cf3091edbe0a289ea647e01a4a15ea099096a69fd134e938eb8ffb2a73514ff72953f3bd5ad5fd79922ac69761ff58231a3ec4123ab9794db5e0fd9b58361be353ebb932906db457d2cbf8d8a8594368b60c1d8c11f211917fe65464e9c728cb0a458085e87a44e3b624c8e810e2b8537f037ee92544d99adf4e2d52626294cfc76c675f2758c167ddda0dc69dc7c158c6b8292d8be43775426ad210f0e99d7247fc868ce7edf682a5191093376c05df5a3a9bdaf9edc5fd5a2dc192a4003c7c34763e404e6f4494f98a840ba0f48e6e434cc32625e7b33e5e4765e925ea1307c367262b8702034f027929bd84bab2c0668b8391
+      modulus_length: 2048
+      not_after: '1710876890'
+      not_before: '1703100891'
+      serial: 0465d29b49580f28394e7eff00fc39e43b4f
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: cpanel.fukupa.com
+      validation_type: dv
+    cpcontacts_fukupa_com_b3af7_e19cb_1721500338_0f8883b7e223a9b18cdc84c287c39ecc: 
+      created: '1713727940'
+      domains: 
+        - autodiscover.fukupa.com
+        - cpanel.fukupa.com
+        - cpcalendars.fukupa.com
+        - cpcontacts.fukupa.com
+        - fukupa.com
+        - mail.fukupa.com
+        - webdisk.fukupa.com
+        - webmail.fukupa.com
+        - www.fukupa.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “fukupa.com” 1713727940.0
+      id: cpcontacts_fukupa_com_b3af7_e19cb_1721500338_0f8883b7e223a9b18cdc84c287c39ecc
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: b3af74cac2164633b5439649ec787f9c1eb4d0975c50341477ab77e113f72a0fff226bdf23d4d68a0e2f520948f46c06b471934eeb60d5f7529dbc3e1f1d180591d6ed1a409fa3a76063250eebe91630fb02edd001db98f8cd92c1be5b8eb6db2841d0512b8da9c39e7127569a58f3a545037a3188cc0eaa42f7a8e8d9870325bbf02d653e4e000fa0079f42865a1d7cffcace63ba97ac41800e6c4ebff2796e4d2871fd28bbcc51c09592c4c9f51fb596247b727af395adcd9ded1a92f2fe4c2385d5c6f5b2e7516122380eaf983db2086795bc648f0b4f438d7a14e3ac1e529ffc9407157b3171d94107b0d63bc2ebb86f50fadf428da954e6caba592e19cb
+      modulus_length: 2048
+      not_after: '1721500338'
+      not_before: '1713724339'
+      serial: 04b19dc9672c9110b2f3260371ae879af7d7
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: cpcontacts.fukupa.com
+      validation_type: dv
+    mail_fukupa_com_c9217_e496b_1716147198_ef89d0b1bd2bcef32008d327d22bf2e6: 
+      created: '1708374801'
+      domains: 
+        - autodiscover.fukupa.com
+        - cpanel.fukupa.com
+        - cpcalendars.fukupa.com
+        - cpcontacts.fukupa.com
+        - fukupa.com
+        - mail.fukupa.com
+        - webdisk.fukupa.com
+        - webmail.fukupa.com
+        - www.fukupa.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “fukupa.com”
+      id: mail_fukupa_com_c9217_e496b_1716147198_ef89d0b1bd2bcef32008d327d22bf2e6
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: c92171979cebb2c17f6d4872b3064b302aad1eba3baf4520292797599db2175f8ca7058aa308b260884ff9f00828883784f017e62b93a54dc9db2f4dfb41557188c1fcfdf329c67eadd95e31620d593e7981c1ee2892574db263057875094536f0511cbaedbadb34c671a5668c43cb59994251348adfd05263a59b740cb535c2b28134b430ba30525f82bbbc45fe421a94f520c696b52da9ad1e4ec5410b2853c4551ba0a90b8f9ed39b3ffbeb77417bb5767b7fb93c7d89944df333e6985e3066b4d06883d476bb6e3208d0a0efe1cd41bd7999b44bfdf2241eabacc516fbf88f927ca44b7aefbe0dbdaace3021a14c41b0760f3108486f6f5c635c599e496b
+      modulus_length: 2048
+      not_after: '1716147198'
+      not_before: '1708371199'
+      serial: 04dd10532567bb991d8de90f2006f4757ace
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: mail.fukupa.com
+      validation_type: dv
+  key: 
+    9172f_f6f8b_7491b4dea1ad298fbf9c6fe3a632627a: 
+      created: '1718998429'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “fukupa.com” 1718998429.0
+      id: 9172f_f6f8b_7491b4dea1ad298fbf9c6fe3a632627a
+      key_algorithm: rsaEncryption
+      modulus: 9172f68385e9fb7c64643c6cbac87999fab9b2fe83beebcc5eb604dddf6c3bafdaef4b5a695d47961b40ae032aa0321841f34a904a224172aa04680ee36d5c777580989be8890368d8aa0d5c7080c359e11cb72a5128eb39d0fc53b76b3ce2308615b59a5bb4ef1d742fd21b6aee32ff29528b66a7e42799950b1216d42f893417d1cf9405752c2f348b8ede842b61a9ea9570c8c00301fa64d12b58fbb1ba0f17f367747988bbf85781ce3331ae190c54ded0edbfa551943a37b0a0a400106c344c8223456984b633db778838f720c2ce47eec524576fb49a476c185bb9e8ec97005e52b6b8d202723c66b7d6aef88cb93b3c2f41861d2dd5d89427589f6f8b
+      modulus_length: 2048
+    9e2db_b8391_0612d32c781f849ce1d9b5a4a1a50d54: 
+      created: '1703104492'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “fukupa.com” 1703104492.0
+      id: 9e2db_b8391_0612d32c781f849ce1d9b5a4a1a50d54
+      key_algorithm: rsaEncryption
+      modulus: 9e2db72a9804742c87118002cf3091edbe0a289ea647e01a4a15ea099096a69fd134e938eb8ffb2a73514ff72953f3bd5ad5fd79922ac69761ff58231a3ec4123ab9794db5e0fd9b58361be353ebb932906db457d2cbf8d8a8594368b60c1d8c11f211917fe65464e9c728cb0a458085e87a44e3b624c8e810e2b8537f037ee92544d99adf4e2d52626294cfc76c675f2758c167ddda0dc69dc7c158c6b8292d8be43775426ad210f0e99d7247fc868ce7edf682a5191093376c05df5a3a9bdaf9edc5fd5a2dc192a4003c7c34763e404e6f4494f98a840ba0f48e6e434cc32625e7b33e5e4765e925ea1307c367262b8702034f027929bd84bab2c0668b8391
+      modulus_length: 2048
+    b3af7_e19cb_37fc1e5ad9aa51e44fd39c983459415d: 
+      created: '1713727940'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “fukupa.com” 1713727940.0
+      id: b3af7_e19cb_37fc1e5ad9aa51e44fd39c983459415d
+      key_algorithm: rsaEncryption
+      modulus: b3af74cac2164633b5439649ec787f9c1eb4d0975c50341477ab77e113f72a0fff226bdf23d4d68a0e2f520948f46c06b471934eeb60d5f7529dbc3e1f1d180591d6ed1a409fa3a76063250eebe91630fb02edd001db98f8cd92c1be5b8eb6db2841d0512b8da9c39e7127569a58f3a545037a3188cc0eaa42f7a8e8d9870325bbf02d653e4e000fa0079f42865a1d7cffcace63ba97ac41800e6c4ebff2796e4d2871fd28bbcc51c09592c4c9f51fb596247b727af395adcd9ded1a92f2fe4c2385d5c6f5b2e7516122380eaf983db2086795bc648f0b4f438d7a14e3ac1e529ffc9407157b3171d94107b0d63bc2ebb86f50fadf428da954e6caba592e19cb
+      modulus_length: 2048
+    c9217_e496b_ab272d5912e1cf79e5ea923f4f15b7f8: 
+      created: '1708374801'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “fukupa.com”
+      id: c9217_e496b_ab272d5912e1cf79e5ea923f4f15b7f8
+      key_algorithm: rsaEncryption
+      modulus: c92171979cebb2c17f6d4872b3064b302aad1eba3baf4520292797599db2175f8ca7058aa308b260884ff9f00828883784f017e62b93a54dc9db2f4dfb41557188c1fcfdf329c67eadd95e31620d593e7981c1ee2892574db263057875094536f0511cbaedbadb34c671a5668c43cb59994251348adfd05263a59b740cb535c2b28134b430ba30525f82bbbc45fe421a94f520c696b52da9ad1e4ec5410b2853c4551ba0a90b8f9ed39b3ffbeb77417bb5767b7fb93c7d89944df333e6985e3066b4d06883d476bb6e3208d0a0efe1cd41bd7999b44bfdf2241eabacc516fbf88f927ca44b7aefbe0dbdaace3021a14c41b0760f3108486f6f5c635c599e496b
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      9172f68385e9fb7c64643c6cbac87999fab9b2fe83beebcc5eb604dddf6c3bafdaef4b5a695d47961b40ae032aa0321841f34a904a224172aa04680ee36d5c777580989be8890368d8aa0d5c7080c359e11cb72a5128eb39d0fc53b76b3ce2308615b59a5bb4ef1d742fd21b6aee32ff29528b66a7e42799950b1216d42f893417d1cf9405752c2f348b8ede842b61a9ea9570c8c00301fa64d12b58fbb1ba0f17f367747988bbf85781ce3331ae190c54ded0edbfa551943a37b0a0a400106c344c8223456984b633db778838f720c2ce47eec524576fb49a476c185bb9e8ec97005e52b6b8d202723c66b7d6aef88cb93b3c2f41861d2dd5d89427589f6f8b: 
+        cpanel_fukupa_com_9172f_f6f8b_1726770827_5ab4b5836e729a3fbd8df9c2d4f76366: ~
+      9e2db72a9804742c87118002cf3091edbe0a289ea647e01a4a15ea099096a69fd134e938eb8ffb2a73514ff72953f3bd5ad5fd79922ac69761ff58231a3ec4123ab9794db5e0fd9b58361be353ebb932906db457d2cbf8d8a8594368b60c1d8c11f211917fe65464e9c728cb0a458085e87a44e3b624c8e810e2b8537f037ee92544d99adf4e2d52626294cfc76c675f2758c167ddda0dc69dc7c158c6b8292d8be43775426ad210f0e99d7247fc868ce7edf682a5191093376c05df5a3a9bdaf9edc5fd5a2dc192a4003c7c34763e404e6f4494f98a840ba0f48e6e434cc32625e7b33e5e4765e925ea1307c367262b8702034f027929bd84bab2c0668b8391: 
+        cpanel_fukupa_com_9e2db_b8391_1710876890_87087c0d44d9ae0a71a86e38414cf122: ~
+      b3af74cac2164633b5439649ec787f9c1eb4d0975c50341477ab77e113f72a0fff226bdf23d4d68a0e2f520948f46c06b471934eeb60d5f7529dbc3e1f1d180591d6ed1a409fa3a76063250eebe91630fb02edd001db98f8cd92c1be5b8eb6db2841d0512b8da9c39e7127569a58f3a545037a3188cc0eaa42f7a8e8d9870325bbf02d653e4e000fa0079f42865a1d7cffcace63ba97ac41800e6c4ebff2796e4d2871fd28bbcc51c09592c4c9f51fb596247b727af395adcd9ded1a92f2fe4c2385d5c6f5b2e7516122380eaf983db2086795bc648f0b4f438d7a14e3ac1e529ffc9407157b3171d94107b0d63bc2ebb86f50fadf428da954e6caba592e19cb: 
+        cpcontacts_fukupa_com_b3af7_e19cb_1721500338_0f8883b7e223a9b18cdc84c287c39ecc: ~
+      c92171979cebb2c17f6d4872b3064b302aad1eba3baf4520292797599db2175f8ca7058aa308b260884ff9f00828883784f017e62b93a54dc9db2f4dfb41557188c1fcfdf329c67eadd95e31620d593e7981c1ee2892574db263057875094536f0511cbaedbadb34c671a5668c43cb59994251348adfd05263a59b740cb535c2b28134b430ba30525f82bbbc45fe421a94f520c696b52da9ad1e4ec5410b2853c4551ba0a90b8f9ed39b3ffbeb77417bb5767b7fb93c7d89944df333e6985e3066b4d06883d476bb6e3208d0a0efe1cd41bd7999b44bfdf2241eabacc516fbf88f927ca44b7aefbe0dbdaace3021a14c41b0760f3108486f6f5c635c599e496b: 
+        mail_fukupa_com_c9217_e496b_1716147198_ef89d0b1bd2bcef32008d327d22bf2e6: ~
+    subject.commonName: 
+      cpanel.fukupa.com: 
+        cpanel_fukupa_com_9172f_f6f8b_1726770827_5ab4b5836e729a3fbd8df9c2d4f76366: ~
+        cpanel_fukupa_com_9e2db_b8391_1710876890_87087c0d44d9ae0a71a86e38414cf122: ~
+      cpcontacts.fukupa.com: 
+        cpcontacts_fukupa_com_b3af7_e19cb_1721500338_0f8883b7e223a9b18cdc84c287c39ecc: ~
+      mail.fukupa.com: 
+        mail_fukupa_com_c9217_e496b_1716147198_ef89d0b1bd2bcef32008d327d22bf2e6: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “fukupa.com”: mail_fukupa_com_c9217_e496b_1716147198_ef89d0b1bd2bcef32008d327d22bf2e6
+      Cert for “fukupa.com” 1703104492.0: cpanel_fukupa_com_9e2db_b8391_1710876890_87087c0d44d9ae0a71a86e38414cf122
+      Cert for “fukupa.com” 1713727940.0: cpcontacts_fukupa_com_b3af7_e19cb_1721500338_0f8883b7e223a9b18cdc84c287c39ecc
+      Cert for “fukupa.com” 1718998429.0: cpanel_fukupa_com_9172f_f6f8b_1726770827_5ab4b5836e729a3fbd8df9c2d4f76366
+  key: 
+    friendly_name: 
+      Key for “fukupa.com”: c9217_e496b_ab272d5912e1cf79e5ea923f4f15b7f8
+      Key for “fukupa.com” 1703104492.0: 9e2db_b8391_0612d32c781f849ce1d9b5a4a1a50d54
+      Key for “fukupa.com” 1713727940.0: b3af7_e19cb_37fc1e5ad9aa51e44fd39c983459415d
+      Key for “fukupa.com” 1718998429.0: 9172f_f6f8b_7491b4dea1ad298fbf9c6fe3a632627a
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      9172f68385e9fb7c64643c6cbac87999fab9b2fe83beebcc5eb604dddf6c3bafdaef4b5a695d47961b40ae032aa0321841f34a904a224172aa04680ee36d5c777580989be8890368d8aa0d5c7080c359e11cb72a5128eb39d0fc53b76b3ce2308615b59a5bb4ef1d742fd21b6aee32ff29528b66a7e42799950b1216d42f893417d1cf9405752c2f348b8ede842b61a9ea9570c8c00301fa64d12b58fbb1ba0f17f367747988bbf85781ce3331ae190c54ded0edbfa551943a37b0a0a400106c344c8223456984b633db778838f720c2ce47eec524576fb49a476c185bb9e8ec97005e52b6b8d202723c66b7d6aef88cb93b3c2f41861d2dd5d89427589f6f8b: 9172f_f6f8b_7491b4dea1ad298fbf9c6fe3a632627a
+      9e2db72a9804742c87118002cf3091edbe0a289ea647e01a4a15ea099096a69fd134e938eb8ffb2a73514ff72953f3bd5ad5fd79922ac69761ff58231a3ec4123ab9794db5e0fd9b58361be353ebb932906db457d2cbf8d8a8594368b60c1d8c11f211917fe65464e9c728cb0a458085e87a44e3b624c8e810e2b8537f037ee92544d99adf4e2d52626294cfc76c675f2758c167ddda0dc69dc7c158c6b8292d8be43775426ad210f0e99d7247fc868ce7edf682a5191093376c05df5a3a9bdaf9edc5fd5a2dc192a4003c7c34763e404e6f4494f98a840ba0f48e6e434cc32625e7b33e5e4765e925ea1307c367262b8702034f027929bd84bab2c0668b8391: 9e2db_b8391_0612d32c781f849ce1d9b5a4a1a50d54
+      b3af74cac2164633b5439649ec787f9c1eb4d0975c50341477ab77e113f72a0fff226bdf23d4d68a0e2f520948f46c06b471934eeb60d5f7529dbc3e1f1d180591d6ed1a409fa3a76063250eebe91630fb02edd001db98f8cd92c1be5b8eb6db2841d0512b8da9c39e7127569a58f3a545037a3188cc0eaa42f7a8e8d9870325bbf02d653e4e000fa0079f42865a1d7cffcace63ba97ac41800e6c4ebff2796e4d2871fd28bbcc51c09592c4c9f51fb596247b727af395adcd9ded1a92f2fe4c2385d5c6f5b2e7516122380eaf983db2086795bc648f0b4f438d7a14e3ac1e529ffc9407157b3171d94107b0d63bc2ebb86f50fadf428da954e6caba592e19cb: b3af7_e19cb_37fc1e5ad9aa51e44fd39c983459415d
+      c92171979cebb2c17f6d4872b3064b302aad1eba3baf4520292797599db2175f8ca7058aa308b260884ff9f00828883784f017e62b93a54dc9db2f4dfb41557188c1fcfdf329c67eadd95e31620d593e7981c1ee2892574db263057875094536f0511cbaedbadb34c671a5668c43cb59994251348adfd05263a59b740cb535c2b28134b430ba30525f82bbbc45fe421a94f520c696b52da9ad1e4ec5410b2853c4551ba0a90b8f9ed39b3ffbeb77417bb5767b7fb93c7d89944df333e6985e3066b4d06883d476bb6e3208d0a0efe1cd41bd7999b44bfdf2241eabacc516fbf88f927ca44b7aefbe0dbdaace3021a14c41b0760f3108486f6f5c635c599e496b: c9217_e496b_ab272d5912e1cf79e5ea923f4f15b7f8
