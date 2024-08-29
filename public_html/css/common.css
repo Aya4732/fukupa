@@ -375,14 +375,19 @@ h3.products_title{
     padding: 1px;
 }
 .ctg_btn a{
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin: 0;
     padding: 10px;
-    background:#7Ba3AF;
+    background: #7Ba3AF;
     text-decoration: none;
     font-size: 18px;
     color: #FFF;
+    min-height: 62px;
 }
+
+
 .ctg_btn a:hover{
     background:#0084CF;
     text-decoration: none;
@@ -416,7 +421,67 @@ h3.products_title{
     line-height: 1.5em;
 }
 .item_info strong{
-    color: #0084CF;
+    color: #000;
+}
+
+
+
+
+.container_new {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 220px; /* 固定高さを設定 */
+}
+
+.item_ph_left {
+    display: flex;
+    width: 100%;
+    flex: 2;
+}
+
+.item_ph_left img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    padding: 5px;
+}
+
+.item_ph_right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    flex: 1;
+}
+
+.item_ph_right img {
+    width: 100%;
+    flex: 1;
+    object-fit: cover;
+    padding: 5px;
+}
+
+.item_info_title, .item_info {
+    margin-top: 10px; /* 適宜調整してください */
+}
+
+/* 必要に応じて追加のスタイルをここに記述 */
+
+
+
+
+
+
+.item_info_title{
+    color:#FFF;
+    background-color:darkblue;
 }
 
 
@@ -463,10 +528,21 @@ h3.products_title{
         margin: 0 auto;
         padding: 5px;
     }
+
+    .item_ph_new{
+
+        margin: 0 auto;
+        padding: 5px;
+    }
     .item_info{
         width: 100%;
         padding: 10px 5px;
         font-size: 12px;
+    }
+
+    .image-container{
+        margin: 0 auto;
+        padding: 5px;
     }
 }
 
