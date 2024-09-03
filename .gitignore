@@ -3,3 +3,4 @@
 .ssh/codeguard_sftp
 
 .DS_Store
+public_html/images/.DS_Store
