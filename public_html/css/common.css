@@ -318,6 +318,66 @@ ul.fmenu li a:hover{
     padding: 5px 10px;
 }
 
+.product_grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px auto;
+    width: 90%;
+    max-width: 1000px;
+    gap: 10px;
+}
+
+a.product_item {
+    width: 23%;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    text-align: center;
+    text-decoration: none; /* 下線を消す */
+    color: inherit;        /* 文字色継承 */
+    transition: box-shadow 0.3s ease;
+    display: block;
+}
+
+a.product_item:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border-color: #0084CF;
+}
+
+a.product_item .img-wrap {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a.product_item img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+a.product_item img:hover {
+    opacity: 1;
+    transition: none;
+}
+
+.product_item.no-image .img-placeholder {
+    width: 100%;
+    height: 150px;
+    display: block;
+}
+
+a.product_item p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #000;
+}
+
 
 @media screen and (max-width: 768px) {
 /** TOP SP STYLE **/
@@ -382,7 +442,7 @@ h3.products_title{
     align-items: center;
     justify-content: center;
     margin: 0;
-    padding: 10px;
+    padding: 5px;
     background: #7Ba3AF;
     text-decoration: none;
     font-size: 18px;
