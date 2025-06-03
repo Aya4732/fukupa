@@ -500,13 +500,33 @@ h3.products_title{
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    height: 220px; /* 固定高さを設定 */
+    height: 230px; /* 固定高さを設定 */
+}
+
+.item_ph {
+    /* aspect-ratio: 4 / 3; /* 横長、または適宜 1 / 1 に調整可能 */
+    /* width: 100%; */
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    align-items: center;
+    height: 230px;
+}
+  
+.item_ph img {
+    object-fit: contain;
+    display: block;
+    max-height: 100%;
 }
 
 .item_ph_left {
     display: flex;
     width: 100%;
     flex: 2;
+    justify-content: center;
+    overflow: hidden;
+    align-items: center;
 }
 
 .item_ph_left img {
@@ -514,6 +534,7 @@ h3.products_title{
     height: auto;
     object-fit: cover;
     padding: 5px;
+    display: block;
 }
 
 .item_ph_right {
@@ -522,6 +543,8 @@ h3.products_title{
     justify-content: space-between;
     width: 100%;
     flex: 1;
+    overflow: hidden;
+    align-items: center;
 }
 
 .item_ph_right img {
@@ -529,6 +552,7 @@ h3.products_title{
     flex: 1;
     object-fit: cover;
     padding: 5px;
+    display: block;
 }
 
 .item_info_title, .item_info {
