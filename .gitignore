@@ -1,6 +1,8 @@
 # Created by https://www.gitignore.io
 
 .ssh/codeguard_sftp
+.ssh/id_ed25519_github
+.ssh/id_ed25519_github.pub
 
 .DS_Store
 public_html/images/.DS_Store

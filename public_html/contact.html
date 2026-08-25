@@ -16,8 +16,8 @@
 <link rel="stylesheet" href="css/common.css" media="screen">
 
 <!-- JS -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
 <script type="text/javascript" src="js/jquery.easy-rollover.js"></script>
 <script type="text/javascript" src="js/smoothScroll.js"></script>
 <script type="text/javascript" src="js/jquery.slicknav.js"></script>
@@ -26,6 +26,22 @@
 	$(function(){
 		$('#menu').slicknav();
 	});
+</script>
+<script>
+    $(function(){
+        var businessType = $('select[name="Business_Type"]');
+        var businessTypeDetail = $('#business-type-detail');
+        function toggleBusinessTypeDetail(){
+            if(businessType.val() === 'Others'){
+                businessTypeDetail.show();
+            }else{
+                businessTypeDetail.hide();
+                businessTypeDetail.find('input').val('');
+            }
+        }
+        businessType.on('change', toggleBusinessTypeDetail);
+        toggleBusinessTypeDetail();
+    });
 </script>
 
 <script>
@@ -76,25 +92,7 @@
     </div>
 </div>
 
-<div class="container" style="text-align: center;">
-    <div class="col span_24">
-        <h3 class="contact_title">CONTACT</h3>
-        <p style="font-size: 1.1em; margin-top: 1em;">
-            Our contact form is currently under maintenance.<br>
-            For any inquiries, please reach us by phone or email.
-        </p>
-        <p style="margin-top: 1.5em;">
-            <strong>Phone (Hawaii):</strong> 808-486-6616<br>
-            <strong>Phone (Los Angeles):</strong> 310-538-9792<br>
-            <strong>Email:</strong> <a href="mailto:info@fukupa.com">info@fukupa.com</a>
-        </p>
-    </div>
-</div>
-
-
-
-
-<!-- <div class="container">
+<div class="container">
     
     <div class="col span_18">
         <div id="formWrap">
@@ -104,20 +102,71 @@
         <form method="post" action="mail.php">
             <table class="formTable">
             <tr>
-                <th>Your Name</th>
-                <td><input size="50" type="text" name="Your_Name" />&nbsp;<span class="required">*Required</span></td>
+                <th>Business Name</th>
+                <td><input size="50" type="text" name="Business_Name" />&nbsp;<span class="required">*Required</span></td>
             </tr>
             <tr>
-                <th>Your E-mail address</th>
+                <th>Address</th>
+                <td><input size="50" type="text" name="Address" />&nbsp;<span class="required">*Required</span></td>
+            </tr>
+            <tr>
+                <th>Business Type</th>
+                <td>
+                    <select name="Business_Type">
+                        <option value="">---</option>
+                        <option value="Restaurant">Restaurant</option>
+                        <option value="Cafe">Cafe</option>
+                        <option value="Grocery">Grocery</option>
+                        <option value="Catering">Catering</option>
+                        <option value="Wholesale">Wholesale</option>
+                        <option value="Others">Others</option>
+                    </select>
+                    &nbsp;<span class="required">*Required</span>
+                    <div id="business-type-detail" style="display: none; margin-top: 8px;">
+                        Please specify : <input size="35" type="text" name="Business_Type_Detail" />&nbsp;<span class="required">*Required</span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>Contact Number</th>
+                <td><input size="50" type="text" name="Contact_Number" />&nbsp;<span class="required">*Required</span></td>
+            </tr>
+            <tr>
+                <th>Contact Person Name</th>
+                <td>
+                    <span style="display: inline-block; margin-right: 12px;">
+                        First Name<br>
+                        <input size="22" type="text" name="First_Name" />
+                    </span>
+                    <span style="display: inline-block;">
+                        Last Name<br>
+                        <input size="22" type="text" name="Last_Name" />
+                    </span>
+                    &nbsp;<span class="required">*Required</span>
+                </td>
+            </tr>
+            <tr>
+                <th>Email Address</th>
                 <td><input size="50" type="text" name="Email" />&nbsp;<span class="required">*Required</span></td>
             </tr>
             <tr>
-            <th>Phone</th>
-                <td><input size="50" type="text" name="Phone" /></td>
+                <th>Contact Request Branch</th>
+                <td>
+                    <select name="Contact_Request_Branch">
+                        <option value="">---</option>
+                        <option value="Hawaii">Hawaii</option>
+                        <option value="Los Angeles">Los Angeles</option>
+                    </select>
+                    &nbsp;<span class="required">*Required</span>
+                </td>
             </tr>
             <tr>
-                <th>Message / Inquiry<br /></th>
-                <td><textarea name="Message/Inquiry" cols="50" rows="10"></textarea>&nbsp;<span class="required">*Required</span></td>
+                <th>Website Address<br />(if you have it)</th>
+                <td><input size="50" type="text" name="Website_Address" /></td>
+            </tr>
+            <tr>
+                <th>Inquiry<br /></th>
+                <td><textarea name="Inquiry" cols="50" rows="10"></textarea></td>
             </tr>
             </table>
             <p align="center">
@@ -140,7 +189,7 @@
         FAX:(310) 538-9751<br>
         </p>
     </div>
-</div> -->
+</div>
 
 <p id="page-top"><a href="#wrap">PAGE TOP</a></p>
 
