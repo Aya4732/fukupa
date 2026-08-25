@@ -40,6 +40,12 @@ $site_top = "http://fukupa.com/";
 // 管理者メールアドレス ※メールを受け取るメールアドレス(複数指定する場合は「,」で区切ってください 例 $to = "aa@aa.aa,bb@bb.bb";)
 $to = "kondo@fukupa.co.jp";
 
+// 送信元メールアドレス ※Bluehost/cPanelではサイトのドメインのメールアドレスをFromにする
+$from = "info@fukupa.com";
+
+// メール送信テスト用ログ(テスト完了後は0に戻す)
+$mailDebugLog = 0;
+
 //フォームのメールアドレス入力箇所のname属性の値（name="○○"　の○○部分）
 $Email = "Email";
 
@@ -66,7 +72,7 @@ $Referer_check_domain = "fukupa.com";
 $userMail = 1;
 
 // Bccで送るメールアドレス(複数指定する場合は「,」で区切ってください 例 $BccMail = "aa@aa.aa,bb@bb.bb";)
-$BccMail = "hi-sales@fukupa.com,ca-sales@fukupa.com";
+$BccMail = "hi-sales@fukupa.com,ca-sales@fukupa.com,ryugo.s@canal.ink";
 
 // 管理者宛に送信されるメールのタイトル（件名）
 $subject = "Send us message / inquiry";
@@ -88,7 +94,7 @@ $requireCheck = 1;
 /* 必須入力項目(入力フォームで指定したname属性の値を指定してください。（上記で1を設定した場合のみ）
 値はシングルクォーテーションで囲み、複数の場合はカンマで区切ってください。フォーム側と順番を合わせると良いです。 
 配列の形「name="○○[]"」の場合には必ず後ろの[]を取ったものを指定して下さい。*/
-$require = array('Your_Name','Email','Message/Inquiry');
+$require = array('Business_Name','Address','Business_Type','Contact_Number','First_Name','Last_Name','Email','Contact_Request_Branch');
 
 
 //----------------------------------------------------------------------
@@ -107,7 +113,7 @@ $re_subject = "Thank you for your message";
 
 //フォーム側の「名前」箇所のname属性の値　※自動返信メールの「○○様」の表示で使用します。
 //指定しない、または存在しない場合は、○○様と表示されないだけです。あえて無効にしてもOK
-$dsp_name = 'Your_Name';
+$dsp_name = 'First_Name';
 
 //自動返信メールの冒頭の文言 ※日本語部分のみ変更可
 $remail_text = <<< TEXT
@@ -191,6 +197,10 @@ if($requireCheck == 1) {
 	$errm = $requireResArray['errm'];
 	$empty_flag = $requireResArray['empty_flag'];
 }
+if(isset($_POST['Business_Type']) && $_POST['Business_Type'] == 'Others' && empty($_POST['Business_Type_Detail'])) {
+	$errm .= "<p class=\"error_messe\">Please fill in【Business_Type_Detail】</p>\n";
+	$empty_flag = 1;
+}
 //メールアドレスチェック
 if(empty($errm)){
 	foreach($_POST as $key=>$val) {
@@ -211,16 +221,24 @@ if(($confirmDsp == 0 || $sendmail == 1) && $empty_flag != 1){
 	//差出人に届くメールをセット
 	if($remail == 1) {
 		$userBody = mailToUser($_POST,$dsp_name,$remail_text,$mailFooterDsp,$mailSignature,$encode);
-		$reheader = userHeader($refrom_name,$to,$encode);
+		$reheader = userHeader($refrom_name,$from,$encode);
 		$re_subject = "=?iso-2022-jp?B?".base64_encode(mb_convert_encoding($re_subject,"JIS",$encode))."?=";
 	}
 	//管理者宛に届くメールをセット
 	$adminBody = mailToAdmin($_POST,$subject,$mailFooterDsp,$mailSignature,$encode,$confirmDsp);
-	$header = adminHeader($userMail,$post_mail,$BccMail,$to);
+	$header = adminHeader($userMail,$post_mail,$BccMail,$to,$from);
 	$subject = "=?iso-2022-jp?B?".base64_encode(mb_convert_encoding($subject,"JIS",$encode))."?=";
+	$mailParams = "-f ".$from;
 	
-	mail($to,$subject,$adminBody,$header);
-	if($remail == 1 && !empty($post_mail)) mail($post_mail,$re_subject,$userBody,$reheader);
+	if($mailDebugLog == 1) error_log("Contact form mail test started. PHP: ".PHP_VERSION." To: ".$to." From: ".$from." Reply-To: ".$post_mail);
+	$adminMailResult = mail($to,$subject,$adminBody,$header,$mailParams);
+	if($mailDebugLog == 1) error_log("Contact form admin mail result: ".($adminMailResult ? "success" : "failed").". To: ".$to);
+	if(!$adminMailResult) error_log("Contact form admin mail failed. To: ".$to);
+	if($remail == 1 && !empty($post_mail)) {
+		$userMailResult = mail($post_mail,$re_subject,$userBody,$reheader,$mailParams);
+		if($mailDebugLog == 1) error_log("Contact form auto-reply mail result: ".($userMailResult ? "success" : "failed").". To: ".$post_mail);
+		if(!$userMailResult) error_log("Contact form auto-reply mail failed. To: ".$post_mail);
+	}
 }
 else if($confirmDsp == 1){ 
 
@@ -361,6 +379,9 @@ function sanitize($arr){
 	}
 	return str_replace("\0","",$arr);
 }
+function magicQuotesEnabled(){
+	return function_exists('get_magic_quotes_gpc') && get_magic_quotes_gpc();
+}
 //Shift-JISの場合に誤変換文字の置換関数
 function sjisReplace($arr,$encode){
 	foreach($arr as $key => $val){
@@ -387,7 +408,7 @@ function postToMail($arr){
 			$out = rtrim($out,', ');
 			
 		}else{ $out = $val; }//チェックボックス（配列）追記ここまで
-		if(get_magic_quotes_gpc()) { $out = stripslashes($out); }
+		if(magicQuotesEnabled()) { $out = stripslashes($out); }
 		
 		//全角→半角変換
 		if($hankaku == 1){
@@ -417,7 +438,7 @@ function confirmOutput($arr){
 			$out = rtrim($out,', ');
 			
 		}else{ $out = $val; }//チェックボックス（配列）追記ここまで
-		if(get_magic_quotes_gpc()) { $out = stripslashes($out); }
+		if(magicQuotesEnabled()) { $out = stripslashes($out); }
 		$out = nl2br(h($out));//※追記 改行コードを<br>タグに変換
 		$key = h($key);
 		
@@ -460,22 +481,27 @@ function connect2val($arr){
 }
 
 //管理者宛送信メールヘッダ
-function adminHeader($userMail,$post_mail,$BccMail,$to){
-	$header = '';
-	if($userMail == 1 && !empty($post_mail)) {
-		$header="From: $post_mail\n";
+function adminHeader($userMail,$post_mail,$BccMail,$to,$from){
+	$headers = array();
+	if(!empty($from)) {
+		$headers[] = "From: ".$from;
 		if($BccMail != '') {
-		  $header.="Bcc: $BccMail\n";
+		  $headers[] = "Bcc: ".$BccMail;
 		}
-		$header.="Reply-To: ".$post_mail."\n";
+		if($userMail == 1 && !empty($post_mail)) {
+			$headers[] = "Reply-To: ".$post_mail;
+		}else {
+			$headers[] = "Reply-To: ".$to;
+		}
 	}else {
 		if($BccMail != '') {
-		  $header="Bcc: $BccMail\n";
+		  $headers[] = "Bcc: ".$BccMail;
 		}
-		$header.="Reply-To: ".$to."\n";
+		$headers[] = "Reply-To: ".$to;
 	}
-		$header.="Content-Type:text/plain;charset=iso-2022-jp\nX-Mailer: PHP/".phpversion();
-		return $header;
+	$headers[] = "Content-Type: text/plain; charset=iso-2022-jp";
+	$headers[] = "X-Mailer: PHP/".phpversion();
+	return implode("\r\n", $headers);
 }
 //管理者宛送信メールボディ
 function mailToAdmin($arr,$subject,$mailFooterDsp,$mailSignature,$encode,$confirmDsp){
@@ -497,23 +523,29 @@ function mailToAdmin($arr,$subject,$mailFooterDsp,$mailSignature,$encode,$confir
 
 //ユーザ宛送信メールヘッダ
 function userHeader($refrom_name,$to,$encode){
-	$reheader = "From: ";
+	$headers = array();
 	if(!empty($refrom_name)){
 		$default_internal_encode = mb_internal_encoding();
 		if($default_internal_encode != $encode){
 			mb_internal_encoding($encode);
 		}
-		$reheader .= mb_encode_mimeheader($refrom_name)." <".$to.">\nReply-To: ".$to;
+		$headers[] = "From: ".mb_encode_mimeheader($refrom_name)." <".$to.">";
 	}else{
-		$reheader .= "$to\nReply-To: ".$to;
+		$headers[] = "From: ".$to;
 	}
-	$reheader .= "\nContent-Type: text/plain;charset=iso-2022-jp\nX-Mailer: PHP/".phpversion();
-	return $reheader;
+	$headers[] = "Reply-To: ".$to;
+	$headers[] = "Content-Type: text/plain; charset=iso-2022-jp";
+	$headers[] = "X-Mailer: PHP/".phpversion();
+	return implode("\r\n", $headers);
 }
 //ユーザ宛送信メールボディ
 function mailToUser($arr,$dsp_name,$remail_text,$mailFooterDsp,$mailSignature,$encode){
 	$userBody = '';
-	if(isset($arr[$dsp_name])) $userBody = "Dear ".h($arr[$dsp_name]). "\n";
+	if(isset($arr[$dsp_name])) {
+		$userName = $arr[$dsp_name];
+		if(isset($arr['Last_Name']) && $arr['Last_Name'] != '') $userName .= ' '.$arr['Last_Name'];
+		$userBody = "Dear ".h($userName). "\n";
+	}
 	$userBody.= $remail_text;
 	$userBody.="\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n";
 	$userBody.= postToMail($arr);//POSTデータを関数からセット
